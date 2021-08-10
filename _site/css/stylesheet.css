@@ -1,0 +1,984 @@
+/* Reset CSS (http://meyerweb.com/eric/tools/css/reset/)
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+@font-face {
+  font-family: HKGrotesk-Black;
+  src: url(fonts/HKGrotesk-Black.otf);
+}
+
+@font-face {
+  font-family: HKGrotesk-Bold;
+  src: url(fonts/HKGrotesk-Bold.otf);
+}
+
+@font-face {
+  font-family: HKGrotesk-Light;
+  src: url(fonts/HKGrotesk-Light.otf);
+}
+
+@font-face {
+  font-family: HKGrotesk-Medium;
+  src: url(fonts/HKGrotesk-Medium.otf);
+}
+
+@font-face {
+  font-family: HKGrotesk-Regular;
+  src: url(fonts/HKGrotesk-Regular.otf);
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video, main {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, main {
+	display: block;
+}
+
+
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Set styles for the page elements 
+   supported by the browser
+*/
+
+html, body {
+  color: #000;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  color: #000;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom-color: rgba(215, 3, 1, 1);
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+h1, h2, h3, h4, h4, h5, h6 {
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  border-bottom: none;
+}
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+  border-bottom: 2px solid rgba(0, 0, 0, 1);
+}
+
+th {
+  border-bottom: 1px solid #d3d3d3;
+  font-weight: bold;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+  vertical-align: top;
+}
+
+strong, b {
+  font-weight: bold;
+}
+
+em, i {
+  font-style: italic;
+}
+
+ul { 
+  list-style-type: disc;
+  list-style-position: outside;
+  margin-left: 30px;
+}
+
+ol { 
+  list-style-type: decimal;
+  list-style-position: outside;
+  margin-left: 30px;
+}
+
+ul ul, ol ul { 
+  list-style-type: circle;
+  list-style-position: outside;
+  margin-left: 30px;
+}
+
+ol ol, ul ol { 
+  list-style-type: lower-latin;
+  list-style-position: outside;
+  margin-left: 30px;
+}
+
+hr {
+  background-color: #d3d3d3;
+  margin: 20px auto;
+}
+
+/* Define the styles for a section 
+   containing an iframe element
+*/
+
+section.iframe-container {
+  overflow: hidden;
+  /* 16:9 aspect ratio */
+  padding-top: 56.25%;
+  position: relative;
+}
+
+section.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+
+/* Set the spacing between common
+   page elements
+*/
+
+p + p, p + h1, p + h2, p + h3, p + h4, p + h5, p + h6, p + figure, p + img, p + figure, p + table, 
+p + ul, p + ol, p + .iframe-container, p + .highlighter-rouge, figure + p, figure + h1, figure + h2, 
+figure + h3, figure + h4, figure + h5, figure + h6, figure + figure, figure + img, figure + table, 
+figure + ul, figure + ol, table + p, table + h1, table + h2, table + h3, table + h4, table + h5, 
+table + h6, table + figure, table + img, table + ul, table + ol, .iframe-container + p, 
+.iframe-container + h1, .iframe-container + h2, .iframe-container + h3, .iframe-container + h4, 
+.iframe-container + h5, .iframe-container + h6, .iframe-container + figure, .iframe-container + img, 
+.iframe-container + .iframe-container, .iframe-container + table, .iframe-container + ul, 
+.iframe-container + ol, .highlighter-rouge + p, .highlighter-rouge + h1, .highlighter-rouge + h2, 
+.highlighter-rouge + h3, .highlighter-rouge + h4, .highlighter-rouge + h5, .highlighter-rouge + h6, 
+.highlighter-rouge + figure, .highlighter-rouge + img, .highlighter-rouge + .highlighter-rouge, 
+.highlighter-rouge + table, .highlighter-rouge + ul, .highlighter-rouge + ol, ul + p, ul + h1, ul + h2, 
+ul + h3, ul + h4, ul + h5, ul + h6, ul + figure, ul + img, ul + figure, ul + table, ul + ul, ul + ol, 
+ul + .iframe-container, ul + .highlighter-rouge, ol + p, ol + h1, ol + h2, ol + h3, ol + h4, ol + h5, 
+ol + h6, ol + figure, ol + img, ol + figure, ol + table, ol + ul, ol + ol, ol + .iframe-container, 
+ol + .highlighter-rouge {
+  margin-top: 25px;
+}
+
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p, h1 + figure, h2 + figure, h3 + figure, h4 + figure, 
+h5 + figure, h6 + figure, h1 + table, h2 + table, h3 + table, h4 + table, h5 + table, h6 + table, 
+h1 + .iframe-container, h2 + .iframe-container, h3 + .iframe-container, h4 + .iframe-container, 
+h5 + .iframe-container, h6 + .iframe-container, img + .iframe-container, figure + .iframe-container, 
+table + .iframe-container, h1 + .highlighter-rouge, h2 + .highlighter-rouge, h3 + .highlighter-rouge, 
+h4 + .highlighter-rouge, h5 + .highlighter-rouge, h6 + .highlighter-rouge, img + .highlighter-rouge, 
+figure + .highlighter-rouge, table + .highlighter-rouge, h1 + img, h2 + img, h3 + img, h4 + img, 
+h5 + img, h6 + img, h1 + ul, h2 + ul, h3 + ul, h4 + ul, h5 + ul, h6 + ul, h1 + ol, h2 + ol, 
+h3 + ol, h4 + ol, h5 + ol, h6 + ol {
+  margin-top: 12px;
+}
+
+/* Style the figure page element and 
+   figcaption used for displaying images
+*/
+
+figure.image {
+  text-align: center;
+}
+
+figure.image figcaption {
+  color: #808080;
+  margin-top: 5px;
+}
+
+/* Begin to style the page structure, 
+   e.g. the container (main), header and
+   footer
+*/
+
+.moreArticlesContainer {
+    display: inline-block;
+    width: 100%;
+}
+
+.moreArticles {
+    font-family: HKGrotesk-Medium;
+    text-align: center;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.navStyle li {
+    font-family: HKGrotesk-Light;
+    display: inline-block;
+    text-align: centre;
+}
+
+.navStyle a {
+    padding: 5px 15px;
+}
+
+.navStyle .active {
+    color: #fff;
+    font-family: HKGrotesk-Light;
+    background: #111111;
+    border-radius: 20px;
+    padding: 5px 15px;
+}
+
+.navStyle a:hover {
+    color: #fff;
+    font-family: HKGrotesk-Light;
+    background: #111111;
+    border-radius: 20px;
+    padding: 5px 15px;
+}
+
+.navStyle .active a {
+    color: #fff;
+}
+
+.moreArticles:hover {
+    text-decoration: underline;
+}
+
+.puzzleContainer {
+    margin-bottom: 30px;
+}
+
+.puzzleGrid {
+    width:33%;
+    float: left;
+    border: 1px solid #111111;
+    margin-left: -1px;
+    margin-top: -1px;
+    min-height: 350px;
+    position: relative;
+}
+
+.puzzleGrid h4 {
+    padding:0px 55px;
+}
+
+.puzzleGrid .article {
+    margin: 0px;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.puzzleGrid p {
+    display: none;
+}
+
+.puzzleIcon {
+    width: 50px;
+    position: absolute;
+    z-index: 9999;
+}
+
+.puzzleGrid:nth-of-type(1) {
+    border-top-left-radius: 10px;
+    background: #111111;
+    color: #fff;
+}
+
+.postsMain .puzzleGrid:nth-of-type(1) {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background: #111111;
+    color: #fff;
+}
+
+.puzzleGrid:nth-of-type(1) .whiteright, .puzzleGrid:nth-of-type(1) .whiteleft, .puzzleGrid:nth-of-type(1) .whiteup, .puzzleGrid:nth-of-type(1) .whitedown  {
+    display: none
+}
+
+.puzzleGrid:nth-of-type(2) .blackright, .puzzleGrid:nth-of-type(2) .blackdown, .puzzleGrid:nth-of-type(2) .whiteleft, .puzzleGrid:nth-of-type(2) .whitedown {
+    display: none
+}
+
+.puzzleGrid:nth-of-type(3) .blackright, .puzzleGrid:nth-of-type(3) .blackdown, .puzzleGrid:nth-of-type(3) .whiteright, .puzzleGrid:nth-of-type(3) .whiteup, .puzzleGrid:nth-of-type(3) .whiteleft {
+    display: none
+}
+
+.puzzleGrid:nth-of-type(4) .blackright, .puzzleGrid:nth-of-type(4) .blackdown, .puzzleGrid:nth-of-type(4) .whiteleft, .puzzleGrid:nth-of-type(4) .whiteup, .puzzleGrid:nth-of-type(4) .whitedown {
+    display: none
+}
+
+.puzzleGrid:nth-of-type(5) .blackright, .puzzleGrid:nth-of-type(5) .blackdown, .puzzleGrid:nth-of-type(5) .whiteright, .puzzleGrid:nth-of-type(5) .whiteup, .puzzleGrid:nth-of-type(5) .whitedown {
+    display: none
+}
+
+.puzzleGrid:nth-of-type(6) .blackright, .puzzleGrid:nth-of-type(6) .blackdown, .puzzleGrid:nth-of-type(6) .whiteright, .puzzleGrid:nth-of-type(6) .whiteup, .puzzleGrid:nth-of-type(6) .whitedown, .puzzleGrid:nth-of-type(6) .whiteleft {
+    display: none
+}
+
+.postsMain .puzzleGrid:nth-of-type(1) .blackdown, .postsMain .puzzleGrid:nth-of-type(3) .whitedown {
+    display: none;
+}
+
+
+.articles {
+    margin-bottom:80px;
+}
+
+
+
+.articles .puzzleGrid:nth-of-type(1) .blackright {
+    top:50%;
+    right: -50px;
+    transform: translateY(-50%);
+    z-index: 99;
+    display: block !important;
+}
+
+.articles .puzzleGrid:nth-of-type(1) .blackdown {
+    left:50%;
+    transform: translateX(-50%);
+    bottom: -50px;
+    z-index: 99;
+    display: block !important;
+}
+
+/* 6n +1 */
+
+.articles .puzzleGrid:nth-of-type(6n+1) .whiteleft {
+    top:50%;
+    right: -50px;
+    transform: translateY(-50%);
+    z-index: 99;
+}
+
+.articles .puzzleGrid:nth-of-type(6n+1) .whitedown {
+    left:50%;
+    transform: translateX(-50%);
+    bottom: -50px;
+    z-index: 99;
+}
+
+.articles .puzzleGrid:nth-of-type(6n+1) .whiteright, .articles .puzzleGrid:nth-of-type(6n+1) .blackright, .articles  .puzzleGrid:nth-of-type(6n+1) .blackdown, .articles  .puzzleGrid:nth-of-type(6n+1) .whiteup  {
+    display: none;
+} 
+
+/* 6n +2 */
+
+.articles .puzzleGrid:nth-of-type(6n+2) .whiteright {
+    top:50%;
+    right: -1px;
+    transform: translateY(-50%);
+    z-index: 99;
+}
+
+.articles .puzzleGrid:nth-of-type(6n+2) .whiteup {
+    left:50%;
+    transform: translateX(-50%);
+    bottom: -1px;
+    z-index: 99;
+}
+
+.articles .puzzleGrid:nth-of-type(6n+2) .whiteleft, .articles .puzzleGrid:nth-of-type(6n+2) .blackright, .articles .puzzleGrid:nth-of-type(6n+2) .blackdown, .articles .puzzleGrid:nth-of-type(6n+2) .whitedown {
+    display: none;
+} 
+
+/* 6n +3 */
+
+.articles .puzzleGrid:nth-of-type(6n+3) .whitedown {
+    left:50%;
+    transform: translateX(-50%);
+    bottom: -50px;
+    z-index: 99;
+}
+
+.articles .puzzleGrid:nth-of-type(6n+3) .whiteright, .articles .puzzleGrid:nth-of-type(6n+3) .whiteleft, .articles .puzzleGrid:nth-of-type(6n+3) .blackright, .articles .puzzleGrid:nth-of-type(6n+3) .blackdown, .puzzleGrid:nth-of-type(6n+3) .whiteup {
+    display: none;
+} 
+
+/* 6n +4 */
+
+.articles .puzzleGrid:nth-of-type(6n+4) .whiteup {
+    left:50%;
+    transform: translateX(-50%);
+    bottom: -1px;
+    z-index: 99;
+    display:block !important;
+}
+
+.articles .puzzleGrid:nth-of-type(6n+4) .whiteright {
+    top:50%;
+    right: -1px;
+    transform: translateY(-50%);
+    z-index: 99;
+}
+
+.articles .puzzleGrid:nth-of-type(6n+4) .whiteleft, .articles .puzzleGrid:nth-of-type(6n+4) .blackright, .articles .puzzleGrid:nth-of-type(6n+4) .blackdown, .articles .puzzleGrid:nth-of-type(6n+4) .whitedown {
+    display: none;
+} 
+
+/* 6n +5 */
+
+.articles .puzzleGrid:nth-of-type(6n+5) .whitedown {
+    left:50%;
+    transform: translateX(-50%);
+    bottom: -50px;
+    z-index: 99;
+    display: block !important;
+}
+
+.articles .puzzleGrid:nth-of-type(6n+5) .whiteleft {
+    top:50%;
+    right: -50px;
+    transform: translateY(-50%);
+    z-index: 99;
+}
+
+.articles .puzzleGrid:nth-of-type(6n+5) .blackright, .articles .puzzleGrid:nth-of-type(6n+5) .blackdown, .articles .puzzleGrid:nth-of-type(6n+5) .whiteup, .articles .puzzleGrid:nth-of-type(6n+5) .whiteright {
+    display: none;
+} 
+
+
+/* 6n +6 */
+
+.articles .puzzleGrid:nth-of-type(6n+6) .whiteup {
+    left:50%;
+    transform: translateX(-50%);
+    bottom: -1px;
+    z-index: 99;
+    display: block !important;
+}
+
+.articles .puzzleGrid:nth-of-type(6n+6) .whiteright, .articles .puzzleGrid:nth-of-type(6n+6) .whiteleft, .articles .puzzleGrid:nth-of-type(6n+6) .blackright, .articles .puzzleGrid:nth-of-type(6n+6) .blackdown, .articles .puzzleGrid:nth-of-type(6n+6) .whitedown {
+    display: none;
+} 
+
+
+
+
+
+.puzzleGrid:nth-of-type(1) .blackright {
+    top:50%;
+    right: -50px;
+    transform: translateY(-50%);
+    z-index: 99;
+}
+
+.puzzleGrid:nth-of-type(1) .blackdown {
+    left:50%;
+    transform: translateX(-50%);
+    bottom: -50px;
+    z-index: 99;
+}
+
+.puzzleGrid:nth-of-type(2) .whiteup {
+    left:50%;
+    transform: translateX(-50%);
+    bottom: -1px;
+    z-index: 99;
+}
+
+.puzzleGrid:nth-of-type(2) .whiteright {
+    top:50%;
+    right: -1px;
+    transform: translateY(-50%);
+    z-index: 99;
+}
+
+.puzzleGrid:nth-of-type(3) .whitedown {
+    left:50%;
+    transform: translateX(-50%);
+    bottom: -50px;
+    z-index: 99;
+}
+
+.puzzleGrid:nth-of-type(4) .whiteright {
+    top:50%;
+    right: -1px;
+    transform: translateY(-50%);
+    z-index: 99;
+}
+
+.puzzleGrid:nth-of-type(5) .whiteleft {
+    top:50%;
+    right: -50px;
+    transform: translateY(-50%);
+    z-index: 99;
+}
+
+
+.puzzleGrid:nth-of-type(1) h4 a, .puzzleGrid:nth-of-type(1) small {
+    color: #fff;
+}
+
+.puzzleGrid:nth-of-type(1) h4 a:hover {
+    text-decoration: underline;
+}
+
+.puzzleGrid:nth-of-type(3) {
+    border-top-right-radius: 10px;
+}
+
+.postsMain .puzzleGrid:nth-of-type(3) {
+    border-bottom-right-radius: 10px;
+}
+
+.puzzleGrid:nth-of-type(4) {
+    border-bottom-left-radius: 10px;
+}
+
+.articles .puzzleGrid:nth-of-type(4) {
+    border-bottom-left-radius: 0px;
+}
+
+.puzzleGrid:nth-of-type(6) {
+    border-bottom-right-radius: 10px;
+}
+
+.articles .puzzleGrid:nth-of-type(6) {
+    border-bottom-right-radius: 0px;
+}
+
+
+.postsMain {
+    overflow: auto;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.mainStyle {
+      margin-top: 100px;
+}
+
+header a {
+  font-weight: normal;
+  border-bottom: none;
+}
+
+header nav {
+    text-align: right;
+}
+
+header nav ul {
+  margin-left: 0;
+}
+
+.introText {
+   margin: 0 auto; 
+   width: 80%;
+}
+
+header nav ul li {
+  display: inline;
+  padding: 16.5px;
+}
+
+.post h2 {
+  color: #111111;
+  font-size: 20px;
+  font-family: HKGrotesk-Bold; 
+}
+
+.about article p a:hover {
+    text-decoration: underline;
+}
+
+.post section.page-header small {
+  color: #111111;
+  font-size: 14px;
+  font-family: HKGrotesk-Light;
+}
+
+
+.post section.page-header2 small {
+  color: #808080;
+  font-size: 14px;
+  font-family: HKGrotesk-Light;
+}
+
+header nav ul li a {
+  color: #111111;
+  font-size: 14px;
+  font-family: HKGrotesk-Light;
+  padding: 0 10px;
+}
+
+header section.logo-title {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.2rem;
+  line-height: 1.3;
+}
+
+footer {
+  color: #808080;
+  margin: 30px 0 10px 0;
+  font-family: HKGrotesk-Light;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+footer .halfDiv {
+    margin-bottom: 40px;
+}
+
+footer a {
+  font-weight: normal;
+  border-bottom: none;
+}
+
+footer nav {
+  margin-bottom: 20px;
+}
+
+footer nav ul {
+  margin-left: 0;
+  float: right;
+}
+
+footer nav ul li {
+  display: inline;
+  margin: 0 20px;
+}
+
+footer nav ul li a {
+  color: #808080;
+  font-family: HKGrotesk-Light;
+}
+
+footer nav ul li a:hover {
+  color: #000;
+}
+
+section.page-header {
+  margin-bottom: 40px;
+  text-align: center;
+  font-family: HKGrotesk-Black;
+  font-size: 40px;
+}
+
+section.page-header2 {
+  margin-bottom: 40px;
+  text-align: center;
+  font-family: HKGrotesk-Black;
+}
+
+
+h4 {
+  text-align: center;
+  font-family: HKGrotesk-Bold;
+  font-size: 20px;
+}
+
+
+
+section.page-header .com {
+  font-family: HKGrotesk-Light;
+  font-size: 20px;
+}
+
+section.page-header .welcometo {
+  font-family: HKGrotesk-Light;
+  font-weight: normal;
+}
+
+.subHeader {
+    text-align: center;
+    font-family: HKGrotesk-Bold;
+    font-size: 25px;
+}
+
+.about article {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.about article p {
+    font-family: HKGrotesk-Regular;
+    font-size: 14px;
+    line-height: 33px;
+}
+
+#logoStyle {
+  font-family: HKGrotesk-Black;
+  font-size: 24px;
+  margin: 10px 0px;
+  display: block;
+}
+
+#logoStyle span {
+  font-family: HKGrotesk-Light;
+  font-size: 12px;
+}
+
+
+
+section.page-header h1 {
+  display: block;
+  margin: 5px 0;
+}
+
+section.page-header small {
+  color: #808080;
+}
+
+summary.article {
+  text-align: center;
+}
+
+summary.article small {
+  color: #808080;
+  font-family: HKGrotesk-Light;
+  font-size: 14px;
+}
+
+summary.article + summary.article {
+  margin-top: 70px;
+}
+
+.article-summary-header {
+  margin-bottom: 12px;
+}
+
+.article-summary-header img {
+  margin-bottom: 5px;
+}
+
+/* Style the related posts */
+section.related-posts h2 {
+  margin: 30px 0 30px 0;
+  text-align: center;
+  font-family: HKGrotesk-Bold;
+  font-size: 20px;
+}
+
+/* Add styles for miscellaneous 
+   page elements here
+*/
+
+div.highlight {
+  font-family:'Courier New', Courier, monospace;
+  overflow: auto;
+  padding: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.top-bumper {
+  margin-top: 35px;
+}
+
+.bottom-bumper {
+  margin-bottom: 35px;
+}
+
+.introText {
+  font-family: HKGrotesk-Regular;
+  font-size: 14px;   
+  line-height: 33px;
+}
+
+
+header {
+    border-bottom: 1px solid #111111;
+    background: #fff;
+    position: fixed;
+    display: block;
+    width: 100%;
+    top: 0;
+    z-index: 999;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.halfDiv {
+    width: 50%;
+    float: left;
+}
+
+.faceicon {
+    border-radius: 200px;
+    background: #E8E8E7;
+    width: 125px;
+    height: 125px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.faceicon img {
+    width: 80%;
+    margin-top: 10px;
+}
+
+/*iphone*/
+
+@media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
+    header {
+        position: relative !important;
+        display: inline-block !important;
+        border-bottom: none !important;
+    }
+    
+    footer .halfDiv {
+        text-align: center !important;
+    }
+    
+    .halfDiv {
+        width: 100% !important;
+        display: block !important;
+    }
+    
+    footer nav ul {
+        float: none !important;
+    }
+    
+    header nav ul li {
+        padding: 2.5px !important;
+    }
+    
+    header nav {
+        text-align: center !important;
+    }
+    
+    #logoStyle {
+        text-align: center !important;ßßßß
+    }
+    
+    .mainStyle {
+        margin-top: 25px !important;
+    }
+    
+    section.page-header {
+        font-size: 30px !important;
+    }
+    
+    main {
+        margin-left: 10px !important;
+        margin-right: 10px !important;
+    }
+    
+    .puzzleGrid {
+        width: 100% !important;
+    }
+    
+    .related-posts .puzzleGrid {
+        width: 99% !important;
+        margin: 0 auto;
+    }
+    
+    .related-posts .puzzleGrid:nth-of-type(2) .whiteup {
+        bottom: -2px !important;
+    }
+    
+    .postsMain .puzzleGrid:nth-of-type(1) {
+        border-bottom-left-radius: 0px !important;
+    }
+    
+        .postsMain .puzzleGrid:nth-of-type(3) {
+        border-bottom-left-radius: 10px !important;
+    }
+    
+    .blackright, .whiteleft {
+        display: none !important;
+    }
+    
+    .puzzleGrid:nth-of-type(1) {
+        border-top-right-radius: 10px !important;
+    }
+    
+    .puzzleGrid:nth-of-type(3) {
+        border-top-right-radius: 0px !important;
+    }
+    
+    .puzzleGrid:nth-of-type(4) {
+        border-bottom-left-radius: 0px !important;
+    }
+    
+    .puzzleGrid:nth-of-type(6) {
+        border-bottom-left-radius: 10px !important;
+    }
+    
+    .articles .puzzleGrid:nth-of-type(6) {
+        border-bottom-left-radius: 0px !important;
+    }
+    
+    .articles .puzzleGrid:nth-of-type(1) .blackright, .articles .puzzleGrid:nth-of-type(1) .whiteleft {
+        display: none !important;
+    }
+}
+
+/*tablet*/
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) { 
+    header nav ul li {
+        display: inline;
+        padding: 16px 5px !important;
+    }
+    
+    main {
+        margin-left: 10px !important;
+        margin-right: 10px !important;
+    }
+    
+    .puzzleGrid {
+        min-height: 300px !important;
+    }
+    
+    summary.article small {
+        font-size: 12px !important;
+    }
+}
+

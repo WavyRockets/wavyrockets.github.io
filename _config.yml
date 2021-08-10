@@ -1,0 +1,103 @@
+# Site settings
+baseurl: ''
+url: 'www.ScrumWithMe.com'
+title: 'ScrumWithMe.com'
+description: 'An online resource for all things Agile'
+author: 'Scott McLintock'
+
+# Build settings
+permalink: /:year/:month/:day/:title/
+plugins: [ jekyll-sitemap, jekyll-feed, jekyll-seo-tag ]
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  style: compressed
+
+# Stylesheets
+stylesheets:
+  - '/css/stylesheet.css'
+  - '/css/syntax.css'
+
+# Google Analytics
+google-analytics:
+  enabled: false
+  id: ''
+
+# The primary language used by the website
+language: 'en'
+
+# Favicon and icons for iOS, Android
+# These should ideally be located in the root directory
+apple-touch-icon: '/apple-touch-icon.png'
+favicon-32: '/favicon-32x32.png'
+favicon-16: '/favicon-16x16.png'
+site-manifest: '/site.webmanifest'
+
+# The logo motif
+logo-motif:
+  enabled: true
+  src: ''
+  width: '135'
+  height: '90'
+
+# The logo title
+logo-title:
+  enabled: true
+
+# Header menu
+header-menu:
+- { name: 'Home', url: '/' }
+- { name: 'About', url: '/about' }
+- { name: 'Articles', url: '/articles' }
+
+# Footer menu
+footer-menu:
+- { name: 'Home', url: '/' }
+- { name: 'About', url: '/about' }
+- { name: 'Articles', url: '/articles' }
+- { name: 'RSS', url: '/feed.xml' }
+
+# Homepage
+homepage:
+  intro-text: 'Agile Development is a methodology that has been implemented within many of the worlds leading tech companies and has spawned various frameworks based on a mindset that makes it easier to plan projects and build effective and successful products. ScrumWithMe.com was created by QA Analyst, Product Owner and Digital Designer, Scott McLintock, with the intention of becoming an online resourse for all things agile as well as documenting the journey to becoming a Scrum Master.'
+  intro-image: 'face_icon.png'
+  latest-articles-enabled: true
+  latest-articles-title-text: 'Latest Articles'
+  latest-articles-link-enabled: true
+  latest-articles-link-url: '/articles'
+  latest-articles-link-text: 'View all articles'
+
+# Articles
+articles:
+  header-text: 'All Articles'
+  excerpt-enabled: true
+  read-more-enabled: true
+  read-more-text: 'Read more'
+ 
+# Navigaition
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Articles
+    url: /articles/
+
+# Post Icons
+icons:
+  enabled: true
+
+# Related posts (only works if you use tags)
+related-posts:
+  enabled: true
+  header-text: 'More articles like this...'
+  limit: 3
+  no-related-articles-text: 'We couldn''t find any similar articles!'
+
+# Written on (post info displayed underneath the H1)
+written-on:
+  enabled: true
+  by-text: 'By'
+  on-text: 'on'

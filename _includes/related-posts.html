@@ -1,0 +1,59 @@
+{% if site.related-posts.enabled and page.tags.size > 0 %}
+<main class="postsMain">
+<section class="related-posts">
+            <h2 class="text-center">{{ site.related-posts.header-text }}</h2>
+            <div class="clearfix"></div>
+            <section class="puzzleContainer">
+    
+            {% assign relatedPosts = 0 %}
+
+            {% for post in site.posts %}
+                {% assign matches = 0 %}
+
+                {% for tag in post.tags %}
+                    {% if post.url != page.url %}
+                        {% if page.tags contains tag %}
+                            {% assign matches = matches | plus: 1 %}
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+
+                {% if matches > 0 %}
+                    <div class="puzzleGrid">
+                    {%
+                        include article-summary.html
+                        url=post.url
+                        title=post.title
+                        date=post.date
+                        icon=post.icon
+                        author=post.author
+                        excerpt=post.excerpt
+                    %}
+                        <img class="puzzleIcon blackright" src="/assets/img/puzzle/blackright.png" />        
+                        <img class="puzzleIcon blackdown" src="/assets/img/puzzle/blackdown.png" />        
+                        <img class="puzzleIcon whitedown" src="/assets/img/puzzle/whitedown.png" /> 
+                        <img class="puzzleIcon whiteup" src="/assets/img/puzzle/whiteup.png" />        
+                        <img class="puzzleIcon whiteleft" src="/assets/img/puzzle/whiteleft.png" /> 
+                        <img class="puzzleIcon whiteright" src="/assets/img/puzzle/whiteright.png" /> 
+                    </div>
+
+                    {% assign relatedPosts = relatedPosts | plus: 1 %}
+
+                    {% if relatedPosts >= site.related-posts.limit %}
+                        {% break %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+
+            {% if relatedPosts == 0 %}
+            <p class="text-center">
+                <small>
+                    {{ site.related-posts.no-related-articles-text }}
+                </small>
+            </p>
+            {% endif %}
+    </section>
+</section>
+</main>
+<div class="clearfix"></div>
+{% endif %}

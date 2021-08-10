@@ -1,0 +1,17 @@
+<footer>
+    <main>
+        <div class="halfDiv">
+              <small><em>© ScrumWithMe {{ 'now' | date: "%Y" }} - Powered by <a target="blank" href="https://jekyllrb.com">Jekyll</a></em></small>
+        </div>
+        <div class="halfDiv">
+              <nav>
+                <ul>
+                    {% for item in site.footer-menu %}
+                    <li><small><a href="{{ item.url }}">{{ item.name }}</a></small></li>
+                    {% endfor %}
+                </ul>
+              </nav>
+        </div>
+        <div class="clearfix"></div>
+    </main>
+</footer>        
