@@ -302,6 +302,7 @@ figure.image figcaption {
     font-style: italic;
     text-align: center;
     font-size: 12px;
+    display: block;
 }
 
 .puzzleGrid h4 {

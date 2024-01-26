@@ -61,7 +61,7 @@ footer-menu:
 
 # Homepage
 homepage:
-  intro-text: 'Scott McLintock is a Product Designer based in Glasgow, Scotland with over ten years experience conceptualising, designing and testing digital products.'
+  intro-text: '<b>Scott McLintock<b> is a <b>Product Designer<b> based in Glasgow, Scotland with over ten years experience conceptualising, designing and testing digital products.'
   intro-image: 'face_icon.png'
   latest-articles-enabled: true
   latest-articles-title-text: 'Latest Articles'
