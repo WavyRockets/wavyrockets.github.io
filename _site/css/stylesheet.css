@@ -298,6 +298,12 @@ figure.image figcaption {
     position: relative;
 }
 
+.dateStyle {
+    font-style: italic;
+    text-align: center;
+    font-size: 12px;
+}
+
 .puzzleGrid h4 {
     padding:0px 55px;
 }
