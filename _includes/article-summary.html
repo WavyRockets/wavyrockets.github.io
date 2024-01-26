@@ -1,4 +1,5 @@
 {% assign title = include.title | default : '' %}
+{% assign date = include.date | default : '' %}
 {% assign url = include.url | default : '' %}
 {% assign icon = include.icon | default : '' %}
 {% assign author = include.author | default : '' %}
@@ -19,7 +20,7 @@
 
         {%
             include written-on.html
-            date=date
+            date=include.date
             author=author
         %}
         
