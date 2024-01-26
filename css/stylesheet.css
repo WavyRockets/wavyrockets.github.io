@@ -874,6 +874,11 @@ header {
         border-bottom: none !important;
     }
     
+   .introText {
+        margin: 0 auto; 
+        width: 80%;
+    }
+    
     footer .halfDiv {
         text-align: center !important;
     }
