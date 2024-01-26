@@ -620,6 +620,10 @@ header nav ul {
    width: 60%;
 }
 
+.introText b {
+    font-weight: bold;
+}
+
 header nav ul li {
   display: inline;
   padding: 16.5px;
