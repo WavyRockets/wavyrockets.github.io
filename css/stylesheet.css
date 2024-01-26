@@ -617,7 +617,7 @@ header nav ul {
 
 .introText {
    margin: 0 auto; 
-   width: 60%;
+   width: 80%;
 }
 
 .introText p span {
@@ -831,7 +831,7 @@ div.highlight {
 
 .introText {
   font-family: HKGrotesk-Regular;
-  font-size: 18px;   
+  font-size: 24px;   
   line-height: 33px;
 }
 
@@ -885,7 +885,7 @@ header {
     
    .introText {
         margin: 0 auto; 
-        width: 80%;
+        width: 90%;
     }
     
     footer .halfDiv {
