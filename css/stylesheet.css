@@ -79,6 +79,13 @@ table {
 	border-spacing: 0;
 }
 
+.dateStyle {
+    font-style: italic;
+    text-align: center;
+    font-size: 12px;
+    display: block !important;
+}
+
 /* Set styles for the page elements 
    supported by the browser
 */
