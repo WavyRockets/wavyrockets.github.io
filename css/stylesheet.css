@@ -620,8 +620,8 @@ header nav ul {
    width: 60%;
 }
 
-.introText span {
-    font-family: HKGrotesk-Bold;
+.introText p span {
+    font-family: HKGrotesk-Bold !important;
 }
 
 header nav ul li {
