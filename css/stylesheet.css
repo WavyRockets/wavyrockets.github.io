@@ -795,10 +795,6 @@ summary.article + summary.article {
   margin-bottom: 12px;
 }
 
-.article-summary-header a {
-    text-decoration: underline;
-}
-
 .article-summary-header img {
   margin-bottom: 5px;
 }
