@@ -820,8 +820,9 @@ div.highlight {
 
 .introText {
   font-family: HKGrotesk-Regular;
-  font-size: 14px;   
+  font-size: 16px;   
   line-height: 33px;
+  margin-top: -10px;
 }
 
 
