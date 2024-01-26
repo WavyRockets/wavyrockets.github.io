@@ -24,7 +24,8 @@
             author=author
         %}
         
-        <p class="dateStyle">{{ date }}</p>
+        <p class="dateStyle">{{ {{ date | date: "%-d %B %Y" }}
+ }}</p>
         
     </section>
     
