@@ -6,8 +6,8 @@
 {% assign excerpt = include.excerpt | default : '' %}
 
 {% if title.size > 0 and url.size > 0 and icon.size > 0 and excerpt.size > 0 %}
+<a href="{{ site.baseurl }}{{ url }}">
 <summary class="article">
-    <a href="{{ site.baseurl }}{{ url }}">
     <section class="article-summary-header">
         {%
             include icon.html
@@ -28,9 +28,10 @@
         <p class="dateStyle">{{ date | date_to_long_string }}</p>
         
     </section>
-    </a>
     {% if site.articles.excerpt-enabled %}
     <p>{{ excerpt | strip_html | normalize_whitespace | truncate: 300 | escape }}{% if site.articles.read-more-enabled %} <a href="{{ site.baseurl }}{{ url }}">{{ site.articles.read-more-text }}</a>{% endif %}</p>
     {% endif %}
 </summary>
+</a>
+
 {% endif %}
