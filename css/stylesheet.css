@@ -903,6 +903,8 @@ header {
     
     header nav ul li {
         padding: 2.5px !important;
+        margin-top: 10px;
+        margin-bottom: -10px;
     }
     
     header nav {
