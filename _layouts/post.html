@@ -18,6 +18,7 @@ permalink: /articles
       <h1 class="subHeader">
         {{ page.title }}
       </h1>
+      <p class="dateStyle">{{ date | date_to_long_string }}</p>
 
       {%
         include written-on.html
