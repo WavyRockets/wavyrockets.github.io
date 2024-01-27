@@ -60,7 +60,7 @@ footer, header, hgroup, menu, nav, section, main {
 }
 
 .puzzleGrid:nth-of-type(1) .svgStyle {
-    filter: invert;
+    filter: invert (1.0);
 }
 
 body {
