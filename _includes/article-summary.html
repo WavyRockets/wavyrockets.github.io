@@ -6,7 +6,6 @@
 {% assign excerpt = include.excerpt | default : '' %}
 
 {% if title.size > 0 and url.size > 0 and icon.size > 0 and excerpt.size > 0 %}
-<a href="{{ site.baseurl }}{{ url }}">
 <summary class="article">
     <section class="article-summary-header">
         {%
@@ -32,6 +31,5 @@
     <p>{{ excerpt | strip_html | normalize_whitespace | truncate: 300 | escape }}{% if site.articles.read-more-enabled %} <a href="{{ site.baseurl }}{{ url }}">{{ site.articles.read-more-text }}</a>{% endif %}</p>
     {% endif %}
 </summary>
-</a>
 
 {% endif %}

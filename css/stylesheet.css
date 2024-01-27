@@ -886,6 +886,7 @@ header {
    .introText {
         margin: 0 auto; 
         width: 90%;
+       margin-top: -10px;
     }
     
     footer .halfDiv {
