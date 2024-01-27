@@ -1,2 +1,13 @@
 deep-fried:
   src: /assets/img/icons/deep-fried.png
+  
+puzzle:
+  src: /assets/img/icons/puzzle.svg
+  
+monitor:
+  src: /assets/img/icons/monitor.svg
+  
+library:
+  src: /assets/img/icons/library.svg
+  
+  
