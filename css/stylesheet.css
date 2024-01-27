@@ -874,18 +874,6 @@ header {
     margin-top: 3px;
 }
 
-.svgStyle {
-    color: #000000;
-}
-
-.svgStyle {
-    color: #000000;
-}
-
-.puzzleGrid:nth-of-type(1) .svgStyle {
-    color: #ffffff;
-}
-
 /*iphone*/
 
 @media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
