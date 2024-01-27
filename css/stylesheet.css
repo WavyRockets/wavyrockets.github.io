@@ -60,7 +60,7 @@ footer, header, hgroup, menu, nav, section, main {
 }
 
 .puzzleGrid:nth-of-type(1) .svgStyle {
-    color: #ffffff !important;
+    fill: #ffffff !important;
 }
 
 body {
