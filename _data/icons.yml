@@ -36,5 +36,12 @@ system:
   
 designer:
   src: /assets/img/icons/designer.svg
+   
+form:
+  src: /assets/img/icons/form.svg
   
+persona:
+  src: /assets/img/icons/persona.svg
+    
+
   

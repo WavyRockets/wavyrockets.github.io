@@ -4,7 +4,7 @@ date: 2024-03-26 14:52:00:00 +00:00
 author: Scott
 layout: post
 image: /assets/img/icons/puzzle.svg
-icon: puzzle
+icon: persona
 tags: design
 ---
 
