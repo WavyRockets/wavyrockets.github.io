@@ -1,5 +1,5 @@
 ---
-title: "Redesign Case Study"
+title: "New Feature Case Study"
 date: 2023-07-28 14:52:00:00 +00:00
 author: Scott
 layout: post

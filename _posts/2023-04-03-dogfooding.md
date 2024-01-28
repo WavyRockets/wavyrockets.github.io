@@ -1,6 +1,6 @@
 ---
 title: "Dogfooding"
-date: 2021-04-03 14:52:00:00 +00:00
+date: 2023-04-03 14:52:00:00 +00:00
 author: Scott
 layout: post
 image: /assets/img/2021/06/deep-fried.png
