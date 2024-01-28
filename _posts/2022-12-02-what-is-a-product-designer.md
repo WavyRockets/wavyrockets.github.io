@@ -1,10 +1,10 @@
 ---
-title: "Pattern Libraries"
-date: 2024-01-15 14:52:00:00 +00:00
+title: "What is a Product Designer?"
+date: 2022-12-02 14:52:00:00 +00:00
 author: Scott
 layout: post
-image: /assets/img/icons/library.svg
-icon: library
+image: /assets/img/2021/06/deep-fried.png
+icon: designer
 tags: theory
 ---
 

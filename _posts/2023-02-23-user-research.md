@@ -1,6 +1,6 @@
 ---
 title: "User Research"
-date: 2023-11-25 14:52:00:00 +00:00
+date: 2023-02-23 14:52:00:00 +00:00
 author: Scott
 layout: post
 image: /assets/img/2021/06/deep-fried.png
