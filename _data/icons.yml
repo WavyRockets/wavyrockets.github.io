@@ -10,4 +10,31 @@ monitor:
 library:
   src: /assets/img/icons/library.svg
   
+search:
+  src: /assets/img/icons/search.svg
+  
+gears:
+  src: /assets/img/icons/gears.svg
+  
+bone:
+  src: /assets/img/icons/bone.svg
+  
+pencil:
+  src: /assets/img/icons/pencil.svg
+  
+graduation:
+  src: /assets/img/icons/graduation.svg
+  
+thumb:
+  src: /assets/img/icons/thumb.svg
+  
+userflow:
+  src: /assets/img/icons/userflow.svg
+  
+system:
+  src: /assets/img/icons/system.svg
+  
+designer:
+  src: /assets/img/icons/designer.svg
+  
   
