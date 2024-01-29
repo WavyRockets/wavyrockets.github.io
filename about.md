@@ -3,7 +3,63 @@ layout: page
 title: "About Scott McLintock"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum dignissim condimentum. Duis tempor nisl ac mauris pellentesque iaculis. Nam semper suscipit urna sit amet eleifend. Phasellus sit amet lorem sed lacus pulvinar pulvinar. Phasellus sagittis ullamcorper eros, non ornare magna mollis vitae. Donec vitae mauris sit amet mi maximus pharetra. Phasellus id quam eget urna maximus pellentesque. Ut fermentum risus lectus, et consectetur neque elementum scelerisque. Mauris porta egestas velit eu ultrices. Maecenas feugiat placerat cursus. Praesent congue, mauris ut luctus tempor, lacus tellus molestie diam, sit amet vestibulum nunc dui sit amet ligula. Nunc ultrices erat euismod neque convallis sagittis. Suspendisse ipsum orci, ullamcorper rutrum lacus ac, porttitor pharetra nulla.
+Giki 
 
-Suspendisse laoreet facilisis dignissim. Nulla vulputate, nisi eu rhoncus consequat, ante lacus pharetra nulla, sit amet gravida diam tellus vel turpis. Sed lobortis facilisis augue, eu tristique lorem efficitur elementum. Duis nec consectetur libero, commodo finibus felis. Aliquam fermentum nibh in turpis tincidunt, vitae elementum orci convallis. Nulla quis ullamcorper arcu, vel aliquam lorem. Cras elementum purus lectus, a fermentum ipsum porta vel. Nunc non lorem malesuada, volutpat neque eu, facilisis leo. Integer dapibus massa sem, ac feugiat velit luctus ut.
+QA / Product Designer 
+January 2022 - Present 
 
+- Lead the product design process 
+- Design and test wireframes 
+- Develop a comprehensive UI library 
+- Maintain design systems and brand guidelines 
+- Develop UI prototypes for testing 
+- Building strong testing processes
+- Monitor and reporting of bugs 
+
+The Boxoffice Company 
+
+QA / Product Owner
+January 2017 - December 2021 
+
+- Identify the requirements of an automated testing platform that covers the entire client booking suite 
+- Design the user flow and automation interface 
+- Write development specifications 
+- Manage the product roadmap 
+- Testing websites for problems and performance issues 
+- Documenting all bugs and functionality 
+- Ensuring all bugs are resolved before release 
+- Writing manual and automated test plans 
+- Ensuring all functionality, design and UX are implemented accordingly 
+
+Front End Developer 
+June 2015 - January 2017 
+
+- Responsible for implementing the user interface of new websites and features 
+- Fixing and maintaining bugs 
+
+Mine Digital 
+
+Digital Designer 
+June 2012 - June 2015
+
+- Responsive web and mobile design and development
+- Developing front end websites 
+- Graphic design for brochures, banners and flyers 
+- Branding and logo creation 
+- Email campaign design and development 
+
+Junior Designer
+September 2011 - June 2012 
+
+- Web and print design 
+- Branding 
+- Content creation 
+
+Creative Oceanic 
+
+Design Intern 
+January 2011 - June 2011 
+
+- Content creation 
+- Web design and development 
+- Brand creation 
