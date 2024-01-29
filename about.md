@@ -3,7 +3,7 @@ layout: page
 title: "About Scott McLintock"
 ---
 
-Scott McLintock was born and raised on the outskirts of Glasgow, Scotland where he achieved an honours degree in Multimedia Technologies. He began his career as a design intern working for Glasgow based digital agency Creative Oceanic. Throughout this six month period he gained his first taste of what it would it was like working in the technology sector while still a student in university. 
+Scott McLintock was born and raised on the outskirts of Glasgow, Scotland where he achieved an honours degree in Multimedia Technologies. He began his career as a design intern working for Glasgow based digital agency Creative Oceanic. Throughout this six month period he gained his first taste of what it would it was like working in the technology sector while he was still a student in university. 
 
 After graduating from the West of Scotland University, Scott began work as a Junior Designer for another Glasgow based digital agency, Mine Digital. During his time there he was responsible for all aspects of design ranging from branding, print and web design. He soon advanced to the role of Digital Designer where he developed the necessary programming skills for implementing the user interfaces he designed.
 
