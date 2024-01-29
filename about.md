@@ -3,69 +3,10 @@ layout: page
 title: "About Scott McLintock"
 ---
 
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+Scott McLintock was born and raised just outside of Glasgow, Scotland where he achieved an honours degree in Multimedia Technologies. He began his career as a design intern for Glasgow based digital agency Creative Oceanic where he first gained experience working in the technology sector whilst still in university. 
 
-Giki 
+After graduating from the West of Scotland University, Scott began work as a Junior Designer for another Glasgow based digital agency named Mine Digital. Here, he was responsible for all aspects of design ranging from branding, print and web design and soon advanced to the role of Digital Designer where he developed the necessary programming skills for implementing the user interface that he was responsible for designing. 
 
-QA / Product Designer 
-January 2022 - Present 
+With a keen interest in developing his understanding of responsive and mobile first design, Scott pursued a role in front end development with The Box Office Company where he helped develop a new booking platform that was rolled out to over 50 cinemas across the globe. After identifying the need for an internal automation suite to cover all scenarios of the booking platform, Scott moved over to a QA / Product Owner role where he was responsible for quality assurance as well as the overall vision of the testing suite. This required developing more advanced skills in product design, product management as well as manual and automated testing.
 
-- Lead the product design process 
-- Design and test wireframes 
-- Develop a comprehensive UI library 
-- Maintain design systems and brand guidelines 
-- Develop UI prototypes for testing 
-- Building strong testing processes
-- Monitor and reporting of bugs 
-
-The Boxoffice Company 
-
-QA / Product Owner
-January 2017 - December 2021 
-
-- Identify the requirements of an automated testing platform that covers the entire client booking suite 
-- Design the user flow and automation interface 
-- Write development specifications 
-- Manage the product roadmap 
-- Testing websites for problems and performance issues 
-- Documenting all bugs and functionality 
-- Ensuring all bugs are resolved before release 
-- Writing manual and automated test plans 
-- Ensuring all functionality, design and UX are implemented accordingly 
-
-Front End Developer 
-June 2015 - January 2017 
-
-- Responsible for implementing the user interface of new websites and features 
-- Fixing and maintaining bugs 
-
-Mine Digital 
-
-Digital Designer 
-June 2012 - June 2015
-
-- Responsive web and mobile design and development
-- Developing front end websites 
-- Graphic design for brochures, banners and flyers 
-- Branding and logo creation 
-- Email campaign design and development 
-
-Junior Designer
-September 2011 - June 2012 
-
-- Web and print design 
-- Branding 
-- Content creation 
-
-Creative Oceanic 
-
-Design Intern 
-January 2011 - June 2011 
-
-- Content creation 
-- Web design and development 
-- Brand creation 
+Eager to expand his knowledge of product design and UX, Scott completed a Google UX Design Certificate and began a career working with Giki where he currently holds the position of QA/ Product Designer responsible for the full design process including wireframing, prototyping and user interface design.
