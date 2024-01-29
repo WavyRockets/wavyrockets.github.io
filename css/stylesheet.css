@@ -609,6 +609,11 @@ main {
       margin-top: 100px;
 }
 
+.mainStyle .about a {
+    font-weight: normal; 
+    text-decoration: underline;
+}
+
 header a {
   font-weight: normal;
   border-bottom: none;
