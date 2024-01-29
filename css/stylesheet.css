@@ -609,9 +609,9 @@ main {
       margin-top: 100px;
 }
 
-.mainStyle .about a {
-    font-weight: normal; 
-    text-decoration: underline;
+.about article a {
+    font-weight: normal !important; 
+    text-decoration: underline !important;
 }
 
 header a {
