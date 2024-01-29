@@ -3,9 +3,9 @@ layout: page
 title: "About Scott McLintock"
 ---
 
-Scott McLintock was born and raised just outside of Glasgow, Scotland where he achieved an honours degree in Multimedia Technologies. He began his career as a design intern for Glasgow based digital agency Creative Oceanic where he first gained experience working in the technology sector whilst still in university. 
+Scott McLintock was born and raised on the outskirts of Glasgow, Scotland where he achieved an honours degree in Multimedia Technologies. He began his career as a design intern for Glasgow based digital agency Creative Oceanic where he first gained experience working in the technology sector whilst still in university. 
 
-After graduating from the West of Scotland University, Scott began work as a Junior Designer for another Glasgow based digital agency named Mine Digital. Here, he was responsible for all aspects of design ranging from branding, print and web design and soon advanced to the role of Digital Designer where he developed the necessary programming skills for implementing the user interface that he was responsible for designing. 
+After graduating from the West of Scotland University, Scott began work as a Junior Designer for another Glasgow based digital agency named Mine Digital. Here, he was responsible for all aspects of design ranging from branding, print and web design and soon advanced to the role of Digital Designer where he developed the necessary programming skills for implementing the user interfaces he designed. 
 
 With a keen interest in developing his understanding of developing responsive user interfaces, Scott pursued a role in front end development with The Box Office Company, a worldwide organisation dedicated to the cinema industry, where he helped develop a new booking platform that was rolled out to over 50 cinemas across the globe. After identifying the need for an internal automation suite to cover all testing scenarios of the booking platform, Scott moved over to a QA / Product Owner role where he was responsible for quality assurance as well as the overall vision of the testing suite. This required developing more advanced skills in product design, product management as well as manual and automated testing.
 
