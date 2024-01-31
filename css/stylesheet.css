@@ -918,7 +918,7 @@ header {
         bottom: 0;
     }
     
-    .puzzleGrid:nth-of-type(3) .whiteup {
+    .puzzleGrid:nth-of-type(4) .whiteup {
         display: block !important;
         position: absolute;
         margin-left: auto;
