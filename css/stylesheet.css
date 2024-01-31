@@ -888,7 +888,8 @@ header {
 
 /*iphone*/
 
-@media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
+@media only screen and (max-width: 480px) {
+
     header {
         position: relative !important;
         display: inline-block !important;
