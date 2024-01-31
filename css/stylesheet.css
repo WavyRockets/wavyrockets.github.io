@@ -898,6 +898,13 @@ header {
     
     .puzzleGrid:nth-of-type(6) .whitedown {
         display: block !important;
+        position: absolute;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+        text-align: center;
+        top: -1px;
     }
     
    .introText {
