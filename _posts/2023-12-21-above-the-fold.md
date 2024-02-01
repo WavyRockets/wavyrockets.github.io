@@ -8,7 +8,22 @@ icon: monitor
 tags: design
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum dignissim condimentum. Duis tempor nisl ac mauris pellentesque iaculis. Nam semper suscipit urna sit amet eleifend. Phasellus sit amet lorem sed lacus pulvinar pulvinar. Phasellus sagittis ullamcorper eros, non ornare magna mollis vitae. Donec vitae mauris sit amet mi maximus pharetra. Phasellus id quam eget urna maximus pellentesque. Ut fermentum risus lectus, et consectetur neque elementum scelerisque. Mauris porta egestas velit eu ultrices. Maecenas feugiat placerat cursus. Praesent congue, mauris ut luctus tempor, lacus tellus molestie diam, sit amet vestibulum nunc dui sit amet ligula. Nunc ultrices erat euismod neque convallis sagittis. Suspendisse ipsum orci, ullamcorper rutrum lacus ac, porttitor pharetra nulla.
+Above the fold design
+While ‘above the fold’ now refers to the content that is visible on a screen, this wasn’t always the case. The term originates from print media at a time when newspapers were folded before being placed on the newsstand. This led to a trend that is still being followed to this day, where publishers began placing the most eye-catching headlines above the fold in the hopes that it would grab the attention of passersby.
 
-Suspendisse laoreet facilisis dignissim. Nulla vulputate, nisi eu rhoncus consequat, ante lacus pharetra nulla, sit amet gravida diam tellus vel turpis. Sed lobortis facilisis augue, eu tristique lorem efficitur elementum. Duis nec consectetur libero, commodo finibus felis. Aliquam fermentum nibh in turpis tincidunt, vitae elementum orci convallis. Nulla quis ullamcorper arcu, vel aliquam lorem. Cras elementum purus lectus, a fermentum ipsum porta vel. Nunc non lorem malesuada, volutpat neque eu, facilisis leo. Integer dapibus massa sem, ac feugiat velit luctus ut.
+In modern day product design, we have adopted a similar approach for all content that’s visible when the page first loads. We do this to improve conversion rates as well as the overall user experience by helping the user to find what it is they are looking for. This is why any content that appears off the screen should be considered of less importance or ‘below the fold’. 
+
+<img src="/assets/img/assets/img/icons/monitor.svg"/>
+
+With digital products, we have the added complication of screens existing in all shapes and sizes. This is where analytics can be used to determine what brands and devices are most frequently used to access your product. If this is not possible, market research should be carried out on similar products to help narrow this down. 
+    
+In the example shown above I have taken the browser bar and start menu into account to demonstrate how much space the browser and operating system dominate on the page. 
+
+<img src="/assets/img/assets/img/icons/monitor.svg"/>
+    
+Through AB testing, designers are able to determine the best layout. This is achieved by experimenting with different layouts and comparing the conversion rates of each to see which layout produces the best result.
+
+In the above design you can see how I have determined the level of importance of the fun fact to be higher than that of the feature image, but of lower importance than the questions. By removing the image altogether, I have ensured that the fun fact will remain above the fold on desktop and have decreased the scroll time on mobile. 
+
+
 
