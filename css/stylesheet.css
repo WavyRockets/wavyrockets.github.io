@@ -595,7 +595,7 @@ figure.image figcaption {
     border-bottom-right-radius: 0px;
 }
 
-.post im;g {
+.post img {
     width: 100%;
 }
 
@@ -759,7 +759,7 @@ section.page-header .welcometo {
 }
 
 .about article {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
 }
 
