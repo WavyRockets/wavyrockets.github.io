@@ -8,7 +8,7 @@ icon: monitor
 tags: design
 ---
 
-While ‘above the fold’ now refers to the content that is visible on a screen, this wasn’t always the case. The term originates from print media at a time when newspapers were folded before being placed on the newsstand. This led to a trend that is still being followed to this day, where publishers began placing the most eye-catching headlines above the fold in the hopes that it would grab the attention of passersby.
+The term 'above the fold' originates from print media at a time when newspapers were folded before being placed on the newsstand. This led to a trend that is still being followed to this day, where publishers began placing the most eye-catching headlines above the fold in the hopes that it would grab the attention of passersby.
 
 In modern day product design, we have adopted a similar approach for all content that is visible when the page first loads. We do this to improve conversion rates as well as the overall user experience by helping the user to find what it is they are looking for. This is why any content that appears off the screen should be considered of less importance or ‘below the fold’. 
 
