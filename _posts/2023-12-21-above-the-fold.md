@@ -20,7 +20,7 @@ In the example shown above I have taken the browser bar and start menu into acco
 
 Through AB testing, designers are able to determine which layout will produce the best results. This is achieved by experimenting with different layouts and comparing the conversion rates of each to see which layout produces the best result. In the above design you can see how I have determined the level of importance of the fun fact to be higher than that of the feature image, but of lower importance than the questions. By removing the image altogether, I have ensured that the fun fact will remain above the fold on desktop and have decreased the scroll time on mobile. I have also removed the dominating progress bar and updated the questions to use dropdown menus instead of lists demonstrating the variety of updates that can be made to improve the user experience. 
 
-While 'above the fold' thinking should be factored into each design, this is only one of a number of ways you can improve your user experience. Other examples include consistent [Design Patterns](/2023/10/16/design-systems/), being aware of [Best Practices](/2023/11/23/form-best-practices/) to implement, and better understanding your [User Requirements](/2023/03/26/user-personas/). 
+While 'above the fold' thinking should be factored into each design, this is only one of a number of ways you can improve your user experience. Other examples include consistent [Design Patterns](/2023/10/16/design-systems/), being aware of [Best Practices](/2023/11/23/form-best-practices/), and better understanding your [User Requirements](/2023/03/26/user-personas/). 
 
 
 
