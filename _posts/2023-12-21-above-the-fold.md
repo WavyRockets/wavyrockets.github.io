@@ -12,7 +12,9 @@ The term 'above the fold' originates from print media at a time when newspapers 
 
 <img src="/assets/img/abovethefold1.png"/>
 
-With digital products, we have the added complication of screens existing in all shapes and sizes. This is where analytics can be used to determine what brands and devices are most frequently used to access your product. If this is not possible, market research should be carried out on similar products to help narrow this down. In the example shown above I have taken the browser bar and start menu into account to demonstrate how much space the browser and operating system dominate on the page. 
+With digital products, we have the added complication of screens existing in all shapes and sizes. This is where analytics can be used to determine what brands and devices are most frequently used to access your product. If this is not possible, market research should be carried out on similar products to help narrow this down. 
+
+In the example shown above I have taken the browser bar and start menu into account to demonstrate how much space the browser and operating system dominate on the page. 
 
 <img src="/assets/img/abovethefold2.png"/>
 
