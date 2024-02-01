@@ -173,6 +173,9 @@ ol {
     background: #ffffff;
     width: 100%;
     border-radius: 10px;
+    display: block;
+    margin-top: 20px;
+    margin-top: 20px;
 }
 
 ul ul, ol ul { 
