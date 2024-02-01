@@ -18,7 +18,7 @@ With digital products, we have the added complication of screens existing in all
 
 <img src="/assets/img/abovethefold2.png"/>
 
-Through AB testing, designers are able to determine the best layout. This is achieved by experimenting with different layouts and comparing the conversion rates of each to see which layout produces the best result.
+Through AB testing, designers are able to determine which layout will produce the best results. This is achieved by experimenting with different layouts and comparing the conversion rates of each to see which layout produces the best result.
 
 In the above design you can see how I have determined the level of importance of the fun fact to be higher than that of the feature image, but of lower importance than the questions. By removing the image altogether, I have ensured that the fun fact will remain above the fold on desktop and have decreased the scroll time on mobile. 
 
