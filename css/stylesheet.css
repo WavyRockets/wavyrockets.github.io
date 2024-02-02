@@ -37,7 +37,7 @@
     color: #ffffff !important;
 }
 
-.puzzleGrid:nth-of-type(8) img {
+.puzzleGrid:nth-of-type(8) .svgStyle {
     filter: invert(100%) !important;
 }
 
