@@ -81,6 +81,20 @@ q:before, q:after {
 	content: none;
 }
 
+.puzzleGrid:nth-of-type(8) {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.puzzleGrid:nth-of-type(8) a {
+    color: #ffffff;
+}
+
+.puzzleGrid:nth-of-type(8) img {
+    filter: invert(100%);
+}
+
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
