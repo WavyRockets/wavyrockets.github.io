@@ -1,5 +1,5 @@
 ---
-title: "Getting Started in UX"
+title: "Google UX Certificate"
 date: 2023-01-05 14:52:00:00 +00:00
 author: Scott
 layout: post
