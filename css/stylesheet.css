@@ -923,6 +923,17 @@ header {
 
 @media only screen and (max-width: 600px) {
     
+    .puzzzleContainer.home .puzzleGrid:nth-of-type(4) .whiteup {
+        display: block !important;
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        bottom: -1px;
+    }
+
     .post .gif {
         width: 100% !important;
     }
