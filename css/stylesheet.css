@@ -963,8 +963,6 @@ header {
     .puzzleGrid:nth-of-type(4) .whiteup {
         display: block !important;
         position: absolute;
-        margin-left: auto;
-        margin-right: auto;
         left: 0;
         right: 0;
         text-align: center;
