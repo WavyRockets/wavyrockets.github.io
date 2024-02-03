@@ -22,7 +22,7 @@ Through AB testing, designers are able to determine which layout will produce th
 
 In the above design you can see how I have determined the level of importance of the fun fact to be higher than that of the feature image, but of lower importance than the questions. By removing the image altogether, I have ensured that the fun fact will remain above the fold on desktop and have decreased the scroll time on mobile. I have also removed the dominating progress bar and updated the questions to use dropdown menus instead of lists. 
 
-While 'above the fold' thinking should be factored into each design, this is only one of a number of ways you can improve your user experience. Other examples include consistent [Design Patterns](/2023/10/16/design-systems/), being aware of [Best Practices](/2022-12-02-form-best-practices/), and better understanding your [User Requirements](/2023/03/26/user-personas/). 
+While 'above the fold' thinking should be factored into each design, this is only one of a number of ways you can improve your user experience. Other examples include consistent [Design Patterns](/2023/10/16/design-systems/), being aware of [Best Practices](/2022/12/02/form-best-practices/), and better understanding your [User Requirements](/2023/03/26/user-personas/). 
 
 
 
