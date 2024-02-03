@@ -43,5 +43,8 @@ form:
 persona:
   src: /assets/img/icons/persona.svg
     
+accessibility:
+  src: /assets/img/icons/accessibility.svg
+    
 
   
