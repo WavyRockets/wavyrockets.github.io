@@ -639,6 +639,10 @@ main {
   padding-left: 0px;
 }
 
+.puzzleGrid:nth-of-type(8) a:hover {
+	text-decoration: underline;
+}
+
 .mainStyle {
       margin-top: 100px;
 }
