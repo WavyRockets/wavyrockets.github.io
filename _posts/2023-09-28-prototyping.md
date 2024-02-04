@@ -8,11 +8,11 @@ icon: gears
 tags: theory
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum dignissim condimentum. Duis tempor nisl ac mauris pellentesque iaculis. Nam semper suscipit urna sit amet eleifend. Phasellus sit amet lorem sed lacus pulvinar pulvinar. Phasellus sagittis ullamcorper eros, non ornare magna mollis vitae. Donec vitae mauris sit amet mi maximus pharetra. 
+A prototype is the first step towards developing an idea into a functioning product and can be used to demonstrate or test a new concept before it is released to the public. Another advantage is that they are inexpensive and quick to produce, saving time and money by solving problems sooner rather than later.
+
+There are various levels of prototyping that range from low, mid and high-fidelity, which describe the level of simplicity that goes into making them. A low-fidelity prototype, for example, could be as simple as drawings on a piece of paper whereas high-fidelity prototypes can often be as detailed and interactive as the final product. The more simple prototypes are useful for quick turn around and tend to focus more on the user flow than the user interface whereas the more advanced prototypes help to give a more realistic feel of what will eventually be developed. 
 <div class="gifblock">
     <img src="/assets/img/prototype.gif" class="gif"/>
 </div>
-Phasellus id quam eget urna maximus pellentesque. Ut fermentum risus lectus, et consectetur neque elementum scelerisque. Mauris porta egestas velit eu ultrices. Maecenas feugiat placerat cursus. Praesent congue, mauris ut luctus tempor, lacus tellus molestie diam, sit amet vestibulum nunc dui sit amet ligula. Nunc ultrices erat euismod neque convallis sagittis. Suspendisse ipsum orci, ullamcorper rutrum lacus ac, porttitor pharetra nulla.
-
-Suspendisse laoreet facilisis dignissim. Nulla vulputate, nisi eu rhoncus consequat, ante lacus pharetra nulla, sit amet gravida diam tellus vel turpis. Sed lobortis facilisis augue, eu tristique lorem efficitur elementum. Duis nec consectetur libero, commodo finibus felis. Aliquam fermentum nibh in turpis tincidunt, vitae elementum orci convallis. Nulla quis ullamcorper arcu, vel aliquam lorem. Cras elementum purus lectus, a fermentum ipsum porta vel. Nunc non lorem malesuada, volutpat neque eu, facilisis leo. Integer dapibus massa sem, ac feugiat velit luctus ut.
+As a Product Designer, I often create prototypes throughout each phase of the product development by using various different methods to demonstrate user flows and interactions such as sketching, Figma or even through the use of code. Regardless, they are an essential part of the development lifecycle and something no product should be without. 
 
