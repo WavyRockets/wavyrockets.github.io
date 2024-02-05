@@ -294,6 +294,10 @@ figure.image figcaption {
     font-size: 18px;
 }
 
+.gifblock .moreArticles {
+    color: #ffffff;
+}
+
 .navStyle li {
     font-family: HKGrotesk-Light;
     display: inline-block;
