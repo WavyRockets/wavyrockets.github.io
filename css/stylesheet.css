@@ -295,7 +295,13 @@ figure.image figcaption {
 }
 
 .gifblock .moreArticles {
-    color: #ffffff;
+    color: #ffffff !important;
+    text-align: center !important;
+    text-decoration: none !important;
+}
+
+.gifblock .moreArticles:hover {
+    text-decoration: underline !important;
 }
 
 .navStyle li {
