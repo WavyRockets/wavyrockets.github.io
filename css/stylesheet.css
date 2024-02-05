@@ -294,13 +294,13 @@ figure.image figcaption {
     font-size: 18px;
 }
 
-.gifblock .moreArticles {
-    color: #ffffff !important;
+.prototypemoreArticles {
     text-align: center !important;
-    text-decoration: none !important;
+    text-decoration: underline !important;
 }
 
-.gifblock .moreArticles:hover {
+
+.prototypemoreArticles:hover {
     text-decoration: underline !important;
 }
 
