@@ -15,5 +15,5 @@ There are various levels of prototyping that range from low, mid and high-fideli
     <img src="/assets/img/prototype.gif" class="gif"/>
 </div>
 
-As a Product Designer, I often create prototypes throughout each phase of the product development by using various different methods to demonstrate user flows and interactions such as sketching, Figma or even through the use of code. They are an essential part of the development lifecycle and something no product should be without. <a href="https://www.figma.com/proto/ano4JpbGQUmL9dQhwlHaUb/Onboarding-Improvements?type=design&node-id=246-4527&viewport=88%2C2985%2C0.29&t=y764G2ozSecs1uAk-0&scaling=scale-down&starting-point-node-id=246%3A4527" target="_blank">Test this prototype</a> to discover more. 
+As a Product Designer, I often create prototypes throughout each phase of the product development by using various different methods to demonstrate user flows and interactions. They are an essential part of the development lifecycle and something no product should be without. <a href="https://www.figma.com/proto/ano4JpbGQUmL9dQhwlHaUb/Onboarding-Improvements?type=design&node-id=246-4527&viewport=88%2C2985%2C0.29&t=y764G2ozSecs1uAk-0&scaling=scale-down&starting-point-node-id=246%3A4527" target="_blank">Test this prototype</a> to discover more. 
 
