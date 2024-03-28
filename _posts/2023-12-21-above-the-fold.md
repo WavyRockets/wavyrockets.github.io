@@ -18,7 +18,7 @@ In the example shown above I have taken the browser bar and start menu into acco
 
 <img src="/assets/img/abovethefold2.png"/>
 
-Through AB testing, designers are able to determine which layout will produce the higher conversion rate. This is achieved by experimenting with different layouts and comparing the conversion rates of each to see which produces the best result. 
+Through AB testing, designers are able to determine which layout will produce the highest conversion rate. This is achieved by experimenting with different layouts and comparing the conversion rates of each to see which produces the best result. 
 
 In the above design you can see how I have determined the level of importance of the fun fact to be higher than that of the feature image, but of lower importance than the questions. By removing the image altogether, I have ensured that the fun fact will remain above the fold on desktop and have decreased the scroll time on mobile. I have also removed the dominating progress bar and updated the questions to use dropdown menus instead of lists.
 
