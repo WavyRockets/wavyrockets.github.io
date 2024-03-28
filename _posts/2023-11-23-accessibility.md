@@ -14,4 +14,4 @@ Like the many different types of users, there are best practices to consider for
 
 <img src="/assets/img/colourcontrast.png" class="gif"/>
 
-Colour contrast plays a large role [...]
+Colour contrast plays a large role in people’s ability to perceive the information on a page. While it's best to avoid sharp and bright colours for those with autism, it is also important to check the contrast between the background and foreground. This applies to text of different sizes as well as graphical objects and user interface components and can be checked via an online colour checker. This will help determine if the contrast between the colours is above or below the recommdended minimum of 4.5:1.
