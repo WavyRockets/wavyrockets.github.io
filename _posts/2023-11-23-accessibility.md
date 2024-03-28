@@ -10,7 +10,7 @@ tags: theory
 
 Accessible design is the process of ensuring that digital products are inclusive and user-friendly for everyone. This can be achieved by implementing a number of design practices to accommodate the different limitations that users may have. These practices determine the level of conformance that a product adheres to: A (lowest), AA (mid range), and AAA (highest).
 
-Like the many different types of users, there are best practices to consider for each of the different impairments when designing digital products. These vary based on whether a user is on the autistic spectrum, requires the use of screen readers, has poor vision, have physical or motor disabilities, are deaf or hard of hearing, or have dyslexia. Below are some examples that have been used to adhear to these types of impairments. 
+Like the many different types of users, there are best practices to consider for each of the different impairments when designing digital products. These vary based on whether a user is on the autistic spectrum, requires the use of a screen reader, has poor vision, have physical or motor disabilities, are deaf or hard of hearing, or have dyslexia. Below are some examples that I have used in the past. 
 
 <img src="/assets/img/colourcontrast.png" class="gif"/>
 
