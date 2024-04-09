@@ -21,7 +21,7 @@ Elements such as navigation bars and footers are a great example of patterns tha
 Below is the process I use to maintain a successful pattern library:
 
 1. Identify the existing patterns that are required for a page and what new ones need created
-2. Design the new patterns by referencing the [Design Systems](/2023/10/16/design-systems/) 3. and [accessibility best practices](/2023/11/23/accessibility/) 
+2. Design the new patterns by referencing the [Design Systems](/2023/10/16/design-systems/)  and [accessibility best practices](/2023/11/23/accessibility/) 
 4. Test the pattern with users and get sign off  
 5. Maintain and update patterns when necessary 
 
