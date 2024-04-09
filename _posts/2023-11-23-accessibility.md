@@ -20,4 +20,4 @@ Colour contrast plays a large role in people’s ability to perceive the informa
 
 The above poster demonstrates all the different ways you can design with accessibility in mind. Several of these best practices have been put in place in the designs below, from descriptive buttons, using large and clickable actions, keeping content short and clear, as well as strong colour contrast.
 
-<img src="/assets/img/poster.png" class="gif"/>
+<img src="/assets/img/components.png" class="gif"/>
