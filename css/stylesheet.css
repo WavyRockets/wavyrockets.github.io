@@ -808,9 +808,15 @@ section.page-header .welcometo {
     margin: 0 auto;
 }
 
-.about article p, .about aricle ul li {
+.about article p {
     font-family: HKGrotesk-Regular;
     font-size: 16px;
+    line-height: 33px;
+}
+
+.about aricle ul li {
+    font-family: HKGrotesk-Regular;
+    font-size: 16px !important;
     line-height: 33px;
 }
 
