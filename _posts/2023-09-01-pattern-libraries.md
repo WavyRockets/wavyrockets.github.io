@@ -14,15 +14,16 @@ Many people confuse the term Pattern Library with [Design System](/2023/10/16/de
 
 Elements such as navigation bars and footers are a great example of patterns that are repeated a lot that rarely change. Without a pattern library, designers will often find themselves digging through old designs and copying and pasting elements to suit their needs. With a pattern library, these kinds of elements can be accessible at all times and dragged and dropped into Figma.
 
-<div class="gifblock">
-    <img src="/assets/img/patternlibrary.gif" class="gif"/>
-</div>
-
 Below is the process I use to maintain a successful pattern library:
 
 * Identify the existing patterns that are required for a page and what new ones need created
 * Design the new patterns by referencing the Design Systems and [accessibility best practices](/2023/11/23/accessibility/) 
 * Test the pattern with users and get sign off  
 * Maintain and update patterns when necessary 
+
+<div class="gifblock">
+    <img src="/assets/img/patternlibrary.gif" class="gif"/>
+</div>
+
 
 
