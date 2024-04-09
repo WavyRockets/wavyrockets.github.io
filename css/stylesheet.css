@@ -820,6 +820,12 @@ section.page-header .welcometo {
     line-height: 33px;
 }
 
+.about aricle ul li {
+    font-family: HKGrotesk-Regular;
+    font-size: 16px !important;
+    line-height: 33px;
+}
+
 #logoStyle {
   font-family: HKGrotesk-Bold;
   font-size: 24px;
