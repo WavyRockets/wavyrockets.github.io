@@ -16,6 +16,8 @@ Like the many different types of users, there are best practices to consider for
 
 Colour contrast plays a large role in people’s ability to perceive the information on a page. While it's best to avoid sharp and bright colours for those with autism, it is also important to check the contrast between the background and foreground for users that suffer a colour vision deficiency. This applies to text of different sizes as well as graphical objects and user interface components which can be checked via an [Online Colour Checker](https://colourcontrast.cc/). This will help determine if the contrast between the colours is above or below the recommdended minimum of 4.5:1.
 
-<img src="/assets/img/components.png" class="gif"/>
+<img src="/assets/img/poster.png" class="gif"/>
 
-[...]
+The above poster demonstrates all the different ways you can design with accessibility in mind. Several of these best practices have been put in place in the designs below, from descriptive buttons, using large and clickable actions, keeping content short and clear, as well as strong colour contrast.
+
+<img src="/assets/img/poster.png" class="gif"/>
