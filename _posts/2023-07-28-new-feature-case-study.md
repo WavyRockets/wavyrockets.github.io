@@ -24,7 +24,7 @@ I was tasked to resolve this issue and to find a way that will get users into th
 
 <h2>Approach</h2>
 
-My first task was to break down the problem statement into the different problems that would need solved as part of this project. This required defining the types of users that are likely to play a part in this issue:
+My first task was to break down the problem statement into the different problems that would need solved as part of this project. This required defining the type of users that are likely to play a part in this issue:
 
 * How can we ensure new users join the correct team when signing up?
 * How can we ensure existing users are sorted into the correct team having already signed up?
