@@ -10,7 +10,7 @@ tags: design
 
 <h2>Problem Statement</h2> 
 
-As an organisation, I want users added into teams because they aren't joining when prompted
+As an organisation, I want users sorted into their correct teams because they aren't joining when prompted
 
 <h2>Description</h2>
 
