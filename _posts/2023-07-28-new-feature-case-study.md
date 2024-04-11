@@ -8,11 +8,11 @@ icon: puzzle
 tags: design
 ---
 
-Problem Statement 
+<h2>Problem Statement</h2> 
 
 As an organisation, I want users added into teams because they aren't joining when prompted
 
-Description 
+<h2>Description</h2>
 
 Giki Zero is an engagement platform that allows staff to calculate their carbon footprint and take sustainable steps to lower their footprint. Often, challenges are run where teams can compete to see who can take the most steps. 
 
@@ -22,5 +22,5 @@ I was tasked to resolve this issue and to find a way that will get users into th
 
 <img src="/assets/img/jointeams.png"/>
 
-Approach
+<h2>Approach</h2>
 
