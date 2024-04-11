@@ -8,7 +8,19 @@ icon: puzzle
 tags: design
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum dignissim condimentum. Duis tempor nisl ac mauris pellentesque iaculis. Nam semper suscipit urna sit amet eleifend. Phasellus sit amet lorem sed lacus pulvinar pulvinar. Phasellus sagittis ullamcorper eros, non ornare magna mollis vitae. Donec vitae mauris sit amet mi maximus pharetra. Phasellus id quam eget urna maximus pellentesque. Ut fermentum risus lectus, et consectetur neque elementum scelerisque. Mauris porta egestas velit eu ultrices. Maecenas feugiat placerat cursus. Praesent congue, mauris ut luctus tempor, lacus tellus molestie diam, sit amet vestibulum nunc dui sit amet ligula. Nunc ultrices erat euismod neque convallis sagittis. Suspendisse ipsum orci, ullamcorper rutrum lacus ac, porttitor pharetra nulla.
+Problem Statement 
 
-Suspendisse laoreet facilisis dignissim. Nulla vulputate, nisi eu rhoncus consequat, ante lacus pharetra nulla, sit amet gravida diam tellus vel turpis. Sed lobortis facilisis augue, eu tristique lorem efficitur elementum. Duis nec consectetur libero, commodo finibus felis. Aliquam fermentum nibh in turpis tincidunt, vitae elementum orci convallis. Nulla quis ullamcorper arcu, vel aliquam lorem. Cras elementum purus lectus, a fermentum ipsum porta vel. Nunc non lorem malesuada, volutpat neque eu, facilisis leo. Integer dapibus massa sem, ac feugiat velit luctus ut.
+As an organisation, I want users added into teams because they aren't joining when prompted
+
+Description 
+
+Giki Zero is an engagement platform that allows staff to calculate their carbon footprint and take sustainable steps to lower their footprint. Often, challenges are run where teams can compete to see who can take the most steps. 
+
+Previously, the only way to join a team was through the Join Teams page which users would often ignore. To resolve this, compulsory teams were introduced that would force a user onto the join teams page where a user would need to select their team before they could access any other pro functionality on the platform. The problem here was that users would often join the wrong team or none at all and just stop engageing with the plaform altogether. 
+
+I was tasked to resolve this issue and to find a way that will get users into the correct team without interfering with the users engagement. 
+
+<img src="/assets/img/jointeams.png"/>
+
+Approach
 
