@@ -46,6 +46,9 @@ By updating the problem statement, I was able to establish control over team ass
 
 In order to assign new users to a team, we tested wireframe concepts with existing admin users where users would be assigned a team at the invitation stage. We also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
 
+<img src="/assets/img/wireframecasestudy.png"/>
+
+
 <div class="gifblock">
     <img src="/assets/img/casestudy.gif" class="gif"/>
 </div>
