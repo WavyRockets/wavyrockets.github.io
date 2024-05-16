@@ -10,7 +10,7 @@ tags: design
 
 <h2>Summary</h2>
 
-Giki Zero is an engagement platform that allows staff to calculate their carbon footprint and take sustainable steps to lower it. Often, challenges are run where teams can compete to see who can take the most steps.
+Giki Zero is an engagement platform that allows staff to calculate their carbon footprint and take sustainable steps to lower it. Often, challenges are run where users can compete to see who can take the most steps.
 
 Previously, the only way to join a team was through the Join Teams page which users would often ignore, or by automating this process via subscribing to Single-Sign-On which some organisations were unable or unwilling to do. To try and resolve this, Giki introduced a ‘compulsory teams’ setting that would force a user onto the Join Teams page where a user would then need to select their team before they could access any other Pro functionality on the platform. The problem here was that users would often join the wrong team or none at all and then stop engaging with the platform altogether. They had also tested various ideas such as introducing this during the onboarding process or as a pop up which all failed to solve the problem.
 
@@ -45,6 +45,7 @@ By updating the problem statement, I was able to establish control over team ass
 * How can we ensure an admin user has the ability to assign existing users to a team?
 
 In order to assign new users to a team, we tested wireframe concepts with existing admin users where users would be assigned a team at the invitation stage. We also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
+
 <div class="imgblock">
     <img src="/assets/img/wireframecasestudy.png"/>
 </div>
