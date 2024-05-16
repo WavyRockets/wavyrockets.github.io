@@ -31,5 +31,25 @@ My first task was to break down the problem statement into the different issues 
 * How can we ensure existing users are sorted into the correct team after already signing up?
 * How can we ensure the engagement of all users isn’t impacted by the changes made?
 
-My next task was to carry out market research on platforms that have similar functionality. This...
+My next task was to carry out market research on platforms that have similar functionality. This required defining the type of users that were likely to be impacted by this problem:
 
+* How can we ensure new users join the correct team when signing up?
+* How can we ensure existing users are sorted into the correct team after already signing up?
+* How can we ensure the engagement of all users isn’t impacted by the changes made?
+
+My next task was to carry out market research on platforms that have similar functionality. This led me to discover that, in the vast majority of cases, the assignment of teams is the responsibility of an admin user and not the user themselves which played a large role in changing the spec. 
+
+[image]
+
+By updating the problem statement, I was able to establish control over team assignment, as well as keeping with the original requirements by not interfering with user engagement: 
+
+* How can we ensure an admin user has the ability to assign a new user to a team?
+* How can we ensure an admin user has the ability to assign existing users to a team?
+
+In order to assign new users to a team, we tested concepts with existing admin users where users would be assigned a team at the invitation stage. We also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
+
+[image]
+
+<h2>Results</h2>
+
+After implementing the signed off designs, team related complaints dropped from several times per month to zero, client satisfaction improved significantly and a new potential sales opportunity was identified in which team specific challenges could now be integrated. This would allow Giki to sell challenges to individual teams within an organisation as well as team vs team. 
