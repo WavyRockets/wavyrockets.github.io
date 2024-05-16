@@ -39,8 +39,6 @@ My next task was to carry out market research on platforms that have similar fun
 
 My next task was to carry out market research on platforms that have similar functionality. This led me to discover that, in the vast majority of cases, the assignment of teams is the responsibility of an admin user and not the user themselves which played a large role in changing the spec. 
 
-[image]
-
 By updating the problem statement, I was able to establish control over team assignment, as well as keeping with the original requirements by not interfering with user engagement: 
 
 * How can we ensure an admin user has the ability to assign a new user to a team?
@@ -48,7 +46,9 @@ By updating the problem statement, I was able to establish control over team ass
 
 In order to assign new users to a team, we tested concepts with existing admin users where users would be assigned a team at the invitation stage. We also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
 
-[image]
+<div class="gifblock">
+    <img src="/assets/img/casestudy.gif" class="gif"/>
+</div>
 
 <h2>Results</h2>
 
