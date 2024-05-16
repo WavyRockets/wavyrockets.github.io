@@ -44,7 +44,7 @@ By updating the problem statement, I was able to establish control over team ass
 * How can we ensure an admin user has the ability to assign a new user to a team?
 * How can we ensure an admin user has the ability to assign existing users to a team?
 
-In order to assign new users to a team, we tested concepts with existing admin users where users would be assigned a team at the invitation stage. We also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
+In order to assign new users to a team, we tested wireframe concepts with existing admin users where users would be assigned a team at the invitation stage. We also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
 
 <div class="gifblock">
     <img src="/assets/img/casestudy.gif" class="gif"/>
