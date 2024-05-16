@@ -48,11 +48,10 @@ In order to assign new users to a team, we tested wireframe concepts with existi
 
 <img src="/assets/img/wireframecasestudy.png"/>
 
+<h2>Results</h2>
+
+After implementing the signed off designs, team related complaints dropped from several times per month to zero, client satisfaction improved significantly and a new potential sales opportunity was identified in which team specific challenges could now be integrated. This would allow Giki to sell challenges to individual teams within an organisation as well as team vs team.
 
 <div class="gifblock">
     <img src="/assets/img/casestudy.gif" class="gif"/>
 </div>
-
-<h2>Results</h2>
-
-After implementing the signed off designs, team related complaints dropped from several times per month to zero, client satisfaction improved significantly and a new potential sales opportunity was identified in which team specific challenges could now be integrated. This would allow Giki to sell challenges to individual teams within an organisation as well as team vs team. 
