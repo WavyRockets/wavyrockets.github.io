@@ -957,6 +957,10 @@ header {
 
 @media only screen and (max-width: 600px) {
     
+    .imgblock img {
+        width: 100%;
+    }
+    
     .home .puzzleGrid:nth-of-type(4) .whiteup {
         display: block !important;
         position: absolute;
