@@ -1,6 +1,6 @@
 ---
 title: "Wireframing"
-date: 2023-05-15 14:52:00:00 +00:00
+date: 2023-07-28 14:52:00:00 +00:00
 author: Scott
 layout: post
 image: /assets/img/2021/06/deep-fried.png
