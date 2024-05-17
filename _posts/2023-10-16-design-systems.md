@@ -8,7 +8,12 @@ icon: system
 tags: design
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum dignissim condimentum. Duis tempor nisl ac mauris pellentesque iaculis. Nam semper suscipit urna sit amet eleifend. Phasellus sit amet lorem sed lacus pulvinar pulvinar. Phasellus sagittis ullamcorper eros, non ornare magna mollis vitae. Donec vitae mauris sit amet mi maximus pharetra. Phasellus id quam eget urna maximus pellentesque. Ut fermentum risus lectus, et consectetur neque elementum scelerisque. Mauris porta egestas velit eu ultrices. Maecenas feugiat placerat cursus. Praesent congue, mauris ut luctus tempor, lacus tellus molestie diam, sit amet vestibulum nunc dui sit amet ligula. Nunc ultrices erat euismod neque convallis sagittis. Suspendisse ipsum orci, ullamcorper rutrum lacus ac, porttitor pharetra nulla.
+Design Systems are an important part of product development that help to enforce consistency in all aspect of the product development and promotion. They can be a central point of documentation for everything from design components, brand guidelines, language consistency and even development protocols. It is a good way to document tried and tested patterns which can save you having to reinvent the wheel.
 
-Suspendisse laoreet facilisis dignissim. Nulla vulputate, nisi eu rhoncus consequat, ante lacus pharetra nulla, sit amet gravida diam tellus vel turpis. Sed lobortis facilisis augue, eu tristique lorem efficitur elementum. Duis nec consectetur libero, commodo finibus felis. Aliquam fermentum nibh in turpis tincidunt, vitae elementum orci convallis. Nulla quis ullamcorper arcu, vel aliquam lorem. Cras elementum purus lectus, a fermentum ipsum porta vel. Nunc non lorem malesuada, volutpat neque eu, facilisis leo. Integer dapibus massa sem, ac feugiat velit luctus ut.
+At Giki I led the way to establishing a central source of documentation that was referenced and updated by numerous teams to ensure that consistency was maintained wherever possible. This not only helped maintain an AA level of accessibility conformance when developing the product, but also ensured that content produced for blogs, emails and social media was consistent throughout.
+
+To begin creating Design Systems from scratch, it is recommended that you identify and prioritise recurring components (ensure that you are only documenting those that are successful and work well with the product). You will also want to make sure you work alongside the engineering team when creating any documentation and have one person take lead over the documentation to make sure all new updates are in line with those that are already existing. 
+
+<img src="/assets/img/designsystems.png"/>
+
 
