@@ -5,7 +5,7 @@ author: Scott
 layout: post
 image: /assets/img/icons/puzzle.svg
 icon: puzzle
-tags: casestudy, theory, testing
+tags: casestudy, testing
 ---
 
 <h2>Summary</h2>
