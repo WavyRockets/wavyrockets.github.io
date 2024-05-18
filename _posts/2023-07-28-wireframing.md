@@ -5,7 +5,7 @@ author: Scott
 layout: post
 image: /assets/img/2021/06/deep-fried.png
 icon: pencil
-tags: testing
+tags: testing, design
 ---
 
 Wireframes are commonly used in product design to layout the content and functionality of a page before having to implement the brand and visual guidelines. They are a quick alternative to UI design allowing designers to test different layouts and user flows.
