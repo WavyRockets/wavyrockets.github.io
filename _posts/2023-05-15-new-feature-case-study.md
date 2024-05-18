@@ -22,7 +22,6 @@ I was tasked to resolve this issue and to find a way that would get users into t
 
 As an organisation, I want users sorted into their correct teams because they currently aren’t joining when prompted.
 
-
 <h2>Approach</h2>
 
 My first task was to break down the problem statement into the different issues that would need to be solved as part of this project. This required defining the type of users that were likely to be impacted by this problem:
