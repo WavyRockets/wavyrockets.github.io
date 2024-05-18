@@ -22,7 +22,6 @@ I was tasked to resolve this issue and to find a way that would get users into t
 
 As an organisation, I want users sorted into their correct teams because they currently aren’t joining when prompted.
 
-
 <h2>Approach</h2>
 
 My first task was to break down the problem statement into the different issues that would need to be solved as part of this project. This required defining the type of users that were likely to be impacted by this problem, developing user personas with the needs and requirements of each.
@@ -39,7 +38,7 @@ By updating the problem statement, I was able to establish control over team ass
 * How can we ensure an admin user has the ability to assign a new user to a team?
 * How can we ensure an admin user has the ability to assign existing users to a team?
 
-In order to assign new users to a team, I reviewed the user flow to establish the best place for these updates to feature and tested wireframe concepts with existing admin users where users would be assigned a team at the invitation stage. We also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
+In order to assign new users to a team, I reviewed the user flow to establish the best place for these updates to feature and referred to the engineering team to find out any limitations before testing wireframe concepts with existing admin users where users would be assigned a team at the invitation stage. I also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
 
 <div class="imgblock">
     <img src="/assets/img/wireframecasestudy.png"/>
