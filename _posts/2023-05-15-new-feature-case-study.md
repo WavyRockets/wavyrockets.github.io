@@ -5,7 +5,7 @@ author: Scott
 layout: post
 image: /assets/img/icons/puzzle.svg
 icon: puzzle
-tags: design
+tags: casestudy, design
 ---
 
 <h2>Summary</h2>
