@@ -5,7 +5,7 @@ author: Scott
 layout: post
 image: /assets/img/icons/library.svg
 icon: library
-tags: theory
+tags: theory, design
 ---
 
 Design can be a repetitive task but you don’t need to reinvent the wheel with every new interface when you already have assets that have been tried and tested. Pattern Libraries are a great way to reuse existing designs that will save you time as well as maintaining consistency. 

@@ -5,7 +5,7 @@ author: Scott
 layout: post
 image: /assets/img/2021/06/deep-fried.png
 icon: accessibility
-tags: theory
+tags: theory, testing
 ---
 
 Accessible design is the process of ensuring that digital products are inclusive and user-friendly for everyone. This can be achieved by implementing a number of design practices to accommodate the different impairments that users may have. These practices determine the level of conformance that a product adheres to: A (lowest), AA (mid range), and AAA (highest).
