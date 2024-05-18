@@ -25,11 +25,12 @@ As an organisation, I want users sorted into their correct teams because they cu
 
 <h2>Approach</h2>
 
-My first task was to break down the problem statement into the different issues that would need to be solved as part of this project. This required defining the type of users that were likely to be impacted by this problem:
+My first task was to break down the problem statement into the different issues that would need to be solved as part of this project. This required defining the type of users that were likely to be impacted by this problem, developing user personas with the needs and requirements of each.
 
 * How can we ensure new users join the correct team when signing up?
 * How can we ensure existing users are sorted into the correct team after already signing up?
 * How can we ensure the engagement of all users isn’t impacted by the changes made?
+* How can we ensure all types of users join the correct teams?
 
 My next task was to carry out market research on platforms that have similar functionality. This led me to discover that, in the vast majority of cases, the assignment of teams is the responsibility of an admin user and not the user themselves which played a large role in changing the spec. 
 
