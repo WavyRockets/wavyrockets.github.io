@@ -5,13 +5,17 @@ title: "Portfolio"
 <style>
 .lb-album{
 	width: 100%;
+    display: table;
 	margin: 0 auto;
 	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: none;
+
 }
 .lb-album li{
 	float: left;
 	margin: 5px;
 	position: relative;
+    list-style-type: none;
 }
 .lb-album li > a,
 .lb-album li > a img{
