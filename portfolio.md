@@ -162,8 +162,8 @@ title: "Portfolio"
                 <h3>pointe</h3>
                 <p>Dance performed on the tips of the toes</p>
             </div>
+            <a href="#page" class="lb-close">Close</a>    
         </div>
-        <a href="#page" class="lb-close">Close</a>    
 	</li>
 	<li> 
 		<!-- ... --> 
