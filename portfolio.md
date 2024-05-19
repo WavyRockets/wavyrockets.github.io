@@ -156,15 +156,14 @@ title: "Portfolio"
 			<img src="/assets/img/designsystems.png" alt="image01">
 			<span>Pointe</span>
 		</a>
-		<a href="#page" class="lb-close">
-            <div class="lb-overlay" id="image-1">
-                <img src="/assets/img/designsystems.png" alt="image01" />
-                <div>
-                    <h3>pointe</h3>
-                    <p>Dance performed on the tips of the toes</p>
-                </div>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <div>
+                <h3>pointe</h3>
+                <p>Dance performed on the tips of the toes</p>
             </div>
-        </a>    
+        </div>
+        <a href="#page" class="lb-close">Close</a>    
 	</li>
 	<li> 
 		<!-- ... --> 
