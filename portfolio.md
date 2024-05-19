@@ -109,21 +109,20 @@ title: "Portfolio"
 }
 
 .lb-overlay a.lb-close{
-	background: rgba(27,54,81,0.8);
 	z-index: 1001;
-	color: #fff;
+	color: #000000;
 	position: absolute;
 	top: 100px;
 	left: 50%;
 	font-size: 15px;
 	line-height: 26px;
 	text-align: center;
-	width: 50px;
+	width: 124px;
 	height: 23px;
 	overflow: scroll;
 	margin-left: -25px;
 	opacity: 0;
-	box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+    font-family: HKGrotesk-Regular;
 }
 
 .lb-overlay:target {
