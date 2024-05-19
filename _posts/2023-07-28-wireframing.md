@@ -10,7 +10,7 @@ tags: testing, design
 
 <h2>What are wireframes?</h2>
 
-Wireframes are commonly used in product design to layout the content and functionality of a page before having to implement the brand and visual guidelines. They are a quick alternative to UI design allowing designers to test different layouts and user flows.
+Wireframes are commonly used in product design to layout the content and functionality of a page before having to implement the brand and visual guidelines. They are a quick alternative to UI design allowing designers to test different layouts and [user flows](/2023/04/28/user-flow-diagrams/).
 
 <h2>Experience</h2>
 
