@@ -161,7 +161,7 @@ title: "Portfolio"
   100% { transform: scale(1); opacity: 1; }
 }
 </style>
-<h2>Giki Zero</h2> 
+<h2>Giki Zero: Employee Engagement Platform</h2> 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur ornare sapien vitae facilisis sagittis. 
 
@@ -206,7 +206,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu orci suscipi
 	</li>
 </ul>
 
-<h2>Giki Scope 3 Emissions</h2> 
+<h2>Giki ES3: Scope 3 Emissions Service</h2> 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur ornare sapien vitae facilisis sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
@@ -261,7 +261,7 @@ Aliquam eu orci suscipit, cursus metus vitae, maximus nisi. Sed iaculis gravida 
 	</li>
 </ul>
 
-<h2>Boost Automation</h2> 
+<h2>Boost NightRider: Automated Testing Platform</h2> 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. 
 
