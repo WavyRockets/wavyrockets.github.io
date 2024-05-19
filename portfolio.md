@@ -14,7 +14,7 @@ title: "Portfolio"
 }
 .lb-album li{
 	float: left;
-	margin: 5px;
+	margin-right: 20px;
 	position: relative;
     list-style-type: none;
 }
