@@ -29,6 +29,7 @@ title: "Portfolio"
 	padding: 10px;
 	background: #F5F5F5;
 	border-radius: 4px;
+    margin-bottom: 20px;
 }
 
 .lb-album li > a span{
