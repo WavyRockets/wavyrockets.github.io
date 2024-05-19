@@ -125,6 +125,27 @@ title: "Portfolio"
 	opacity: 0;
 	box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
 }
+
+.lb-overlay:target {
+	width: auto;
+	height: auto;
+	bottom: 0px;
+	right: 0px;
+	padding: 80px 100px 120px 100px;
+}
+
+.lb-overlay:target img,
+.lb-overlay:target a.lb-close{
+	opacity: 1;
+}
+
+.lb-overlay:target img {
+	animation: fadeInScale 1.2s ease-in-out;
+}
+@keyframes fadeInScale {
+  0% { transform: scale(0.6); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
 </style>
 <ul class="lb-album">
 	<li>
