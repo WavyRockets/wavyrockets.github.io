@@ -5,10 +5,10 @@ author: Scott
 layout: post
 image: /assets/img/2021/06/deep-fried.png
 icon: userflow
-tags: testing, design
+tags: testing, theory
 ---
 
-<h2>What is a user flow diagram?</h2>
+<h2>What is a User Flow Diagram?</h2>
 
 The user flow is the journey a user embarks on when they first arrive on your product. Often this begins with a homepage and leads to the registration followed by some variation of the onboarding process. Mapping this journey out in form of a diagram can be a useful way to put your designs into perspective and highlight the different scenarios within the journey. They are particularly useful when there are multiple entry points, when a product has various levels of complexity or when you have multiple platforms connected to each other. 
 
