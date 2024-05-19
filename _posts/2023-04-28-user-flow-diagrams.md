@@ -12,7 +12,7 @@ tags: testing, design
 
 The user flow is the journey a user embarks on when they first arrive on your product. Often this begins with a homepage and leads to the registration followed by some variation of the onboarding process. Mapping this journey out in form of a diagram can be a useful way to put your designs into perspective and highlight the different scenarios within the journey. They are particularly useful when there are multiple entry points, when a product has various levels of complexity or when you have multiple platforms connected to each other. 
 
-Like wireframes, UI designs and prototypes, the user flow diagram can and should be tested to ensure they flow correctly and solve the problems you are trying to fix. 
+Like [wireframes](/2023/07/28/wireframing/), UI designs and [prototypes](/2023/09/28/prototyping/), the user flow diagram can and should be tested to ensure they flow correctly and solve the problems you are trying to fix. 
 
 <h2>Experience</h2>
 
