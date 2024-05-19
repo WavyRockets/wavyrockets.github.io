@@ -16,7 +16,7 @@ Like [wireframes](/2023/07/28/wireframing/) and [prototypes](/2023/09/28/prototy
 
 <h2>Experience</h2>
 
-I have found having a user flow diagram especially useful in the past when reviewing user feedback. A perfect example is when users complained that the onboarding journey of Giki Zero was too long. To improve this user flow, I was able to work with the engineering team to highlight what points of the user flow users were dropping off and get an idea of the maximum number of steps and clicks a user is likely to put up with.
+I have found having a user flow diagram especially useful in the past when reviewing user feedback. A perfect example is when users complained that the onboarding journey of Giki Zero was too long. To improve this user flow, I was able to work with the engineering team to highlight what points of the flow they were dropping off and get an idea of the maximum number of steps and clicks a user is likely to put up with.
 
 User flow diagrams have also been useful when demonstrating the user journey to developers  instead of having them make assumptions based off the designs.
 
