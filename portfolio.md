@@ -163,6 +163,58 @@ title: "Portfolio"
   100% { transform: scale(1); opacity: 1; }
 }
 </style>
+<h2>Giki Zero</h2> 
+
+As an organisation, I want users sorted into their correct teams because they currently aren’t joining when prompted.
+
+<ul class="lb-album">
+	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+			<span>Pointe</span>
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <div>
+                <h3>pointe</h3>
+                <p>Dance performed on the tips of the toes</p>
+            </div>
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+	<li> 
+		<!-- ... --> 
+	</li>
+</ul>
+
+<h2>Giki Scope 3 Emissions</h2> 
+
+As an organisation, I want users sorted into their correct teams because they currently aren’t joining when prompted.
+
+<ul class="lb-album">
+	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+			<span>Pointe</span>
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <div>
+                <h3>pointe</h3>
+                <p>Dance performed on the tips of the toes</p>
+            </div>
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+	<li> 
+		<!-- ... --> 
+	</li>
+</ul>
+
+<h2>Boost Automation</h2> 
+
+As an organisation, I want users sorted into their correct teams because they currently aren’t joining when prompted.
+
 <ul class="lb-album">
 	<li>
 		<a href="#image-1">
