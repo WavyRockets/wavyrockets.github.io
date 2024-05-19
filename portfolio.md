@@ -22,7 +22,7 @@ title: "Portfolio"
 	height: 150px;
 	position: relative;
 	padding: 10px;
-	background: #f1d2c2;
+	background: #F5F5F5;
 	box-shadow: 1px 1px 2px #fff, 1px 1px 2px rgba(158,111,86,0.3) inset;
 	border-radius: 4px;
 }
@@ -154,14 +154,15 @@ title: "Portfolio"
 			<img src="/assets/img/designsystems.png" alt="image01">
 			<span>Pointe</span>
 		</a>
-		<div class="lb-overlay" id="image-1">
-			<img src="/assets/img/designsystems.png" alt="image01" />
-			<div>
-                <h3>pointe</h3>
-				<p>Dance performed on the tips of the toes</p>
-			</div>
-			<a href="#page" class="lb-close">x Close</a>
-		</div>
+		<a href="#page" class="lb-close">
+            <div class="lb-overlay" id="image-1">
+                <img src="/assets/img/designsystems.png" alt="image01" />
+                <div>
+                    <h3>pointe</h3>
+                    <p>Dance performed on the tips of the toes</p>
+                </div>
+            </div>
+        </a>    
 	</li>
 	<li> 
 		<!-- ... --> 
