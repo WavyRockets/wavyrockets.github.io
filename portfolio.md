@@ -173,14 +173,9 @@ Donec dictum vulputate mi, ac malesuada eros aliquet quis. Mauris orci diam, bla
 	<li>
 		<a href="#image-1">
 			<img src="/assets/img/designsystems.png" alt="image01">
-			<span>Pointe</span>
 		</a>
         <div class="lb-overlay" id="image-1">
             <img src="/assets/img/designsystems.png" alt="image01" />
-            <div>
-                <h3>pointe</h3>
-                <p>Dance performed on the tips of the toes</p>
-            </div>
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
@@ -200,14 +195,9 @@ Aliquam eu orci suscipit, cursus metus vitae, maximus nisi. Sed iaculis gravida 
 	<li>
 		<a href="#image-1">
 			<img src="/assets/img/designsystems.png" alt="image01">
-			<span>Pointe</span>
 		</a>
         <div class="lb-overlay" id="image-1">
             <img src="/assets/img/designsystems.png" alt="image01" />
-            <div>
-                <h3>pointe</h3>
-                <p>Dance performed on the tips of the toes</p>
-            </div>
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
@@ -227,14 +217,9 @@ Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur 
 	<li>
 		<a href="#image-1">
 			<img src="/assets/img/designsystems.png" alt="image01">
-			<span>Pointe</span>
 		</a>
         <div class="lb-overlay" id="image-1">
             <img src="/assets/img/designsystems.png" alt="image01" />
-            <div>
-                <h3>pointe</h3>
-                <p>Dance performed on the tips of the toes</p>
-            </div>
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
