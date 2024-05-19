@@ -166,9 +166,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sol
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu orci suscipit, cursus metus vitae, maximus nisi. Sed iaculis gravida odio, in lobortis augue laoreet eu. In sed mi quis metus efficitur porta vel convallis mi. 
 
-Donec dictum vulputate mi, ac malesuada eros aliquet quis. Mauris orci diam, blandit id turpis nec, consequat vulputate metus. Proin in elit non dolor tincidunt fringilla id scelerisque justo. Donec eget varius urna, et imperdiet sem.
-
-
 <ul class="lb-album">
 	<li>
 		<a href="#image-1">
@@ -188,7 +185,7 @@ Donec dictum vulputate mi, ac malesuada eros aliquet quis. Mauris orci diam, bla
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur ornare sapien vitae facilisis sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
-Aliquam eu orci suscipit, cursus metus vitae, maximus nisi. Sed iaculis gravida odio, in lobortis augue laoreet eu. In sed mi quis metus efficitur porta vel convallis mi. Donec dictum vulputate mi, ac malesuada eros aliquet quis. Mauris orci diam, blandit id turpis nec, consequat vulputate metus. Proin in elit non dolor tincidunt fringilla id scelerisque justo. Donec eget varius urna, et imperdiet sem.
+Aliquam eu orci suscipit, cursus metus vitae, maximus nisi. Sed iaculis gravida odio, in lobortis augue laoreet eu. In sed mi quis metus efficitur porta vel convallis mi. Donec dictum vulputate mi, ac malesuada eros aliquet quis.
 
 
 <ul class="lb-album">
