@@ -59,7 +59,7 @@ title: "Portfolio"
 	width: 0px;
 	height: 0px;
 	position: fixed;
-	overflow: scroll;
+	overflow: hidden;
 	left: 0px;
 	top: 0px;
 	padding: 0px;
@@ -139,16 +139,6 @@ title: "Portfolio"
 .lb-overlay:target img,
 .lb-overlay:target a.lb-close{
 	opacity: 1;
-}
-
-.clearfix {
-  overflow: auto;
-}
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
 }
 
 .lb-overlay:target img {
