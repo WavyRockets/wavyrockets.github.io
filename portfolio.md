@@ -183,7 +183,34 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sol
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
-    	<li>
+    <li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+        <li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+        <li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+        <li>
 		<a href="#image-1">
 			<img src="/assets/img/designsystems.png" alt="image01">
 		</a>
