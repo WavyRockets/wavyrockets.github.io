@@ -23,3 +23,7 @@ User flow diagrams have also been useful when demonstrating the user journey to 
 <h2>Conclusion</h2>
 
 While user flow diagrams can be time consuming and difficult to translate when different types of users exist, the pros heavily outweigh the cons. If you’re looking to create a user flow diagram, I’d recommend using Miro, Figjam or Draw.io.
+
+<div class="imgblock">
+    <img src="/assets/img/userflow.png"/>
+</div>
