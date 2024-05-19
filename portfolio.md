@@ -9,6 +9,7 @@ title: "Portfolio"
 	margin: 0 auto;
 	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
     list-style-type: none;
+    margin-top: 20px;
 
 }
 .lb-album li{
