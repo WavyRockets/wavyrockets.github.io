@@ -120,7 +120,7 @@ title: "Portfolio"
 	width: 126px;
 	height: 23px;
 	overflow: scroll;
-	margin-left: -25px;
+	margin-left: -55px;
 	opacity: 0;
     font-family: HKGrotesk-Regular;
 }
@@ -178,4 +178,3 @@ title: "Portfolio"
 		<!-- ... --> 
 	</li>
 </ul>
-<div class="clearfix"></div>
