@@ -155,8 +155,6 @@ title: "Portfolio"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur ornare sapien vitae facilisis sagittis. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu orci suscipit, cursus metus vitae, maximus nisi. Sed iaculis gravida odio, in lobortis augue laoreet eu. In sed mi quis metus efficitur porta vel convallis mi. 
-
 <ul class="lb-album">
 	<li>
 		<a href="#image-1">
@@ -199,9 +197,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu orci suscipi
 <h2>Giki ES3: Scope 3 Emissions Service</h2> 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur ornare sapien vitae facilisis sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-
-Aliquam eu orci suscipit, cursus metus vitae, maximus nisi. Sed iaculis gravida odio, in lobortis augue laoreet eu. In sed mi quis metus efficitur porta vel convallis mi. Donec dictum vulputate mi, ac malesuada eros aliquet quis.
-
 
 <ul class="lb-album">
 	<li>
@@ -254,9 +249,6 @@ Aliquam eu orci suscipit, cursus metus vitae, maximus nisi. Sed iaculis gravida 
 <h2>Boost NightRider: Automated Testing Platform</h2> 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. 
-
-Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur ornare sapien vitae facilisis sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu orci suscipit, cursus metus vitae, maximus nisi. Sed iaculis gravida odio, in lobortis augue laoreet eu.
-
 
 <ul class="lb-album">
 	<li>
