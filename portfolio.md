@@ -27,7 +27,6 @@ title: "Portfolio"
 	position: relative;
 	padding: 10px;
 	background: #F5F5F5;
-	box-shadow: 1px 1px 2px #fff, 1px 1px 2px rgba(158,111,86,0.3) inset;
 	border-radius: 4px;
 }
 
@@ -40,7 +39,6 @@ title: "Portfolio"
 	text-align: center;
 	line-height: 150px;
 	color: rgba(27,54,81,0.8);
-	text-shadow: 0px 1px 1px rgba(255,255,255,0.6);
 	font-size: 24px;
 	opacity: 0;
 	background: 
@@ -81,7 +79,6 @@ title: "Portfolio"
 	width: 550px;
 	height: 80px;
 	margin: 40px auto 0px auto;
-	text-shadow: 0px 1px 1px rgba(255,255,255,0.6);
 }
 .lb-overlay div h3,
 .lb-overlay div p{
