@@ -20,7 +20,6 @@ While designing products in the past I have found that testing the UI will often
 
 Time and test audience also play a factor in wireframing like when deadlines do not allow for multiple rounds of testing, for example. This is why I believe there is no right or wrong approach to wireframing and each project may differ so the ability to adapt is essential.
 
-
 <div class="imgblock">
     <img src="/assets/img/paperwireframe.png"/>
 </div>
