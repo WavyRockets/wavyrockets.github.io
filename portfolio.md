@@ -177,8 +177,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu orci suscipi
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
-	<li> 
-		<!-- ... --> 
+	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+    	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+    	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
 	</li>
 </ul>
 
@@ -199,8 +223,41 @@ Aliquam eu orci suscipit, cursus metus vitae, maximus nisi. Sed iaculis gravida 
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
-	<li> 
-		<!-- ... --> 
+	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+    	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+    	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+    	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
 	</li>
 </ul>
 
@@ -221,7 +278,31 @@ Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur 
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
-	<li> 
-		<!-- ... --> 
+	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+    	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
+    	<li>
+		<a href="#image-1">
+			<img src="/assets/img/designsystems.png" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-1">
+            <img src="/assets/img/designsystems.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
 	</li>
 </ul>
