@@ -59,7 +59,7 @@ title: "Portfolio"
 	width: 0px;
 	height: 0px;
 	position: fixed;
-	overflow: hidden;
+	overflow: scroll;
 	left: 0px;
 	top: 0px;
 	padding: 0px;
@@ -121,7 +121,7 @@ title: "Portfolio"
 	text-align: center;
 	width: 126px;
 	height: 23px;
-	overflow: scroll;
+	overflow: hidden;
 	margin-left: -55px;
 	opacity: 0;
     font-family: HKGrotesk-Regular;
