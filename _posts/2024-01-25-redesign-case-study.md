@@ -33,10 +33,10 @@ My first task was to break down the problem statement into the different issues 
 
 My next task was to carry out market research on platforms that have similar functionality. This led me to discover that, in the vast majority of cases, the assignment of teams is the responsibility of an admin user and not the user themselves which played a large role in changing the spec. 
 
-By updating the problem statement, I was able to establish control over team assignment, as well as keeping with the original requirements by not interfering with user engagement: 
+By updating the problem statement, I was able to establish control over the team assignment, as well as keeping with the original requirements by not interfering with user engagement and simplifying the problem breakdown: 
 
-* How can we ensure an admin user has the ability to assign a new user to a team?
-* How can we ensure an admin user has the ability to assign existing users to a team?
+* How can we give an admin user the ability to assign a new user to a team?
+* How can we give an admin user the ability to assign existing users to a team?
 
 In order to assign new users to a team, I reviewed the user flow to establish the best place for these updates to feature and referred to the engineering team to find out any limitations before testing wireframe concepts with existing admin users where users would be assigned a team at the invitation stage. I also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
 
