@@ -117,7 +117,7 @@ title: "Portfolio"
 	font-size: 15px;
 	line-height: 26px;
 	text-align: center;
-	width: 124px;
+	width: 126px;
 	height: 23px;
 	overflow: scroll;
 	margin-left: -25px;
