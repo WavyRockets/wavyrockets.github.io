@@ -113,7 +113,7 @@ title: "Portfolio"
 	z-index: 1001;
 	color: #fff;
 	position: absolute;
-	top: 43px;
+	top: 100px;
 	left: 50%;
 	font-size: 15px;
 	line-height: 26px;
@@ -132,8 +132,7 @@ title: "Portfolio"
 	bottom: 0px;
 	right: 0px;
 	padding: 80px 100px 120px 100px;
-    background: #000000;
-    opacity: 0.7;
+    background: #F5F5F5;
 }
 
 .lb-overlay:target img,
