@@ -3,8 +3,8 @@ layout: page
 title: "Portfolio"
 ---
 <style>
-    .lb-album{
-	width: 900px;
+.lb-album{
+	width: 100%;
 	margin: 0 auto;
 	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
 }
@@ -120,7 +120,7 @@ title: "Portfolio"
 	text-align: center;
 	width: 50px;
 	height: 23px;
-	overflow: hidden;
+	overflow: scroll;
 	margin-left: -25px;
 	opacity: 0;
 	box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
@@ -138,6 +138,16 @@ title: "Portfolio"
 .lb-overlay:target img,
 .lb-overlay:target a.lb-close{
 	opacity: 1;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .lb-overlay:target img {
@@ -168,4 +178,5 @@ title: "Portfolio"
 	<li> 
 		<!-- ... --> 
 	</li>
+    <div class="clearfix"></div>
 </ul>
