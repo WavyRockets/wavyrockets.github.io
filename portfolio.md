@@ -125,7 +125,7 @@ title: "Portfolio"
 	overflow: hidden;
 	margin-left: -55px;
 	opacity: 0;
-    font-family: HKGrotesk-Regular;
+    font-family: HKGrotesk-Medium;
 }
 
 .lb-overlay:target {
