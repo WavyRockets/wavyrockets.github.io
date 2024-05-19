@@ -178,5 +178,5 @@ title: "Portfolio"
 	<li> 
 		<!-- ... --> 
 	</li>
-    <div class="clearfix"></div>
 </ul>
+<div class="clearfix"></div>
