@@ -5,7 +5,7 @@ author: Scott
 layout: post
 image: /assets/img/2021/06/deep-fried.png
 icon: userflow
-tags: testing, theory
+tags: testing, design
 ---
 
 <h2>What is a User Flow Diagram?</h2>
