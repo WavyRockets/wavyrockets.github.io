@@ -156,10 +156,8 @@ title: "Portfolio"
 		<div class="lb-overlay" id="image-1">
 			<img src="/assets/img/designsystems.png" alt="image01" />
 			<div>
-				<h3>pointe <span>/point/</h3>
+                <h3>pointe</h3>
 				<p>Dance performed on the tips of the toes</p>
-				<a href="#image-10" class="lb-prev">Prev</a>
-				<a href="#image-2" class="lb-next">Next</a>
 			</div>
 			<a href="#page" class="lb-close">x Close</a>
 		</div>
