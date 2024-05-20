@@ -151,7 +151,15 @@ title: "Portfolio"
   0% { transform: scale(0.6); opacity: 0; }
   100% { transform: scale(1); opacity: 1; }
 }
+
+.portfolio1 {
+    border: 1px solid #000000;
+    border-radius: 16px;
+    padding: 10px;
+}
+
 </style>
+<div class="portfolio1">
 <h2>Giki Zero: Employee Engagement Platform</h2> 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur ornare sapien vitae facilisis sagittis. 
@@ -221,7 +229,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sol
         </div>
 	</li>
 </ul>
-
+</div>
+<div class="portfolio1">
 <h2>Giki ES3: Scope 3 Emissions Service</h2> 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur ornare sapien vitae facilisis sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
@@ -273,7 +282,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sol
         </div>
 	</li>
 </ul>
-
+</div>
+<div class="portfolio1">
 <h2>Boost NightRider: Automated Testing Platform</h2> 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. 
@@ -316,3 +326,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sol
         </div>
 	</li>
 </ul>
+</div>
