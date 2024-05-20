@@ -160,6 +160,10 @@ title: "Portfolio"
     margin-bottom: 20px;
 }
 
+.lb-album li > a, .lb-album li > a img {
+    margin: 0 auto;
+}
+
 </style>
 <div class="portfolio1">
 <h2>Giki Zero: Employee Engagement Platform</h2> 
