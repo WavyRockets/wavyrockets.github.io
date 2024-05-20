@@ -146,8 +146,9 @@ title: "Portfolio"
 .lb-overlay:target img {
 	animation: fadeInScale 1.2s ease-in-out;
     margin-top: 55px;
-    width: 80% !important;
+    width: 60% !important;
 }
+
 @keyframes fadeInScale {
   0% { transform: scale(0.6); opacity: 0; }
   100% { transform: scale(1); opacity: 1; }
@@ -171,9 +172,15 @@ title: "Portfolio"
 @media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
 
 .lb-album li > a {
-    width: 115px;
-    height: 115px; 
+    width: 105px;
+    height: 105px; 
     margin-bottom: 20px !important;
+}
+
+.lb-overlay:target img {
+	animation: fadeInScale 1.2s ease-in-out;
+    margin-top: 55px;
+    width: 100% !important;
 }
 
 }
