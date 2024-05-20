@@ -201,46 +201,37 @@ Giki Zero is an employee engagement platform that allows staff to calculate thei
 <ul class="lb-album">
 	<li>
 		<a href="#image-1">
-			<img src="/assets/img/designsystems.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/zero1.png" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-1">
-            <img src="/assets/img/designsystems.png" alt="image01" />
+            <img src="/assets/img/zero1.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
 	<li>
 		<a href="#image-2">
-			<img src="/assets/img/designsystems.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/zero2.png" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-2">
-            <img src="/assets/img/designsystems.png" alt="image01" />
+            <img src="/assets/img/zero2.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
     	<li>
 		<a href="#image-3">
-			<img src="/assets/img/designsystems.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/zero3.png" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-3">
-            <img src="/assets/img/designsystems.png" alt="image01" />
+            <img src="/assets/img/zero3.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
     <li>
 		<a href="#image-4">
-			<img src="/assets/img/designsystems.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/zero4.png" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-4">
-            <img src="/assets/img/designsystems.png" alt="image01" />
-            <a href="#page" class="lb-close">Return to Portfolio</a>    
-        </div>
-	</li>
-        <li>
-		<a href="#image-5">
-			<img src="/assets/img/designsystems.png" class="portfolioimg" alt="image01">
-		</a>
-        <div class="lb-overlay" id="image-5">
-            <img src="/assets/img/designsystems.png" alt="image01" />
+            <img src="/assets/img/zero4.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
