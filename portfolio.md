@@ -204,7 +204,7 @@ title: "Portfolio"
 
 </style>
 <div class="portfolio1">
-<h2>Giki Zero: Employee Engagement Platform</h2> 
+<h2>Giki - Zero</h2> 
 
 Giki Zero is an employee engagement platform that allows staff to calculate their individual carbon footprint and take sustainable steps to lower it. Often, challenges are run where users can compete to see who can take the most steps. I was responsible for designing new functionality for the website and native mobile application, redesigning old functionality and interpreting user feedback into functioning design solutions. 
 
@@ -257,7 +257,7 @@ Giki Zero is an employee engagement platform that allows staff to calculate thei
 </ul>
 </div>
 <div class="portfolio1">
-<h2>Giki ES3: Scope 3 Emissions Service</h2> 
+<h2>Giki - Scope 3</h2> 
 
 Giki ES3 is an admin tool that allows organizations to gather data on employee scope 3 emissions (remote working and commuting). This tool allows users to gather and track emissions over time, advising on the best approach to lower their organization carbon footprint. I played a leading role in conceptualising the product requirements, developing the user flow and designing the overall product.
 
@@ -301,7 +301,7 @@ Giki ES3 is an admin tool that allows organizations to gather data on employee s
 </ul>
 </div>
 <div class="portfolio1">
-<h2>Test Planner: Automated Testing Platform</h2> 
+<h2>Box Office Company - Test Planner</h2> 
 
 Test Planner was a custom automated testing platform for the Box Office Company (Boost division) designed specifically for testing cinema websites. Tests ranged from ticketing, concessions, seating, gift cards and loyalty accounts. I was responsible for conceptualising the idea, planning the roadmap and designing the product. 
 
