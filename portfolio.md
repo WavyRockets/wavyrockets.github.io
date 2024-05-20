@@ -253,7 +253,7 @@ Giki Zero is an employee engagement platform that allows staff to calculate thei
 <div class="portfolio1">
 <h2>Giki ES3: Scope 3 Emissions Service</h2> 
 
-Giki ES3 is an admin tool that allows organizations to gather data on employee scope 3 emissions (remote working and commuting). This tool would allow users to gather and track emissions over time, advising on the best approach to lower their organization carbon footprint. I played a large role in conceptualising the product requirements, developing the user flow and designing the overall product.
+Giki ES3 is an admin tool that allows organizations to gather data on employee scope 3 emissions (remote working and commuting). This tool would allow users to gather and track emissions over time, advising on the best approach to lower their organization carbon footprint. I played a leading role in conceptualising the product requirements, developing the user flow and designing the overall product.
 
 <ul class="lb-album">
 	<li>
