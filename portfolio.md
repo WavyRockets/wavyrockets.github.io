@@ -176,37 +176,37 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sol
         </div>
 	</li>
 	<li>
-		<a href="#image-1">
+		<a href="#image-2">
 			<img src="/assets/img/designsystems.png" alt="image01">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-2">
             <img src="/assets/img/designsystems.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
     	<li>
-		<a href="#image-1">
+		<a href="#image-3">
 			<img src="/assets/img/designsystems.png" alt="image01">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-3">
             <img src="/assets/img/designsystems.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
     <li>
-		<a href="#image-1">
+		<a href="#image-4">
 			<img src="/assets/img/designsystems.png" alt="image01">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-4">
             <img src="/assets/img/designsystems.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
         <li>
-		<a href="#image-1">
+		<a href="#image-5">
 			<img src="/assets/img/designsystems.png" alt="image01">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-5">
             <img src="/assets/img/designsystems.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
@@ -220,46 +220,46 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sol
 
 <ul class="lb-album">
 	<li>
-		<a href="#image-1">
+		<a href="#image-6">
 			<img src="/assets/img/designsystems.png" alt="image01">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-6">
             <img src="/assets/img/designsystems.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
 	<li>
-		<a href="#image-1">
+		<a href="#image-7">
 			<img src="/assets/img/designsystems.png" alt="image01">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-7">
             <img src="/assets/img/designsystems.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
     	<li>
-		<a href="#image-1">
+		<a href="#image-8">
 			<img src="/assets/img/designsystems.png" alt="image01">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-8">
             <img src="/assets/img/designsystems.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
     	<li>
-		<a href="#image-1">
+		<a href="#image-9">
 			<img src="/assets/img/designsystems.png" alt="image01">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-9">
             <img src="/assets/img/designsystems.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
     	<li>
-		<a href="#image-1">
+		<a href="#image-10">
 			<img src="/assets/img/designsystems.png" alt="image01">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-10">
             <img src="/assets/img/designsystems.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
@@ -273,28 +273,28 @@ NightRider was a custom automated testing platform for the Box Office Company (B
 
 <ul class="lb-album">
 	<li>
-		<a href="#image-1">
+		<a href="#image-11">
 			<img src="/assets/img/nightrider1.jpg" alt="Homepage">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-11">
             <img src="/assets/img/nightrider1.jpg" alt="Homepage" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
 	<li>
-		<a href="#image-1">
+		<a href="#image-12">
 			<img src="/assets/img/nightrider2.jpg" alt="Comparison">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-12">
             <img src="/assets/img/nightrider2.jpg" alt="Comparison" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
     	<li>
-		<a href="#image-1">
+		<a href="#image-13">
 			<img src="/assets/img/nightrider3.jpg" alt="Roadmap">
 		</a>
-        <div class="lb-overlay" id="image-1">
+        <div class="lb-overlay" id="image-13">
             <img src="/assets/img/nightrider3.jpg" alt="Roadmap" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
