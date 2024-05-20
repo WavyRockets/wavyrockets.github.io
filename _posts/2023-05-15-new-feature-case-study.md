@@ -31,7 +31,7 @@ The next step was to identify the different types of users so we could flesh out
 * Org Admins (Users who have access to only their own organization) 
 * Employees (Users who will only use the survey and not the admin site)
 
-After determining the high and low priority bits of functionality for the MVP, we were able to test various wireframe solutions and mock up a UI prototype in order to test the different use cases. 
+After determining the high and low priority areas of functionality for the MVP, we were able to test various wireframe solutions and mock up a UI prototype in order to test the different use cases. 
 
 <div class="imgblock">
     <img src="/assets/img/wireframecasestudy.png"/>
