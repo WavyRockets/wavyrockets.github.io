@@ -146,7 +146,7 @@ title: "Portfolio"
 .lb-overlay:target img {
 	animation: fadeInScale 1.2s ease-in-out;
     margin-top: 55px;
-    width: 800px !important;
+    width: 80% !important;
 }
 @keyframes fadeInScale {
   0% { transform: scale(0.6); opacity: 0; }
