@@ -10,7 +10,7 @@ tags: casestudy, design
 
 <h2>Summary</h2>
 
-Giki ES3 is an admin tool that allows organizations to gather data on employee scope 3 emissions (remote working and commuting). This tool allows users to gather and track emissions over time, advising on the best approach to lower their organization's carbon footprint. After identifying the need for such a tool by interviewing the sustainability teams of various organizations, we started by defining the different use cases that were likely to be required. 
+Giki ES3 is an admin tool that allows organizations to gather data on employee scope 3 emissions (remote working and commuting). This tool allows users to gather and track emissions over time, advising on the best approach to lower their organization carbon footprint. I played a leading role in conceptualising the product requirements, developing the user flow and designing the overall product.
 
 <img src="/assets/img/jointeams.png"/>
 
@@ -20,7 +20,7 @@ As an organisation, I want to easily be able to gather data on employee scope 3 
 
 <h2>Approach</h2>
 
-Once we had the different user personas and requirements gathered we were able to determine the platform necessary for achieving our goals: 
+After identifying the need for such a tool by interviewing the sustainability teams of various organizations, we started by defining the different use cases that were likely to be required. Once we had the different user personas and requirements gathered we were able to determine the platform necessary for achieving our goals: 
 
 * Admin tool - Web application for creating, managing and reviewing survey applications for admin users (used primarily on desktop browsers)
 * Survey tool - Web survey for employees (used on both mobile and desktop browsers) 
