@@ -201,10 +201,10 @@ Giki Zero is an employee engagement platform that allows staff to calculate thei
 <ul class="lb-album">
 	<li>
 		<a href="#image-1">
-			<img src="/assets/img/zero1.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/zero1.jpg" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-1">
-            <img src="/assets/img/zero1.png" alt="image01" />
+            <img src="/assets/img/zero1.jpg" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
@@ -228,10 +228,10 @@ Giki Zero is an employee engagement platform that allows staff to calculate thei
 	</li>
     <li>
 		<a href="#image-4">
-			<img src="/assets/img/zero4.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/zero4.jpg" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-4">
-            <img src="/assets/img/zero4.png" alt="image01" />
+            <img src="/assets/img/zero4.jpg" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
