@@ -269,44 +269,36 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sol
 <div class="portfolio1">
 <h2>Boost NightRider: Automated Testing Platform</h2> 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. 
+NightRider was a custom automated testing platform for the Box Office Company Boost division designed specifically for testing cinema websites. I was responsible for conceptualising the idea, planning the roadmap and designing the product. 
 
 <ul class="lb-album">
 	<li>
 		<a href="#image-1">
-			<img src="/assets/img/designsystems.png" alt="image01">
+			<img src="/assets/img/nightrider1.jpg" alt="Homepage">
 		</a>
         <div class="lb-overlay" id="image-1">
-            <img src="/assets/img/designsystems.png" alt="image01" />
+            <img src="/assets/img/nightrider1.jpg" alt="Homepage" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
 	<li>
 		<a href="#image-1">
-			<img src="/assets/img/designsystems.png" alt="image01">
+			<img src="/assets/img/nightrider2.jpg" alt="Comparison">
 		</a>
         <div class="lb-overlay" id="image-1">
-            <img src="/assets/img/designsystems.png" alt="image01" />
+            <img src="/assets/img/nightrider2.jpg" alt="Comparison" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
     	<li>
 		<a href="#image-1">
-			<img src="/assets/img/designsystems.png" alt="image01">
+			<img src="/assets/img/nightrider3.jpg" alt="Roadmap">
 		</a>
         <div class="lb-overlay" id="image-1">
-            <img src="/assets/img/designsystems.png" alt="image01" />
+            <img src="/assets/img/nightrider3.jpg" alt="Roadmap" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
-    	<li>
-		<a href="#image-1">
-			<img src="/assets/img/designsystems.png" alt="image01">
-		</a>
-        <div class="lb-overlay" id="image-1">
-            <img src="/assets/img/designsystems.png" alt="image01" />
-            <a href="#page" class="lb-close">Return to Portfolio</a>    
-        </div>
-	</li>
+
 </ul>
 </div>
