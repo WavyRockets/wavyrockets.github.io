@@ -867,9 +867,9 @@ header {
 
 @media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
     header {
-        position: relative !important;
         display: inline-block !important;
         border-bottom: none !important;
+        padding-bottom: 20px;
     }
     
     footer .halfDiv {
