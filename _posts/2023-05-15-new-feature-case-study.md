@@ -12,7 +12,9 @@ tags: casestudy, design
 
 Giki ES3 is an admin tool that allows organizations to gather data on employee scope 3 emissions (remote working and commuting). This tool allows users to gather and track emissions over time, advising on the best approach to lower their organization carbon footprint. I played a leading role in conceptualising the product requirements, developing the user flow and designing the overall product.
 
-<img src="/assets/img/jointeams.png"/>
+<div class="imgblock">
+    <img src="/assets/img/es3screens.png"/>
+</div>
 
 <h2>Problem Statement</h2> 
 
@@ -31,7 +33,11 @@ The next step was to flesh out the user flow based on the different types of use
 * Org Admins (Users who have access to only their own organization) 
 * Employees (Users who will only use the survey and not the admin site)
 
-After determining the high and low priority areas of functionality for the MVP, we were able to test various wireframe solutions and mock up a UI prototype in order to test the different use cases. 
+After determining the high and low priority areas of functionality for the MVP, we were able to test various wireframe solutions and mock up a UI prototype in order to test the different use cases.
+
+<div class="imgblock">
+    <img src="/assets/img/userflow2.png"/>
+</div>
 
 <div class="imgblock">
     <img src="/assets/img/wireframecasestudy.png"/>
@@ -42,6 +48,6 @@ After determining the high and low priority areas of functionality for the MVP, 
 TBC
 
 <div class="gifblock">
-    <img src="/assets/img/casestudy.gif" class="gif"/>
+    <img src="/assets/img/es3demo.gif" class="gif"/>
 </div>
 
