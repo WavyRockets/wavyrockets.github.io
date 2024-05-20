@@ -258,46 +258,37 @@ Giki ES3 is an admin tool that allows organizations to gather data on employee s
 <ul class="lb-album">
 	<li>
 		<a href="#image-6">
-			<img src="/assets/img/designsystems.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/es1.png" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-6">
-            <img src="/assets/img/designsystems.png" alt="image01" />
+            <img src="/assets/img/es1.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
 	<li>
 		<a href="#image-7">
-			<img src="/assets/img/designsystems.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/es2.png" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-7">
-            <img src="/assets/img/designsystems.png" alt="image01" />
+            <img src="/assets/img/es2.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
     	<li>
 		<a href="#image-8">
-			<img src="/assets/img/designsystems.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/es3.png" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-8">
-            <img src="/assets/img/designsystems.png" alt="image01" />
+            <img src="/assets/img/es3.png" class="portfoliomobile" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
     	<li>
 		<a href="#image-9">
-			<img src="/assets/img/designsystems.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/es4.png" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-9">
-            <img src="/assets/img/designsystems.png" class="portfolioimg" alt="image01" />
-            <a href="#page" class="lb-close">Return to Portfolio</a>    
-        </div>
-	</li>
-    	<li>
-		<a href="#image-10">
-			<img src="/assets/img/designsystems.png" class="portfolioimg" alt="image01">
-		</a>
-        <div class="lb-overlay" id="image-10">
-            <img src="/assets/img/designsystems.png" alt="image01" />
+            <img src="/assets/img/es4.png" class="portfolioimg" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
