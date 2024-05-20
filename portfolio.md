@@ -269,7 +269,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sol
 <div class="portfolio1">
 <h2>Boost NightRider: Automated Testing Platform</h2> 
 
-NightRider was a custom automated testing platform for the Box Office Company Boost division designed specifically for testing cinema websites. I was responsible for conceptualising the idea, planning the roadmap and designing the product. 
+NightRider was a custom automated testing platform for the Box Office Company (Boost division) designed specifically for testing cinema websites. I was responsible for conceptualising the idea, planning the roadmap and designing the product. 
 
 <ul class="lb-album">
 	<li>
