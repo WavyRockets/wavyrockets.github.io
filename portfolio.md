@@ -168,6 +168,16 @@ title: "Portfolio"
     margin: 0 auto;
 }
 
+@media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
+
+.lb-album li > a {
+    width: 115px;
+    height: 115px; 
+    margin-bottom: 20px !important;
+}
+
+}
+
 </style>
 <div class="portfolio1">
 <h2>Giki Zero: Employee Engagement Platform</h2> 
