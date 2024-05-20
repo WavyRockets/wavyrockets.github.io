@@ -154,6 +154,10 @@ title: "Portfolio"
   100% { transform: scale(1); opacity: 1; }
 }
 
+.portfolio1 h2 {
+    margin-bottom: 20px;
+}
+
 .portfolio1 {
     border: 1px solid #000000;
     border-radius: 16px;
@@ -184,6 +188,7 @@ title: "Portfolio"
 .lb-overlay:target img {
 	animation: fadeInScale 1.2s ease-in-out;
     margin-top: 80px;
+    width: 100% !important;
 }
 
 .lb-overlay a.lb-close {
