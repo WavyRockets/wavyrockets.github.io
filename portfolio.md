@@ -196,7 +196,7 @@ title: "Portfolio"
 <div class="portfolio1">
 <h2>Giki Zero: Employee Engagement Platform</h2> 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur ornare sapien vitae facilisis sagittis. 
+Giki Zero is an employee engagement platform that allows staff to calculate their individual carbon footprint and take sustainable steps to lower it. Often, challenges are run where users can compete to see who can take the most steps.
 
 <ul class="lb-album">
 	<li>
@@ -249,7 +249,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sol
 <div class="portfolio1">
 <h2>Giki ES3: Scope 3 Emissions Service</h2> 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam nulla, sollicitudin vitae viverra vitae, dapibus eget tortor. Sed non nibh justo. Aliquam sit amet enim ut erat molestie fringilla. Curabitur ornare sapien vitae facilisis sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Giki ES3 is an admin tool that allows organizations to gather data on employee scope 3 emissions (remote working and commuting). This tool would allow users to gather and track emissions over time, advising on the best approach to lower their organization carbon footprint. 
 
 <ul class="lb-album">
 	<li>
