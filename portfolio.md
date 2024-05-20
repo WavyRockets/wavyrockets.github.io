@@ -183,11 +183,11 @@ title: "Portfolio"
 
 .lb-overlay:target img {
 	animation: fadeInScale 1.2s ease-in-out;
-    margin-top: 180px;
+    margin-top: 80px;
 }
 
 .lb-overlay a.lb-close {
-    top: 130px;
+    top: 30px;
 }
 
 .lb-overlay:target {
