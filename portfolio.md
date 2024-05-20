@@ -304,7 +304,7 @@ Giki ES3 is an admin tool that allows organizations to gather data on employee s
 </ul>
 </div>
 <div class="portfolio1">
-<h2>Boost Test Planner: Automated Testing Platform</h2> 
+<h2>Test Planner: Automated Testing Platform</h2> 
 
 Test Planner was a custom automated testing platform for the Box Office Company (Boost division) designed specifically for testing cinema websites. Tests ranged from ticketing, concessions, seating, gift cards and loyalty accounts. I was responsible for conceptualising the idea, planning the roadmap and designing the product. 
 
