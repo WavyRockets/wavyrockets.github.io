@@ -200,7 +200,7 @@ title: "Portfolio"
 <div class="portfolio1">
 <h2>Giki Zero: Employee Engagement Platform</h2> 
 
-Giki Zero is an employee engagement platform that allows staff to calculate their individual carbon footprint and take sustainable steps to lower it. Often, challenges are run where users can compete to see who can take the most steps. I was responsible for designing new functionality, redesigning old functionality and interpreting user feedback into functioning design solutions. 
+Giki Zero is an employee engagement platform that allows staff to calculate their individual carbon footprint and take sustainable steps to lower it. Often, challenges are run where users can compete to see who can take the most steps. I was responsible for designing new functionality for the website and native mobile application, redesigning old functionality and interpreting user feedback into functioning design solutions. 
 
 <ul class="lb-album">
 	<li>
