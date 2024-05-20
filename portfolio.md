@@ -135,6 +135,7 @@ title: "Portfolio"
 	right: 0px;
 	padding: 80px 100px 120px 100px;
     background: #F5F5F5;
+    overflow: scroll;
 }
 
 .lb-overlay:target img,
