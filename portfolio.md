@@ -169,6 +169,10 @@ title: "Portfolio"
     margin: 0 auto;
 }
 
+.portfolioimg.mobile {
+    max-width: 350px;
+}
+
 @media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
 
 .lb-album li > a {
@@ -228,7 +232,7 @@ Giki Zero is an employee engagement platform that allows staff to calculate thei
 	</li>
     	<li>
 		<a href="#image-5">
-			<img src="/assets/img/zero5.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/zero5.png" class="portfolioimg mobile" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-5">
             <img src="/assets/img/zero5.png" alt="image01" />
