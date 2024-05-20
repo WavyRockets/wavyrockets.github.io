@@ -196,7 +196,7 @@ title: "Portfolio"
 <div class="portfolio1">
 <h2>Giki Zero: Employee Engagement Platform</h2> 
 
-Giki Zero is an employee engagement platform that allows staff to calculate their individual carbon footprint and take sustainable steps to lower it. Often, challenges are run where users can compete to see who can take the most steps.
+Giki Zero is an employee engagement platform that allows staff to calculate their individual carbon footprint and take sustainable steps to lower it. Often, challenges are run where users can compete to see who can take the most steps. I was responsible for designing new functionality, redesigning old functionality and interpreting user feedback into functioning design solutions. 
 
 <ul class="lb-album">
 	<li>
@@ -249,7 +249,7 @@ Giki Zero is an employee engagement platform that allows staff to calculate thei
 <div class="portfolio1">
 <h2>Giki ES3: Scope 3 Emissions Service</h2> 
 
-Giki ES3 is an admin tool that allows organizations to gather data on employee scope 3 emissions (remote working and commuting). This tool would allow users to gather and track emissions over time, advising on the best approach to lower their organization carbon footprint. 
+Giki ES3 is an admin tool that allows organizations to gather data on employee scope 3 emissions (remote working and commuting). This tool would allow users to gather and track emissions over time, advising on the best approach to lower their organization carbon footprint. I played a large role in conceptualising the product requirements, developing the user flow and designing the overall product.
 
 <ul class="lb-album">
 	<li>
