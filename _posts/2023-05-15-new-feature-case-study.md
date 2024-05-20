@@ -21,12 +21,16 @@ As an organisation, I want to easily be able to gather data on employee scope 3 
 <h2>Approach</h2>
 
 Once we had the different user personas and requirements gathered we were able to determine the platform necessary for achieving our goals: 
-Admin tool - Web application for creating, managing and reviewing survey applications for admin users (used primarily on desktop browsers)
-Survey tool - Web survey for employees (used on both mobile and desktop browsers) 
+
+* Admin tool - Web application for creating, managing and reviewing survey applications for admin users (used primarily on desktop browsers)
+* Survey tool - Web survey for employees (used on both mobile and desktop browsers) 
+
 The next step was to identify the different types of users so we could flesh out the user flow and test this with the different types of users to ensure it was correct: 
-Giki Admins (Users who have access to all organizations)
-Org Admins (Users who have access to only their own organization) 
-Employees (Users who will only use the survey and not the admin site)
+
+* Giki Admins (Users who have access to all organizations)
+* Org Admins (Users who have access to only their own organization) 
+* Employees (Users who will only use the survey and not the admin site)
+
 After determining the high and low priority bits of functionality for the MVP, we were able to test various wireframe solutions and mock up a UI prototype in order to test the different use cases. 
 
 <div class="imgblock">
