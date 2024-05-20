@@ -25,7 +25,7 @@ After identifying the need for such a tool by interviewing the sustainability te
 * Admin tool - Web application for creating, managing and reviewing survey applications for admin users (used primarily on desktop browsers)
 * Survey tool - Web survey for employees (used on both mobile and desktop browsers) 
 
-The next step was to identify the different types of users so we could flesh out the user flow and test this with the different types of users to ensure it was correct: 
+The next step was to flesh out the user flow based on the different types of users and test this to ensure it met all user requirements: 
 
 * Giki Admins (Users who have access to all organizations)
 * Org Admins (Users who have access to only their own organization) 
