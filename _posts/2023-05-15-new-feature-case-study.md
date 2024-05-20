@@ -39,10 +39,6 @@ After determining the high and low priority areas of functionality for the MVP, 
     <img src="/assets/img/userflow2.png"/>
 </div>
 
-<div class="imgblock">
-    <img src="/assets/img/wireframecasestudy.png"/>
-</div>
-
 <h2>Results</h2>
 
 TBC
