@@ -226,6 +226,15 @@ Giki Zero is an employee engagement platform that allows staff to calculate thei
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
+    	<li>
+		<a href="#image-5">
+			<img src="/assets/img/zero5.png" class="portfolioimg" alt="image01">
+		</a>
+        <div class="lb-overlay" id="image-5">
+            <img src="/assets/img/zero5.png" alt="image01" />
+            <a href="#page" class="lb-close">Return to Portfolio</a>    
+        </div>
+	</li>
     <li>
 		<a href="#image-4">
 			<img src="/assets/img/zero4.jpg" class="portfolioimg" alt="image01">
