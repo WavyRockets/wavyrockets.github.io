@@ -28,7 +28,7 @@ title: "Portfolio"
 	position: relative;
 	padding: 10px;
 	background: #F5F5F5;
-	border-radius: 4px;
+	border-radius: 16px;
     margin-bottom: 20px;
 }
 
@@ -155,7 +155,8 @@ title: "Portfolio"
 .portfolio1 {
     border: 1px solid #000000;
     border-radius: 16px;
-    padding: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
 }
 
 </style>
