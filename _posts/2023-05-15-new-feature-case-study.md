@@ -35,10 +35,6 @@ The next step was to flesh out the user flow based on the different types of use
 
 After determining the high and low priority areas of functionality for the MVP, we were able to test various wireframe solutions and mock up a UI prototype in order to test the different use cases.
 
-<div class="imgblock">
-    <img src="/assets/img/userflow2.png"/>
-</div>
-
 <h2>Results</h2>
 
 TBC
