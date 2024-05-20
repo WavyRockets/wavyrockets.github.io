@@ -288,7 +288,7 @@ Giki ES3 is an admin tool that allows organizations to gather data on employee s
 			<img src="/assets/img/es4.jpg" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-9">
-            <img src="/assets/img/es4.jpg" class="portfolioimg" alt="image01" />
+            <img src="/assets/img/es4.jpg" alt="image01" />
             <a href="#page" class="lb-close">Return to Portfolio</a>    
         </div>
 	</li>
