@@ -192,6 +192,7 @@ title: "Portfolio"
 
 .lb-overlay:target {
     padding: 0px;
+    z-index: 99999;
 }
 
 }
