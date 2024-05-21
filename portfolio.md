@@ -2,7 +2,7 @@
 layout: page
 title: "Portfolio"
 ---
-<section class="puzzleContainer articles">
+<section class="puzzleContainer">
     <div class="puzzleGrid">
         <summary class="article">
             <section class="article-summary-header">

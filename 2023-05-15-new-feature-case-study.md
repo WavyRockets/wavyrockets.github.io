@@ -2,6 +2,7 @@
 title: "Case Study #1 (New Feature)"
 date: 2023-05-15 14:52:00:00 +00:00
 author: Scott
+layout: post
 image: /assets/img/icons/puzzle.svg
 icon: puzzle
 tags: casestudy, design, theory
