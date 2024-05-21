@@ -7,7 +7,6 @@ title: "Portfolio"
 	width: 100%;
     display: table;
 	margin: 0 auto;
-	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
     list-style-type: none;
     margin-top: 20px;
 
@@ -97,7 +96,6 @@ title: "Portfolio"
 .lb-overlay div h3 span,
 .lb-overlay div p{
 	font-size: 16px;
-	font-family: Constantia, Palatino, serif;
 	font-style: italic;
 }
 .lb-overlay div h3 span{
@@ -179,12 +177,14 @@ title: "Portfolio"
 
 .quotes {
     list-style-type: none;
-    font-weight: bold;
+    margin: 0;
+    padding: 0;
 }
 
 .quotes li {
     list-style-type: none;
-    font-weight: bold;
+    font-family: HKGrotesk-Medium;
+    
 }
 
 @media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
