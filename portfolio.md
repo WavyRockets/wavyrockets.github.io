@@ -177,13 +177,14 @@ title: "Portfolio"
 
 .quotes {
     list-style-type: none;
-    margin: 0;
     padding: 0;
+    margin-top: 20px;
+    margin-left: 0px;
 }
 
 .quotes li {
     list-style-type: none;
-    font-family: HKGrotesk-Medium;
+    font-family: HKGrotesk-Bold !important;
     
 }
 
