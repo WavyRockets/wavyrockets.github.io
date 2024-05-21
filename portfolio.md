@@ -216,6 +216,79 @@ hr {
 }
 
 </style>
+
+
+
+<section class="puzzleContainer">
+    <div class="puzzleGrid">                    
+    <summary class="article">
+        <section class="article-summary-header">
+            <a href="/2023/10/16/design-systems/">
+                <img src="/assets/img/icons/system.svg" class="svgStyle" alt="Design Systems">
+            </a>
+            <h4>
+                <a href="/2023/10/16/design-systems/">Design Systems</a>
+            </h4>
+            <p class="dateStyle">16 October 2023</p>
+        </section>
+        <p>What are Design Systems? <a href="/2023/10/16/design-systems/">Read more</a></p>
+    </summary>
+        <img class="puzzleIcon blackright" src="/assets/img/puzzle/blackright.png">        
+        <img class="puzzleIcon blackdown" src="/assets/img/puzzle/blackdown.png">        
+        <img class="puzzleIcon whitedown" src="/assets/img/puzzle/whitedown.png"> 
+        <img class="puzzleIcon whiteup" src="/assets/img/puzzle/whiteup.png">        
+        <img class="puzzleIcon whiteleft" src="/assets/img/puzzle/whiteleft.png"> 
+        <img class="puzzleIcon whiteright" src="/assets/img/puzzle/whiteright.png"> 
+    </div>
+    <div class="puzzleGrid">
+        <summary class="article">
+            <section class="article-summary-header">
+                <a href="/2023/09/15/pattern-libraries/">
+                    <img src="/assets/img/icons/library.svg" class="svgStyle" alt="Pattern Libraries">
+                </a>
+                <h4>
+                    <a href="/2023/09/15/pattern-libraries/">Pattern Libraries</a>
+                </h4>
+                <p class="dateStyle">15 September 2023</p>    
+            </section>
+                <p>Design can be a repetitive task but you don’t need to reinvent the wheel with every new interface when you already have assets that have been tried and tested. Pattern Libraries are a great way to reuse existing designs that will save you time as well as maintaining consistency. <a href="/2023/09/15/pattern-libraries/">Read more</a></p>
+        </summary>
+        <img class="puzzleIcon blackright" src="/assets/img/puzzle/blackright.png">        
+        <img class="puzzleIcon blackdown" src="/assets/img/puzzle/blackdown.png">        
+        <img class="puzzleIcon whitedown" src="/assets/img/puzzle/whitedown.png"> 
+        <img class="puzzleIcon whiteup" src="/assets/img/puzzle/whiteup.png">        
+        <img class="puzzleIcon whiteleft" src="/assets/img/puzzle/whiteleft.png"> 
+        <img class="puzzleIcon whiteright" src="/assets/img/puzzle/whiteright.png"> 
+    </div>
+    <div class="puzzleGrid">
+        <summary class="article">
+            <section class="article-summary-header">
+                <a href="/2023/07/28/wireframing/">
+                    <img src="/assets/img/icons/pencil.svg" class="svgStyle" alt="Wireframing">
+                </a>
+                <h4>
+                    <a href="/2023/07/28/wireframing/">Wireframing</a>
+                </h4>
+                <p class="dateStyle">28 July 2023</p>    
+            </section>
+            <p>What are wireframes? <a href="/2023/07/28/wireframing/">Read more</a></p>
+        </summary>
+        <img class="puzzleIcon blackright" src="/assets/img/puzzle/blackright.png">        
+        <img class="puzzleIcon blackdown" src="/assets/img/puzzle/blackdown.png">        
+        <img class="puzzleIcon whitedown" src="/assets/img/puzzle/whitedown.png"> 
+        <img class="puzzleIcon whiteup" src="/assets/img/puzzle/whiteup.png">        
+        <img class="puzzleIcon whiteleft" src="/assets/img/puzzle/whiteleft.png"> 
+        <img class="puzzleIcon whiteright" src="/assets/img/puzzle/whiteright.png"> 
+    </div>
+</section>
+
+
+
+
+
+
+
+
 <div class="portfolio1">
 <h2>Giki - Zero</h2> 
 
