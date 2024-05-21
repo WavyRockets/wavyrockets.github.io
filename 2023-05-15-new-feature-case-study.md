@@ -1,5 +1,5 @@
 ---
-title: "Case Study #1 (New Feature)"
+title: "Case Study #1 (New Product)"
 date: 2023-05-15 14:52:00:00 +00:00
 author: Scott
 layout: post
