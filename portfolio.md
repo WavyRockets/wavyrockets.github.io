@@ -48,9 +48,9 @@ title: "Portfolio"
                     <img src="/assets/img/icons/pencil.svg" class="svgStyle" alt="Wireframing">
                 </a>
                 <h4>
-                    <a href="/2023/05/15/new-feature-case-study/">Box Office Company: Test Planner</a>
+                    <a href="/2023/05/15/new-feature-case-study/">Boost: Test Planner</a>
                 </h4>
-                <p class="dateStyle">28 July 2023</p>    
+                <p class="dateStyle">28 July 2023</p>
             </section>
         </summary>
         <img class="puzzleIcon blackright" src="/assets/img/puzzle/blackright.png">        
