@@ -174,6 +174,10 @@ After implementing the signed off designs there was a significant decrease in th
     font-family: HKGrotesk-Medium;
 }
 
+.lb-overlay a.lb-close: hover{
+    text-decoration: underline;
+}
+
 .lb-overlay:target {
 	width: auto;
 	height: auto;
