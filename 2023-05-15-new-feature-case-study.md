@@ -263,28 +263,28 @@ hr {
 <ul class="lb-album">
 	<li>
 		<a href="#image-6">
-			<img src="/assets/img/es1.jpg" class="portfolioimg" alt="image01">
+			<img src="/assets/img/es1.png" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-6">
-            <img src="/assets/img/es1.jpg" alt="image01" />
+            <img src="/assets/img/es1.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
 	<li>
 		<a href="#image-7">
-			<img src="/assets/img/es2.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/es2.jpg" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-7">
-            <img src="/assets/img/es2.png" alt="image01" />
+            <img src="/assets/img/es2.jpg" alt="image01" />
             <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
     	<li>
 		<a href="#image-8">
-			<img src="/assets/img/es3.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/es3.jpg" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-8">
-            <img src="/assets/img/es3.png" class="portfoliomobile" alt="image01" />
+            <img src="/assets/img/es3.jpg" class="portfoliomobile" alt="image01" />
             <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
