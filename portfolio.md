@@ -31,7 +31,7 @@ title: "Portfolio"
                 <h4>
                     <a href="/2024-01-25-redesign-case-study/">Giki: Scope 3</a>
                 </h4>
-                <p class="dateStyle">15 September 2023</p>    
+                <p class="dateStyle">15 March 2024</p>    
             </section>
         </summary>
         <img class="puzzleIcon blackright" src="/assets/img/puzzle/blackright.png">        
@@ -50,7 +50,7 @@ title: "Portfolio"
                 <h4>
                     <a href="/2023-05/15-new-feature-case-study/">Boost: Test Planner</a>
                 </h4>
-                <p class="dateStyle">28 July 2023</p>
+                <p class="dateStyle">28 December 2021</p>
             </section>
         </summary>
         <img class="puzzleIcon blackright" src="/assets/img/puzzle/blackright.png">        
