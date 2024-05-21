@@ -208,9 +208,9 @@ title: "Portfolio"
 
 Giki Zero is an employee engagement platform that allows staff to calculate their individual carbon footprint and take sustainable steps to lower it. Often, challenges are run where users can compete to see who can take the most steps. I was responsible for designing new functionality for the website and native mobile application, redesigning old functionality and interpreting user feedback into functioning design solutions. 
 
-* "The graphics are eye-catching and the layout is user friendly."
-* "They really help explain how we can all do our bit. Great user experience!"
-* "So easy, and I can see I have a lot of points for the steps I have already taken on my journey!"
+- "The graphics are eye-catching and the layout is user friendly."
+- "They really help explain how we can all do our bit. Great user experience!"
+- "So easy, and I can see I have a lot of points for the steps I have already taken on my journey!"
 
 <ul class="lb-album">
 	<li>
