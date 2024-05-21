@@ -185,6 +185,11 @@ title: "Portfolio"
     
 }
 
+hr {
+    margin: 40px auto;
+    border: 0.5px solid #d1d1d1;
+}
+
 @media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
 
 .lb-album li > a {
