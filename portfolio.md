@@ -6,7 +6,7 @@ title: "Portfolio"
     <div class="puzzleGrid">
         <summary class="article">
             <section class="article-summary-header">
-                <a href="/2023/09/15/pattern-libraries/">
+                <a href="/2023-05-15-new-feature-case-study">
                     <img src="/assets/img/icons/puzzle.svg" class="svgStyle" alt="Pattern Libraries">
                 </a>
                 <h4>
@@ -25,7 +25,7 @@ title: "Portfolio"
     <div class="puzzleGrid">                    
     <summary class="article">
         <section class="article-summary-header">
-            <a href="/2023/10/16/design-systems/">
+            <a href="/2024-01-25-redesign-case-study/">
                 <img src="/assets/img/icons/puzzle.svg" class="svgStyle" alt="Design Systems">
             </a>
             <h4>
@@ -44,7 +44,7 @@ title: "Portfolio"
     <div class="puzzleGrid">
         <summary class="article">
             <section class="article-summary-header">
-                <a href="/2023/07/28/wireframing/">
+                <a href="/2024-01-25-redesign-case-study/">
                     <img src="/assets/img/icons/puzzle.svg" class="svgStyle" alt="Wireframing">
                 </a>
                 <h4>
