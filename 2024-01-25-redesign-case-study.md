@@ -274,7 +274,7 @@ hr {
 		</a>
         <div class="lb-overlay" id="image-6">
             <img src="/assets/img/zero1.jpg" alt="image01" />
-            <a href="#page" class="lb-close">Return to Portfolio</a>    
+            <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
 	<li>
@@ -283,7 +283,7 @@ hr {
 		</a>
         <div class="lb-overlay" id="image-7">
             <img src="/assets/img/zero2.png" alt="image01" />
-            <a href="#page" class="lb-close">Return to Portfolio</a>    
+            <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
     	<li>
@@ -292,7 +292,7 @@ hr {
 		</a>
         <div class="lb-overlay" id="image-8">
             <img src="/assets/img/zero3.png" alt="image01" />
-            <a href="#page" class="lb-close">Return to Portfolio</a>    
+            <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
     	<li>
@@ -301,7 +301,7 @@ hr {
 		</a>
         <div class="lb-overlay" id="image-9">
             <img src="/assets/img/zero4.jpg" alt="image01" />
-            <a href="#page" class="lb-close">Return to Portfolio</a>    
+            <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
         	<li>
