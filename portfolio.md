@@ -10,11 +10,10 @@ title: "Portfolio"
                 <img src="/assets/img/icons/system.svg" class="svgStyle" alt="Design Systems">
             </a>
             <h4>
-                <a href="/2024/01/25/redesign-case-study/">Design Systems</a>
+                <a href="/2024/01/25/redesign-case-study/">Giki: Zero</a>
             </h4>
             <p class="dateStyle">16 October 2023</p>
         </section>
-        <p>What are Design Systems? <a href="/2023/10/16/design-systems/">Read more</a></p>
     </summary>
         <img class="puzzleIcon blackright" src="/assets/img/puzzle/blackright.png">        
         <img class="puzzleIcon blackdown" src="/assets/img/puzzle/blackdown.png">        
@@ -30,7 +29,7 @@ title: "Portfolio"
                     <img src="/assets/img/icons/library.svg" class="svgStyle" alt="Pattern Libraries">
                 </a>
                 <h4>
-                    <a href="/2024/01/25/redesign-case-study/">Giki Zero</a>
+                    <a href="/2024/01/25/redesign-case-study/">Giki: Scope 3</a>
                 </h4>
                 <p class="dateStyle">15 September 2023</p>    
             </section>
@@ -49,7 +48,7 @@ title: "Portfolio"
                     <img src="/assets/img/icons/pencil.svg" class="svgStyle" alt="Wireframing">
                 </a>
                 <h4>
-                    <a href="/2023/05/15/new-feature-case-study/">Giki Scope 3</a>
+                    <a href="/2023/05/15/new-feature-case-study/">Box Office Company: Test Planner</a>
                 </h4>
                 <p class="dateStyle">28 July 2023</p>    
             </section>
