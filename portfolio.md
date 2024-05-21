@@ -49,7 +49,7 @@ title: "Portfolio"
                     <img src="/assets/img/icons/pencil.svg" class="svgStyle" alt="Wireframing">
                 </a>
                 <h4>
-                    <a href="/2023/07/28/wireframing/">Giki Scope 3</a>
+                    <a href="/2023/05/15/new-feature-case-study/">Giki Scope 3</a>
                 </h4>
                 <p class="dateStyle">28 July 2023</p>    
             </section>
