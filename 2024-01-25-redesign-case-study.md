@@ -73,7 +73,6 @@ After implementing the signed off designs there was a significant decrease in th
 }
 .lb-album li > a{
 	width: 150px;
-	height: 150px;
 	position: relative;
 	padding: 10px;
 	background: #F5F5F5;
@@ -84,7 +83,6 @@ After implementing the signed off designs there was a significant decrease in th
 .lb-album li > a span{
 	position: absolute;
 	width: 150px;
-	height: 150px;
 	top: 10px;
 	left: 10px;
 	text-align: center;
