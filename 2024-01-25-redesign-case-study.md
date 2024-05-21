@@ -111,7 +111,7 @@ After implementing the signed off designs there was a significant decrease in th
 	left: 0px;
 	top: 0px;
 	padding: 0px;
-	z-index: 99;
+	z-index: 999999;
 	text-align: center;
 	background: 
 		radial-gradient(
@@ -166,7 +166,7 @@ After implementing the signed off designs there was a significant decrease in th
 	font-size: 15px;
 	line-height: 26px;
 	text-align: center;
-	width: 126px;
+	width: 145px;
 	height: 23px;
 	overflow: hidden;
 	margin-left: -55px;
