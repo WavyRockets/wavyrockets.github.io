@@ -157,9 +157,6 @@ title: "Portfolio"
 }
 
 .portfolio1 {
-    border: 1px solid #000000;
-    border-radius: 16px;
-    padding: 20px;
     margin-bottom: 20px;
 }
 
@@ -272,6 +269,7 @@ Giki Zero is an employee engagement platform that allows staff to calculate thei
 	</li>
 </ul>
 </div>
+<hr>
 <div class="portfolio1">
 <h2>Giki - Scope 3</h2> 
 
@@ -316,6 +314,7 @@ Giki ES3 is an admin tool that allows organizations to gather data on employee s
 	</li>
 </ul>
 </div>
+<hr>
 <div class="portfolio1">
 <h2>Box Office Company - Test Planner</h2> 
 
