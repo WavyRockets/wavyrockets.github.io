@@ -61,4 +61,4 @@ title: "Portfolio"
         <img class="puzzleIcon whiteright" src="/assets/img/puzzle/whiteright.png"> 
     </div>
 </section>
-<div style="clear:both;"></div>
+<div style="clear:both; margin-bottom:40px;"></div>
