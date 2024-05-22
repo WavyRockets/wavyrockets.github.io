@@ -10,47 +10,41 @@ tags: casestudy, testing, design
 
 <h2>Summary</h2>
 
-Giki Zero is an employee engagement platform that allows staff to calculate their individual carbon footprint and take sustainable steps to lower it. Often, challenges are run where users can compete to see who can take the most steps. Below is an example of one of the many design solutions I was responsible for implementing on this product.
+Boost Test Planner (AKA NightRider) was an automated testing platform designed specifically for testing cinema websites. Tests covered everything from ticketing, concessions, seating, gift cards and loyalty accounts.
 
-Previously, the only way to join a team was through the Join Teams page which users would often ignore. To try and resolve this, Giki introduced a ‘compulsory teams’ setting that would force a user onto the Join Teams page where a user would then need to select their team before they could access any other Pro functionality on the platform. The problem here was that users would often join the wrong team or none at all and then stop engaging with the platform altogether. They had also tested various ideas such as introducing this during the onboarding process or as a pop up which all failed to solve the problem. This was identified through the complaints of admin users and backed up by data. 
+Test Planner began solely as an internal project for the Boost ticketing platform that was used by over 100 cinema chains worldwide. As they were all using the same code with branding and custom features enabled via a CMS, I pointed out that automated tests could be used to ensure all the different scenarios were being tested with each deployment. After setting these up, these proved successful and it wasn't long before I was asked to demo the tests to the CTO of a major cinema chain in the UK who expressed an interest in buying into the idea if we chose to expand on it. 
 
-I was tasked to resolve this issue and to find a way that would get users into the correct team without interfering with the users engagement.
-
-<img src="/assets/img/jointeams.png"/>
+For developing the idea into a client facing interface, I was made responsible for conceptualising the product functionality, developing the product roadmap and designing the user flow and user interface. 
 
 <h2>Problem Statement</h2> 
 
-As an organisation, I want users sorted into their correct teams because they currently aren’t joining when prompted.
+As an organisation, I want to be able to schedule automated tests for my cinema website that are tailored to my specific user journey
 
 <h2>Approach</h2>
 
-My first task was to break down the problem statement into the different issues that would need to be solved as part of this project. This required defining the type of users that were likely to be impacted by this problem, developing user personas with the needs and requirements of each.
+As I already had the automated tests set up to cover the different scenarios running through the consol, the challenge then became developing the user interface that would enable users with less techincal abilities to use the product. I began by breaking down the requirements and use cases for what the product would be used for:
 
-* How can we ensure new users join the correct team when signing up?
-* How can we ensure existing users are sorted into the correct team after already signing up?
-* How can we ensure the engagement of all users isn’t impacted by the changes made?
-* How can we ensure all types of users join the correct teams?
+• It would need to be used internally for scheduling tests for multiple cinemas
+• It would need to be used externally for scheduling tests for individual cinemas
+• It would need to be used both internally and externally for viewing test results
 
-My next task was to carry out market research on platforms that have similar functionality. This led me to discover that, in the vast majority of cases, the assignment of teams is the responsibility of an admin user and not the user themselves which played a large role in changing the spec. 
+This allowed me to prioritise the roadmap based on what I currently had vs what I considered a finished product. This was broken down in such a way that would allow me to release parts of the product sooner rather than later but would also allow for me to scale it up as it grew. 
 
-By updating the problem statement, I was able to establish control over the team assignment, as well as keeping with the original requirements by not interfering with user engagement and simplifying the problem breakdown: 
-
-* How can we give an admin user the ability to assign a new user to a team?
-* How can we give an admin user the ability to assign existing users to a team?
-
-In order to assign new users to a team, I reviewed the user flow to establish the best place for these updates to feature and referred to the engineering team to find out any limitations before testing wireframe concepts with existing admin users where users would be assigned a team at the invitation stage. I also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
+1. Develop a prototype user interface where an internal user could log in and view the test results for multiple cinema chains.
+2. Develop a dashboard for external users to access their test results to track the progress of any bugs identified with the product. 
+3. Expand the tests so they covered more scenarios ranging from the different payment providers to booking fees etc. 
+4. Integrate the ability to schedule and run tests through the dashboard for internal users so they no longer relied on the tests being run through the consol. 
+5. Make the scheduling and running of tasks available to external users.
 
 <div class="imgblock">
-    <img src="/assets/img/wireframecasestudy.png"/>
+    <img src="/assets/img/nightrider3.jpg"/>
 </div>
 
 <h2>Results</h2>
 
-After implementing the signed off designs there was a significant decrease in the number of users not assigned to a team and team related complaints dropped from several times per month to zero. Client satisfaction also improved and a new potential sales opportunity was identified in which team specific challenges could now be integrated. This would allow Giki to sell challenges to individual teams within an organisation.
+The Boost Test Planner proved a highly successful internal tool that showed great potential for becoming an external product we could sell to the masses. Unfortunately, before we were able to reach the stage where we could sell this externally, the COVID pandemic hit cinemas worldwide and the company were no longer able to invest in the product as they moved their focus towards trying keep cinemas open. 
 
-<div class="gifblock">
-    <img src="/assets/img/casestudy.gif" class="gif"/>
-</div>
+The experience of conceptualising and designing this product inspired me to move forward as a product designer with Giki and expand my design skills further. 
 
 <style>
 .lb-album{
@@ -272,46 +266,19 @@ hr {
 <ul class="lb-album">
 	<li>
 		<a href="#image-6">
-			<img src="/assets/img/zero1.jpg" class="portfolioimg" alt="image01">
+			<img src="/assets/img/nightrider1.jpg" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-6">
-            <img src="/assets/img/zero1.jpg" alt="image01" />
+            <img src="/assets/img/nightrider1.jpg" alt="image01" />
             <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
 	<li>
 		<a href="#image-7">
-			<img src="/assets/img/zero2.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/nightrider2.png" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-7">
-            <img src="/assets/img/zero2.png" alt="image01" />
-            <a href="#page" class="lb-close">Return to Case Study</a>    
-        </div>
-	</li>
-    	<li>
-		<a href="#image-8">
-			<img src="/assets/img/zero3.png" class="portfolioimg" alt="image01">
-		</a>
-        <div class="lb-overlay" id="image-8">
-            <img src="/assets/img/zero3.png" alt="image01" />
-            <a href="#page" class="lb-close">Return to Case Study</a>    
-        </div>
-	</li>
-    	<li>
-		<a href="#image-9">
-			<img src="/assets/img/zero4.jpg" class="portfolioimg" alt="image01">
-		</a>
-        <div class="lb-overlay" id="image-9">
-            <img src="/assets/img/zero4.jpg" alt="image01" />
-            <a href="#page" class="lb-close">Return to Case Study</a>    
-        </div>
-	</li>
-        	<li>
-		<a href="#image-10">
-			<img src="/assets/img/zero5.png" class="portfolioimg" alt="image01">
-		</a>
-        <div class="lb-overlay" id="image-10">
-            <img src="/assets/img/zero5.png" class="portfoliomobile" alt="image01" />
+            <img src="/assets/img/nightrider2.png" alt="image01" />
             <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
