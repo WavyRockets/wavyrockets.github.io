@@ -31,7 +31,7 @@ title: "Portfolio"
             <h4>
                 <a href="/2024-01-25-redesign-case-study/">Giki: Zero</a>
             </h4>
-            <p class="dateStyle">16 October 2023</p>
+            <p class="dateStyle">18 October 2023</p>
         </section>
     </summary>
         <img class="puzzleIcon blackright" src="/assets/img/puzzle/blackright.png">        
