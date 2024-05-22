@@ -22,7 +22,7 @@ As an organisation, I want to be able to schedule automated tests for my cinema 
 
 <h2>Approach</h2>
 
-As I already had the automated tests set up to cover the different scenarios running through the consol, the challenge then became developing the user interface that would enable users with less techincal abilities to use the product. I began by breaking down the requirements and use cases for what the product would be used for:
+As I already had the automated tests set up to cover the different scenarios running through the consol, the challenge then became developing the user interface that would enable users with less techincal abilities to use the product. I began by speaking with cinemas externally as well as the internal QA team to identify the use cases and broke down the different requirements for what the product would be used for:
 
 • It would need to be used internally for scheduling tests for multiple cinemas.<br>
 • It would need to be used externally for scheduling tests for individual cinemas.<br>
