@@ -46,7 +46,7 @@ In order to assign new users to a team, I reviewed the user flow to establish th
 
 <h2>Results</h2>
 
-After implementing the signed off designs there was a significant decrease in the number of users not assigned to a team and team related complaints dropped from several times per month to zero. Client satisfaction also improved and a new potential sales opportunity was identified in which team specific challenges could now be integrated. This would allow Giki to sell challenges to individual teams within an organisation.
+After implementing the signed off designs there was a significant decrease in the number of users not assigned to a team and team related complaints dropped from several times per month to zero. Client satisfaction also improved and a new potential sales opportunity was identified in which team specific challenges could now be integrated. This would allow Giki to sell challenges to individual teams within an organisation. For me the most interesting part of this experience was the research phase and learning to think outside the box and see the problem from a new perspective. 
 
 <div class="gifblock">
     <img src="/assets/img/casestudy.gif" class="gif"/>

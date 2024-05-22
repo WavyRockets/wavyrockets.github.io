@@ -44,7 +44,7 @@ This allowed me to prioritise the roadmap based on what I currently had vs what 
 
 The Boost Test Planner proved a highly successful internal tool that showed great potential for becoming an external product we could sell to the masses. Unfortunately, before we were able to reach the stage where we could sell this externally, the COVID pandemic hit cinemas worldwide and the company were no longer able to invest in the product as they moved their focus towards trying keep cinemas open. 
 
-The experience of conceptualising and designing this product inspired me to move forward as a product designer with Giki and expand my design skills further. 
+For me the most enjoyable part of the experience was the enthusiam others had for what started out as a personal project of mine that grew into it's own team. The experience of conceptualising and designing this product is what inspired me to move forward as a product designer with Giki and expand my design skills further. 
 
 <style>
 .lb-album{

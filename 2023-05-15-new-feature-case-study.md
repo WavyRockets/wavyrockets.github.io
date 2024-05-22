@@ -37,7 +37,7 @@ After determining the high and low priority areas of functionality for the MVP, 
 
 <h2>Results</h2>
 
-TBC
+Giki ES3 proved to be a success from the very beginning, allowing us to sign a contract with a business with over 50,000 employees even before we had completed the development phase. After the product's launch it went on to gain contracts with 4 new organizations within it's first 6 months as well bringing back old clients who had failed to renew with Giki Zero the year prior. For me the most interesting part of this experience was fleshing out the requirements and helping to work out the high priority features for the MVP and those that would be integrated post launch.
 
 <div class="gifblock">
     <img src="/assets/img/es3demo.gif" class="gif"/>
