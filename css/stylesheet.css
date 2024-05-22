@@ -815,6 +815,10 @@ section.page-header .welcometo {
     max-width: 720px !important;
 }
 
+article.portfolio {
+    max-width: 1200px !important;
+}
+
 .about article p {
     font-family: HKGrotesk-Regular;
     font-size: 16px;
