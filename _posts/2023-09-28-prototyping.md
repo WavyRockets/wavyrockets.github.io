@@ -5,7 +5,7 @@ author: Scott
 layout: post
 image: /assets/img/2021/06/deep-fried.png
 icon: gears
-tags: theory, testing
+tags: theory, testing, design
 ---
 
 A prototype is the first step towards developing an idea into a functioning product and can be used to demonstrate or test a new concept before it is released to the public. Another advantage is that they are inexpensive and quick to produce, saving time and money by solving problems sooner rather than later.
