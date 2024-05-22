@@ -276,10 +276,10 @@ hr {
 	</li>
 	<li>
 		<a href="#image-7">
-			<img src="/assets/img/nightrider2.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/nightrider2.jpg" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-7">
-            <img src="/assets/img/nightrider2.png" alt="image01" />
+            <img src="/assets/img/nightrider2.jpg" alt="image01" />
             <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
