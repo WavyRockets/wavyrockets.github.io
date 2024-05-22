@@ -26,7 +26,7 @@ As I already had the automated tests set up to cover the different scenarios run
 
 • It would need to be used internally for scheduling tests for multiple cinemas.<br>
 • It would need to be used externally for scheduling tests for individual cinemas.<br>
-• It would need to be used both internally and externally for viewing test results.
+• It would need to be used both internally and externally for viewing and comparing test results.
 
 This allowed me to prioritise the roadmap based on what I currently had vs what I considered to be a finished product. This was broken down in such a way that would allow me to release parts of the product sooner rather than later but would also allow for me to scale it up as it grew. 
 
