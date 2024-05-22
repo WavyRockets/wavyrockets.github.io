@@ -44,11 +44,11 @@ title: "Portfolio"
     <div class="puzzleGrid">
         <summary class="article">
             <section class="article-summary-header">
-                <a href="/2024-01-25-redesign-case-study/">
+                <a href="/2021-12-28-product-owner-case-study">
                     <img src="/assets/img/icons/puzzle.svg" class="svgStyle" alt="Wireframing">
                 </a>
                 <h4>
-                    <a href="/2023-05/15-new-feature-case-study/">Boost: Test Planner</a>
+                    <a href="/2021-12-28-product-owner-case-study">Boost: Test Planner</a>
                 </h4>
                 <p class="dateStyle">28 December 2021</p>
             </section>
