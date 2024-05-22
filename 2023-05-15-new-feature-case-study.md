@@ -237,7 +237,7 @@ hr {
 @media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
 
 .lb-album li > a {
-    width: 80px;
+    width: 70px;
     margin-bottom: 20px !important;
 }
 
