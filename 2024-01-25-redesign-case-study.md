@@ -82,7 +82,7 @@ After implementing the signed off designs there was a significant decrease in th
 
 .lb-album li > a span{
 	position: absolute;
-	width: 150px;
+	width: 103px;
 	top: 10px;
 	left: 10px;
 	text-align: center;
@@ -246,7 +246,7 @@ hr {
 @media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
 
 .lb-album li > a {
-    width: 105px;
+    width: 80px;
     margin-bottom: 20px !important;
 }
 
