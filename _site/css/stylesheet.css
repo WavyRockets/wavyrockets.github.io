@@ -730,6 +730,7 @@ section.page-header .welcometo {
 
 .about article {
     margin: 0 auto;
+    max-width: 720px;
 }
 
 .about article p {
