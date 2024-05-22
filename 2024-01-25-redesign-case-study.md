@@ -72,7 +72,7 @@ After implementing the signed off designs there was a significant decrease in th
 	display: block;
 }
 .lb-album li > a{
-	width: 150px;
+	width: 103px;
 	position: relative;
 	padding: 10px;
 	background: #F5F5F5;
