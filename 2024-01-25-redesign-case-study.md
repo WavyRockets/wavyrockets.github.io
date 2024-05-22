@@ -1,5 +1,5 @@
 ---
-title: "Case Study #3 (Problem Solving)"
+title: "Case Study #2 (Problem Solving)"
 date: 2023-10-18 14:52:00:00 +00:00
 author: Scott
 layout: post
