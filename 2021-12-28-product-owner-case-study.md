@@ -241,7 +241,6 @@ hr {
 
 .lb-album li > a {
     width: 105px;
-    height: 105px; 
     margin-bottom: 20px !important;
 }
 
