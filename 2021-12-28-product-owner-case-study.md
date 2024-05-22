@@ -24,11 +24,11 @@ As an organisation, I want to be able to schedule automated tests for my cinema 
 
 As I already had the automated tests set up to cover the different scenarios running through the consol, the challenge then became developing the user interface that would enable users with less techincal abilities to use the product. I began by breaking down the requirements and use cases for what the product would be used for:
 
-• It would need to be used internally for scheduling tests for multiple cinemas<br>
-• It would need to be used externally for scheduling tests for individual cinemas<br>
-• It would need to be used both internally and externally for viewing test results
+• It would need to be used internally for scheduling tests for multiple cinemas.<br>
+• It would need to be used externally for scheduling tests for individual cinemas.<br>
+• It would need to be used both internally and externally for viewing test results.
 
-This allowed me to prioritise the roadmap based on what I currently had vs what I considered a finished product. This was broken down in such a way that would allow me to release parts of the product sooner rather than later but would also allow for me to scale it up as it grew. 
+This allowed me to prioritise the roadmap based on what I currently had vs what I considered to be a finished product. This was broken down in such a way that would allow me to release parts of the product sooner rather than later but would also allow for me to scale it up as it grew. 
 
 • Develop a prototype user interface where an internal user could log in and view the test results for multiple cinema chains. <br>
 • Develop a dashboard for external users to access their test results to track the progress of any bugs identified with the product. <br> 
