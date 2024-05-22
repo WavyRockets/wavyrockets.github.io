@@ -63,7 +63,7 @@ Giki ES3 proved to be a success from the very beginning, allowing us to sign a c
 	display: block;
 }
 .lb-album li > a{
-	width: 150px;
+	width: 139px;
 	position: relative;
 	padding: 10px;
 	background: #F5F5F5;
@@ -73,7 +73,7 @@ Giki ES3 proved to be a success from the very beginning, allowing us to sign a c
 
 .lb-album li > a span{
 	position: absolute;
-	width: 150px;
+	width: 139px;
 	top: 10px;
 	left: 10px;
 	text-align: center;
@@ -237,7 +237,7 @@ hr {
 @media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
 
 .lb-album li > a {
-    width: 105px;
+    width: 80px;
     margin-bottom: 20px !important;
 }
 
