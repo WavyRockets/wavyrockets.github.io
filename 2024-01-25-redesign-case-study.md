@@ -191,6 +191,7 @@ After implementing the signed off designs there was a significant decrease in th
 .lb-overlay:target img,
 .lb-overlay:target a.lb-close{
 	opacity: 1;
+    text-decoration: underline;
 }
 
 .lb-overlay:target img {

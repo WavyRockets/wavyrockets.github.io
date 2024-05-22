@@ -182,6 +182,7 @@ TBC
 .lb-overlay:target img,
 .lb-overlay:target a.lb-close{
 	opacity: 1;
+    text-decoration: underline;
 }
 
 .lb-overlay:target img {

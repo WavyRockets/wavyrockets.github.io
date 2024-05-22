@@ -185,6 +185,7 @@ The experience of conceptualising and designing this product inspired me to move
 .lb-overlay:target img,
 .lb-overlay:target a.lb-close{
 	opacity: 1;
+    text-decoration: underline;
 }
 
 .lb-overlay:target img {
