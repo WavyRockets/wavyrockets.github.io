@@ -284,7 +284,7 @@ hr {
 	</li>
     <li>
 		<a href="#image-8">
-			<img src="/assets/img/nightrider4.png" class="portfolioimg" alt="image01">
+			<img src="/assets/img/nightrider4.png" class="portfolioimg update" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-8">
             <img src="/assets/img/nightrider4.png" alt="image01" />
