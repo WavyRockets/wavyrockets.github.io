@@ -10,7 +10,7 @@ tags: casestudy, testing, design
 
 <h2>Summary</h2>
 
-Boost Test Planner (AKA NightRider) was an automated testing platform designed specifically for testing cinema websites. Tests covered everything from ticketing, concessions, seating, gift cards and loyalty accounts.
+Boost Test Planner (AKA NightRider) was an automated testing platform designed specifically for testing cinema websites for the Boost devision of the Box Office Company. Tests covered everything from ticketing, concessions, seating, gift cards and loyalty accounts.
 
 Test Planner began solely as an internal project for the Boost ticketing platform that was used by over 100 cinema chains worldwide. As they were all using the same code with branding and custom features enabled via a CMS, I pointed out that automated tests could be used to ensure all the different scenarios were being tested with each deployment. After setting these up, these proved successful and it wasn't long before I was asked to demo the tests to the CTO of a major cinema chain in the UK who expressed an interest in buying into the idea if we chose to expand on it. 
 
