@@ -256,6 +256,10 @@ hr {
     z-index: 99999;
 }
 
+.lb-album li {
+margin-right: 5px;
+}
+
 }
 
 </style>
