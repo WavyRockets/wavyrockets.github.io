@@ -1,34 +1,17 @@
 ---
-layout: portfolio
+layout: default
 permalink: /portfolio
-
 ---
-<main class="mainStyle about post">
-  {% if page.title.size > 0 and page.author.size > 0 %}
-    <section class="page-header2">
-      {% if page.icon.size > 0 %}
-        {%
-          include icon.html
-          icon=page.icon
-          alt=page.title
-        %}
-      {% endif %}
-
-      <h1 class="subHeader">
-        {{ page.title }}
-      </h1>
-      <p class="dateStyle">{{ page.date | date_to_long_string }}</p>
-
-      {%
-        include written-on.html
-        date=page.date
-        author=page.author
-      %}
-    </section>
+<main class="mainStyle about">
+<article class="portfolio">
+  {% if page.title.size > 0 %}
+  <section class="page-header">
+    <h1 class="subHeader">
+      {{ page.title }}
+    </h1>
+  </section>
   {% endif %}
-
-  {{ content }}
   
-<div class="clearfix"></div>
+  {{ content }}
+</article>
 </main>
-{% include related-posts.html %}
