@@ -282,13 +282,4 @@ hr {
             <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
-    <li>
-		<a href="#image-8">
-			<img src="/assets/img/nightrider4.png" class="portfolioimg update" alt="image01">
-		</a>
-        <div class="lb-overlay" id="image-8">
-            <img src="/assets/img/nightrider4.png" alt="image01" />
-            <a href="#page" class="lb-close">Return to Case Study</a>    
-        </div>
-	</li>
 </ul>
