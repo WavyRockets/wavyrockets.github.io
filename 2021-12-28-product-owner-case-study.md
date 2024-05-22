@@ -24,17 +24,17 @@ As an organisation, I want to be able to schedule automated tests for my cinema 
 
 As I already had the automated tests set up to cover the different scenarios running through the consol, the challenge then became developing the user interface that would enable users with less techincal abilities to use the product. I began by breaking down the requirements and use cases for what the product would be used for:
 
-• It would need to be used internally for scheduling tests for multiple cinemas
-• It would need to be used externally for scheduling tests for individual cinemas
+• It would need to be used internally for scheduling tests for multiple cinemas<br>
+• It would need to be used externally for scheduling tests for individual cinemas<br>
 • It would need to be used both internally and externally for viewing test results
 
 This allowed me to prioritise the roadmap based on what I currently had vs what I considered a finished product. This was broken down in such a way that would allow me to release parts of the product sooner rather than later but would also allow for me to scale it up as it grew. 
 
-1. Develop a prototype user interface where an internal user could log in and view the test results for multiple cinema chains.
-2. Develop a dashboard for external users to access their test results to track the progress of any bugs identified with the product. 
-3. Expand the tests so they covered more scenarios ranging from the different payment providers to booking fees etc. 
-4. Integrate the ability to schedule and run tests through the dashboard for internal users so they no longer relied on the tests being run through the consol. 
-5. Make the scheduling and running of tasks available to external users.
+• Develop a prototype user interface where an internal user could log in and view the test results for multiple cinema chains. <br>
+• Develop a dashboard for external users to access their test results to track the progress of any bugs identified with the product. <br> 
+• Expand the tests so they covered more scenarios ranging from the different payment providers to booking fees etc. <br>
+• Integrate the ability to schedule and run tests through the dashboard for internal users so they no longer relied on the tests being run through the consol. <br>
+• Make the scheduling and running of tasks available to external users.
 
 <div class="imgblock">
     <img src="/assets/img/nightrider3.jpg"/>
