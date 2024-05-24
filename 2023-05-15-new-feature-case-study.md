@@ -297,7 +297,7 @@ margin-right: 5px;
 			<img src="/assets/img/es4.jpg" class="portfolioimg" alt="image01">
 		</a>
         <div class="lb-overlay" id="image-9">
-            <img src="/assets/img/zero4.jpg" alt="image01" />
+            <img src="/assets/img/es4.jpg" alt="image01" />
             <a href="#page" class="lb-close">Return to Case Study</a>    
         </div>
 	</li>
