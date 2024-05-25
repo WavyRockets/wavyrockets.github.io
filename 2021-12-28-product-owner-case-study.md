@@ -1,6 +1,6 @@
 ---
 title: "Case Study #1 (Product Owner)"
-date: 2023-10-18 14:52:00:00 +00:00
+date: 2021-10-18 14:52:00:00 +00:00
 author: Scott
 layout: post
 image: /assets/img/icons/puzzle.svg
@@ -44,7 +44,9 @@ This allowed me to prioritise the roadmap based on what I currently had vs what 
 
 The Boost Test Planner proved a highly successful internal tool that showed great potential for becoming an external product we could sell to the masses. Unfortunately, before we were able to reach the stage where we could sell this externally, the COVID pandemic hit cinemas worldwide and the company were no longer able to invest in the product as they moved their focus towards trying keep cinemas open. 
 
-For me the most enjoyable part of the experience was the enthusiam others had for what started out as a personal project of mine that grew into it's own team. The experience of conceptualising and designing this product is what inspired me to move forward as a product designer with Giki and expand my design skills further. 
+For me the most enjoyable part of the experience was the enthusiam others had for what started out as a personal project of mine that grew into it's own team. The biggest challenge, however, was finding the balance between a tool that could be used internally by developers with a techincal background and those external users with no initial understanding of the process. 
+
+The experience of conceptualising and designing this product is what inspired me to move forward as a product designer with Giki and expand my design skills further. 
 
 <style>
 .lb-album{
