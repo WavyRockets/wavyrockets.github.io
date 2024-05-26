@@ -38,6 +38,10 @@ By updating the problem statement, I was able to establish control over the team
 * How can we give an admin user the ability to assign a new user to a team?
 * How can we give an admin user the ability to assign existing users to a team?
 
+<div class="imgblock">
+    <img src="/assets/img/userflowall.png"/>
+</div>
+
 In order to assign new users to a team, I reviewed the user flow to establish the best place for these updates to feature and referred to the engineering team to find out any limitations before testing wireframe concepts with existing admin users where users would be assigned a team at the invitation stage. I also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
 
 <div class="imgblock">
