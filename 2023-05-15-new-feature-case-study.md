@@ -36,7 +36,7 @@ The next step was to review existing admin tools and survey best practices such 
 
 <div class="imgblock">
     <img src="/assets/img/userpersona.png"/>
-    A visual representation of the user personas created for this project
+    A visual representation of the user persona template used
 </div>
 
 After determining the high and low priority areas of functionality for the MVP, we were able to test various wireframe solutions and mock up a UI prototype in order to test the different use cases.
