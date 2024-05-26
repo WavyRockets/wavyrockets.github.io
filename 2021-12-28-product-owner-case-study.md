@@ -1,6 +1,6 @@
 ---
 title: "Case Study #1 (Product Owner)"
-date: 2021-10-18 14:52:00:00 +00:00
+date: 2021-12-28 14:52:00:00 +00:00
 author: Scott
 layout: post
 image: /assets/img/icons/puzzle.svg
