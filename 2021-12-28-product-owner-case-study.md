@@ -38,6 +38,7 @@ This allowed me to prioritise the roadmap based on what I currently had vs what 
 
 <div class="imgblock">
     <img src="/assets/img/nightrider3.jpg"/>
+    A visual representation of the Test Planner roadmap
 </div>
 
 <h2>Results</h2>

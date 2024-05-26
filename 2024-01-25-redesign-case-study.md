@@ -12,11 +12,16 @@ tags: casestudy, testing, design
 
 Giki Zero is an employee engagement platform that allows staff to calculate their individual carbon footprint and take sustainable steps to lower it. Often, challenges are run where users can compete to see who can take the most steps. Below is an example of one of the many design solutions I was responsible for implementing on this product.
 
+<img src="/assets/img/jointeams.png"/>
+
 Previously, the only way to join a team was through the Join Teams page which users would often ignore. To try and resolve this, Giki introduced a ‘compulsory teams’ setting that would force a user onto the Join Teams page where a user would then need to select their team before they could access any other Pro functionality on the platform. The problem here was that users would often join the wrong team or none at all and then stop engaging with the platform altogether. They had also tested various ideas such as introducing this during the onboarding process or as a pop up which all failed to solve the problem. This was identified through the complaints of admin users and backed up by data. 
 
 I was tasked to resolve this issue and to find a way that would get users into the correct team without interfering with the users engagement.
 
-<img src="/assets/img/jointeams.png"/>
+<div class="imgblock">
+    <img src="/assets/img/finishedteams.png"/>
+    A UI representation of the design solution implemented on the website
+</div>
 
 <h2>Problem Statement</h2> 
 
@@ -40,13 +45,17 @@ By updating the problem statement, I was able to establish control over the team
 
 <div class="imgblock">
     <img src="/assets/img/userflowall.png"/>
+    The Giki Zero user flow diagram for the product
 </div>
 
 In order to assign new users to a team, I reviewed the user flow to establish the best place for these updates to feature and referred to the engineering team to find out any limitations before testing wireframe concepts with existing admin users where users would be assigned a team at the invitation stage. I also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
 
 <div class="imgblock">
     <img src="/assets/img/wireframecasestudy.png"/>
+    A visual representation of the high-fidelity wireframe concepts we used for testing 
 </div>
+
+Some of the feedback we recieved from test users proved very useful leading me to implement search functionality within the teams dropdown menus. It also pointed out that pagination limited the ability to filter only 10 unassigned users at a time which led to me implementing a filter to increase or decrease the pagination limit.
 
 <h2>Results</h2>
 

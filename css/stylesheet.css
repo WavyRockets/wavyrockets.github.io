@@ -28,6 +28,12 @@
   src: url(fonts/HKGrotesk-Regular.otf);
 }
 
+@font-face {
+  font-family: HKGrotesk-Italic;
+  src: url(fonts/HKGrotesk-Italic.otf);
+}
+
+
 .puzzleGrid:nth-of-type(8) {
     background-color: #000000 !important;
     color: #ffffff !important;
@@ -198,6 +204,11 @@ ol {
     margin-top: 30px;
     margin-bottom: 30px;
     padding: 20px;
+}
+
+.imgblock p {
+    font-family: HKGrotesk-Italic;
+    text-align: center;
 }
 
 ul ul, ol ul { 

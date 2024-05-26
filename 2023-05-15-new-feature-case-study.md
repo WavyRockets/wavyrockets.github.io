@@ -14,6 +14,7 @@ Giki ES3 is an admin tool that allows organizations to gather data on employee s
 
 <div class="imgblock">
     <img src="/assets/img/es3screens.png"/>
+    A UI representation of the design solution now under development
 </div>
 
 <h2>Problem Statement</h2> 
@@ -35,6 +36,7 @@ The next step was to review existing admin tools and survey best practices such 
 
 <div class="imgblock">
     <img src="/assets/img/userpersona.png"/>
+    A visual representation of the user personas created for this project
 </div>
 
 After determining the high and low priority areas of functionality for the MVP, we were able to test various wireframe solutions and mock up a UI prototype in order to test the different use cases.
