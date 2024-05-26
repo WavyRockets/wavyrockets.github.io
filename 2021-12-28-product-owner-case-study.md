@@ -16,6 +16,11 @@ Test Planner began solely as an internal project for the Boost ticketing platfor
 
 For developing the idea into a client facing interface, I was made responsible for conceptualising the product functionality, developing the product roadmap and designing the user flow and user interface. 
 
+<div class="imgblock">
+    <img src="/assets/img/uinightrider.png"/>
+    A UI representation of the design solution implemented within the product
+</div>
+
 <h2>Problem Statement</h2> 
 
 As an organisation, I want to be able to schedule automated tests for my cinema website that are tailored to my specific user journey
