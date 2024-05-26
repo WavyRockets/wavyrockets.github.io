@@ -19,7 +19,7 @@ Previously, the only way to join a team was through the Join Teams page which us
 I was tasked to resolve this issue and to find a way that would get users into the correct team without interfering with the users engagement.
 
 <div class="imgblock">
-    <img src="/assets/img/finishedteams.png"/>
+    <img src="/assets/img/finisheddesigns.png"/>
     A UI representation of the design solution implemented on the website
 </div>
 
