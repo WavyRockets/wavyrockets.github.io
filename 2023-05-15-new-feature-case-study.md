@@ -33,6 +33,10 @@ The next step was to review existing admin tools and survey best practices such 
 * Org Admins (Users who have access to only their own organization) 
 * Employees (Users who will only use the survey and not the admin site)
 
+<div class="imgblock">
+    <img src="/assets/img/userpersona.png"/>
+</div>
+
 After determining the high and low priority areas of functionality for the MVP, we were able to test various wireframe solutions and mock up a UI prototype in order to test the different use cases.
 
 <h2>Results</h2>
