@@ -1,0 +1,904 @@
+@font-face {
+  font-family: Montserrat-Bold;
+  src: url(../fonts/Montserrat-Bold.ttf);
+}
+
+@font-face {
+  font-family: Montserrat-Medium;
+  src: url(../fonts/Montserrat-Medium.ttf);
+}
+
+@font-face {
+  font-family: Montserrat-Regular;
+  src: url(../fonts/Montserrat-Regular.ttf);
+}
+
+.hidden {
+    display: none;
+}
+
+.trippleGrid {
+    float: left; 
+    width: 33%;
+}
+
+
+.casestudyimage {
+    width: 100% !important;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.casestudyimage.half {
+    width: 50% !important;
+}
+
+.trippleGridTitle {
+    font-family: Montserrat-Bold;
+    text-align: center;
+    color: #333333;
+    font-size: 1.13rem;
+    line-height: 36px;
+}
+
+
+.trippleGridText {
+    font-family: Montserrat-Medium;
+    text-align: center;
+    color: #666666;
+    font-size: 1.13rem;
+    line-height: 36px;
+    padding-bottom: 40px;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.menu {
+     width: 100%;
+     height: 5vw;
+     margin: 0;
+     list-style-type: none;
+     left: 200px;
+     display: flex;
+     justify-content: center;
+     padding-top: 35px;
+     padding-bottom: 10px;
+}
+
+.menu ul {
+    padding-left: 0px;
+}
+
+li {
+      left: 200px;
+      display: inline;
+      padding: 5px;
+      font-size: 20px;
+      transform: translate(-50%, -50%);
+}
+
+li a {
+      left: 200px;
+      padding: 33px 35px;
+      float: center;
+      text-decoration: none;
+      color: #333333;
+      font-family: Montserrat-Bold;
+      font-size: 1.00rem;
+      background: #ffffff;
+      padding: 15px 30px;
+      border-radius: 44px;
+      display: inline;
+      text-decoration: none;
+      transition: 0.3s;
+}
+
+    .userfeedback {
+        font-size: 1.13rem;
+        color:#333333;
+        font-family: Montserrat-Medium;
+        line-height: 36px;
+    }
+
+li a#active {
+    color: #ffffff;
+    background: #333333;
+}
+
+li a:hover {
+    transition: 0.3s;
+    color: #ffffff;
+    background: #333333;
+}
+
+.containerMain {
+    max-width: 1190px;
+    margin: 0 auto;
+}
+
+.containerMain .intro {
+    width: 815px;
+    margin: 0 auto;
+}
+
+.containerMain .intro h1 {
+    font-family: Montserrat-Bold;
+    text-align: center;
+    color: #333333;
+    font-size: 2.25rem;
+    padding-bottom: 10px;
+}
+
+.containerMain .faqs h2 {
+    font-family: Montserrat-Bold;
+    text-align: center;
+    color: #333333;
+    font-size: 2.25rem;
+    padding-bottom: 10px;
+}
+
+.containerMain .intro p {
+    font-family: Montserrat-Medium;
+    text-align: center;
+    color: #666666;
+    font-size: 1.13rem;
+    line-height: 36px;
+    padding-bottom: 40px;
+}
+
+.containerMain .caseStudy {
+    width: 100%;
+    min-height: 350px;
+    border-radius: 30px;
+    margin-bottom: 35px;
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+
+.containerMain .caseStudy h2 {
+    font-family: Montserrat-Bold;
+    color: #333333;
+    font-size: 1.75rem;
+}
+
+.containerMain .containerContent h2 {
+    font-family: Montserrat-Bold;
+    color: #333333;
+    font-size: 1.75rem;
+}
+
+.containerMain .caseStudy a {
+    font-family: Montserrat-Bold;
+    color: #ffffff;
+    font-size: 1.00rem;
+    background: #333333;
+    padding: 15px 30px;
+    border-radius: 44px;
+    display: inline;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+#oneipad {
+    width:500px;
+    position: absolute;
+    right: 120px;
+    bottom: 0;
+    margin-bottom: -30px;
+    transition: 1s;
+}
+
+#twomacbook {
+    width:700px;
+    position: absolute;
+    left: 0px;
+    bottom: 0;
+    margin-left: -30px;
+    transition: 1s;
+}
+
+#fourimac {
+    width:550px;
+    position: absolute;
+    left: 0px;
+    bottom: 0;
+    margin-left: -30px;
+    transition: 1s;
+}
+
+#threeiphone {
+    width: 400px;
+    position: absolute;
+    right: 120px;
+    bottom: 0;
+    margin-bottom: -30px;
+    transition: 1s;
+}
+
+.containerMain .caseStudy a:hover {
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+.containerMain .caseStudy.one {
+    background: #DDE1FF;
+    position: relative;
+    overflow: hidden;
+}
+.caseStudyContainer {
+    width: 40%;
+    float: left;
+    padding-left: 90px;
+}
+
+.caseStudyContainer2 {
+    width: 40%;
+    float: right;
+    padding-right: 70px;
+}
+
+.containerMain .caseStudy p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.containerMain .caseStudy.one p span {
+    font-family: Montserrat-Regular;
+    color: #333333;
+    font-size: 1.00rem;
+    background: #C6CCF6;
+    padding: 10px 20px;
+    border-radius: 44px;
+    margin-right: 10px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.containerMain .caseStudy.two p span {
+    font-family: Montserrat-Regular;
+    color: #333333;
+    font-size: 1.00rem;
+    background: #F1DCF4;
+    padding: 10px 20px;
+    border-radius: 44px;
+    margin-right: 10px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.containerMain .caseStudy.three p span {
+    font-family: Montserrat-Regular;
+    color: #333333;
+    font-size: 1.00rem;
+    background: #F6D29E;
+    padding: 10px 20px;
+    border-radius: 44px;
+    margin-right: 10px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.slick-track {
+    transition-delay: 2s;
+}
+
+.containerMain .caseStudy.four p span {
+    font-family: Montserrat-Regular;
+    color: #333333;
+    font-size: 1.00rem;
+    background: #F1BFBE;
+    padding: 10px 20px;
+    border-radius: 44px;
+    margin-right: 10px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.containerMain .caseStudy.one:hover #oneipad {
+    margin-bottom: 0px;
+}
+
+.containerMain .caseStudy.two:hover #twomacbook {
+    margin-left: 0px;
+}
+
+.containerMain .caseStudy.three:hover #threeiphone {
+    margin-bottom: 0px;
+}
+
+.containerMain .caseStudy.four:hover #fourimac {
+    margin-left: 0px;
+}
+
+.containerMain .caseStudy.two {
+    background: #FDF0FF;
+    position: relative;
+    overflow: hidden;
+}
+
+.containerMain .caseStudy.three {
+    background: #FFE2B7;
+    position: relative;
+    overflow: hidden;
+}
+
+.containerMain .caseStudy.four {
+    background: #FFDEDD;
+    position: relative;
+    overflow: hidden;
+}
+
+#copyright {
+    font-family: Montserrat-Medium;
+    text-align: center;
+    color: #666666;
+    font-size: 1.13rem;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+.containerContent p {
+    font-family: Montserrat-Medium;
+    text-align: left;
+    color: #666666;
+    font-size: 1.13rem;
+    line-height: 36px;
+}
+
+.containerContent .standOut {
+    font-family: Montserrat-Bold;
+    text-align: left;
+    color: #333333;
+    font-size: 1.13rem;
+    line-height: 36px;
+}
+
+.containerContent {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.carousel {
+    margin-top: 20px;
+}
+
+.accordion_head {
+  background-color: #ffffff;
+  color: #666666;
+  cursor: pointer;
+  font-family: Montserrat-Medium;
+  font-size: 1.13rem;
+  padding: 40px 20px;
+  border-bottom: 1px solid #333333;
+}
+
+.accordion_body {
+  background: #ffffff;;
+}
+
+.accordion_body p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #ffffff;
+  color: #666666;
+  font-family: Montserrat-Medium;
+  font-size: 1.13rem;
+  line-height: 36px;
+}
+
+.plusminus {
+  float: right;
+  color: #333333;
+  cursor: pointer;
+  font-family: Montserrat-Medium;
+  font-size: 2.5rem;
+  margin-top:-12px;
+}
+
+.containerMain.newArea {
+    margin-top: -60px;
+}
+
+/* Slider */
+.slick-slide {
+    margin: 0px 20px;
+    padding-bottom: 20px;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+.slick-slider
+{
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+    display: block;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+
+    display: block;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+.slick-slide img
+{
+    display: block;
+}
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+
+    height: auto;
+
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
+
+/* large tablet styles */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    
+    .containerMain .intro.new p {
+        padding-bottom: 0px;
+    }
+    
+    .containerMain .caseStudy h2 {
+        font-size: 1.2rem !important;
+    }
+    
+    .containerMain .faqs h2 {
+        font-size: 2.0rem;
+    }
+    
+    .containerContent p {
+        font-size: 0.9rem;
+    }
+    
+    .accordion_body p {
+        font-size: 0.9rem;
+    }
+    
+    .accordion_head {
+        font-size: 0.9rem;
+    }
+    
+    .containerContent .standOut {
+        font-size: 0.9rem;
+    }
+    
+    .userfeedback {
+        font-size: 0.9rem;    
+    }
+    
+    .containerMain {
+        max-width: 90%;
+    }
+    
+    .trippleGridTitle, .trippleGridText {
+        font-size: 0.9rem;
+    }
+
+    
+    .containerMain .intro {
+        width: 80%;
+    }
+    
+    li a {
+        font-size: 0.9rem;
+    }
+    
+    .containerMain .caseStudy p {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+    #threeiphone {
+        width: 260px; 
+        right: 40px; 
+    }
+    
+    .containerMain .intro h1 {
+        font-size: 2.0rem;
+        padding-top: 30px;
+    }
+    
+    .containerMain .intro p {
+        font-size: 0.9rem;
+    }
+    
+    #oneipad {
+        width: 320px;
+        right: 20px; 
+
+    }
+    
+    .caseStudyContainer {
+        padding-left: 40px;
+    }
+    
+    .containerMain .caseStudy {
+        padding-top: 40px;
+        padding-bottom: 20px;
+        min-height: 320px;
+    }
+    
+    .containerMain .caseStudy h2 {
+        font-size: 1.3rem;
+        line-height: 30px;
+    }
+    
+    .containerMain .caseStudy.one p span {
+        font-size: 0.75rem;
+    }
+    
+    .containerMain .caseStudy.two p span {
+        font-size: 0.75rem;
+    }
+    
+    .containerMain .caseStudy.three p span {
+        font-size: 0.75rem;
+    }
+    
+    .containerMain .caseStudy.four p span {
+        font-size: 0.75rem;
+    }
+    
+    #twomacbook {
+        width: 370px;
+    }
+    
+    #threeiphone {
+        width: 250px;
+    }
+    
+    .caseStudyContainer {
+        width: 45%;
+    }
+    
+    .containerMain .caseStudy a {
+        font-size: 0.9rem;
+    }
+    
+    .caseStudyContainer2 {
+        width: 42%;
+    }
+    
+    #threeiphone {
+        width: 260px;
+    }
+    
+    #threeiphone {
+        right: 45px;
+    }
+    
+    #fourimac {
+        width: 330px;    
+    }
+    
+    #copyright {
+        font-size: 0.9rem;
+    }
+    
+}
+
+/* phone styles and ipad mini */
+@media only screen and (min-device-width: 0px) and (max-device-width: 767px) {
+    .containerMain .caseStudy.two .slideIn {
+        margin-left: 0px !important;
+        transition: 1s;
+    }
+    
+    .containerMain .caseStudy.four .slideIn {
+        margin-left: 0px !important;
+        transition: 1s;
+    }
+    
+    .accordion_body p {
+        font-size: 0.9rem;
+    }
+    
+    .accordion_head {
+        font-size: 0.9rem;
+        padding-right: 30px;
+    }
+    
+    .plusminus {
+        margin-right: -30px;
+    }
+    
+    .containerMain .caseStudy.three .slideIn {
+        margin-bottom: 0px !important;
+        transition: 1s;
+    }
+    
+    #copyright {
+        font-size: 0.9rem;
+    }
+    
+    .userfeedback {
+        font-size: 0.9rem;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    .containerMain .caseStudy h2 {
+        font-size: 1.2rem !important;
+    }
+    
+    .containerMain .faqs h2 {
+        font-size: 2.0rem;
+    }
+    
+    .containerContent p {
+        font-size: 0.9rem;
+    }
+    
+    .accordion_body p {
+        font-size: 0.9rem;
+    }
+    
+    .containerMain {
+        max-width: 95%;
+    }
+    
+    .containerMain .caseStudy p {
+        margin-top: 0;
+    }
+    
+    .caseStudyContainer {
+        float: none;
+        width: 100%;
+        padding-left: 0px;
+    }
+    
+    .containerMain .intro {
+        width: 95%;
+    }
+    
+    #oneipad {
+        width: 84%;
+        right: 15px;
+        margin-left: -30px;
+        transition: 2s;
+    }
+    
+    .containerMain .caseStudy {
+        padding-top: 20px;
+    }
+    
+    .containerMain .caseStudy.one p span {
+        font-size: 0.75rem;
+        margin: 5px;
+    }
+    
+    .containerMain .caseStudy.two p span {
+        font-size: 0.75rem;
+    }
+    
+    .containerMain .caseStudy.three p span {
+        font-size: 0.75rem;
+    }
+    
+    .containerMain .caseStudy.four p span {
+        font-size: 0.75rem;
+    }
+    
+    .containerMain .caseStudy h2 {
+        font-size: 1.3rem;
+        margin: 20px;
+        line-height: 41px;
+        text-align: center;
+    }
+    
+    .containerMain .caseStudy .casestudypills {
+        text-align: center;
+    }
+    
+    .containerMain .caseStudy.one {
+        min-height: 500px;
+    }
+    
+    .containerMain .caseStudy.two {
+        min-height: 440px;
+    }
+    
+    .containerMain .caseStudy.three {
+        min-height: 460px;
+    }
+    
+    .containerMain .caseStudy.four {
+        min-height: 460px;
+    }
+    
+    .containerMain .caseStudy a {
+        font-size: 0.9rem;
+    }
+    
+    .containerMain .caseStudy a span {
+        text-align: center;
+    }
+    
+    .casestudylink {
+        text-align: center;
+    }
+    
+    li a {
+        font-size: 0.9rem;
+        padding: 10px 15px;
+    }
+    
+    .containerMain .intro h1 {
+        font-size: 2rem;
+        padding-top: 30px;
+    }
+    
+    .containerMain .intro p {
+        font-size: 0.9rem;
+        padding-bottom: 20px;
+    }
+    
+    .containerMain .caseStudy.one:hover #oneipad {
+        margin-bottom: -30px;
+    }
+    
+    .containerMain .caseStudy.three:hover #threeiphone {
+        margin-bottom: -30px;
+    }
+    
+    .containerMain .caseStudy.four:hover #fourimac {
+        margin-left: -30px;
+    }
+    
+    .caseStudyContainer2 {
+        width: 100%;
+        float: none;
+        padding-right: 0px;
+    }
+    
+    #twomacbook {
+        width: 101%;
+        position: absolute;
+        left: 0px;
+        bottom: 0;
+        margin-left: -30px;
+        transition: 1s;
+    }
+    
+    #threeiphone {
+        width: 260px;
+        left: 0; 
+        right: 0; 
+        margin-left: auto; 
+        margin-right: auto;
+        margin-bottom: -30px;
+        transition: 1s;
+    }
+    
+    .containerMain .caseStudy.two:hover #twomacbook {
+        margin-left: -30px;
+    }
+    
+    #fourimac {
+        width: 335px;
+        margin-left: -30px;
+        transition: 1s;
+    }
+    
+    .fade {
+        opacity: 0;
+    }
+    
+    .trippleGrid {
+        float: none; 
+        width: 100%;
+    }
+    
+    .trippleGridTitle {
+        font-size: 0.9rem;
+    }
+
+    .trippleGridText {
+        font-size: 0.9rem;
+        padding-bottom: 0px;
+    }
+    
+}
+    
+    

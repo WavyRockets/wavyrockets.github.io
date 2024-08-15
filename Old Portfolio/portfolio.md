@@ -29,9 +29,9 @@ title: "Portfolio"
                 <img src="/assets/img/icons/puzzle.svg" class="svgStyle" alt="Design Systems">
             </a>
             <h4>
-                <a href="/2024-01-25-redesign-case-study/">Giki Zero</a>
+                <a href="/2024-02-02-redesign-case-study/">Giki Zero #2</a>
             </h4>
-            <p class="dateStyle">18 October 2023</p>
+            <p class="dateStyle">02 February 2024</p>
         </section>
     </summary>
         <img class="puzzleIcon blackright" src="/assets/img/puzzle/blackright.png">        
@@ -48,9 +48,9 @@ title: "Portfolio"
                     <img src="/assets/img/icons/puzzle.svg" class="svgStyle" alt="Wireframing">
                 </a>
                 <h4>
-                    <a href="/2021-12-28-product-owner-case-study">Boost Test Planner</a>
+                    <a href="/2021-12-28-product-owner-case-study">Giki Zero #1</a>
                 </h4>
-                <p class="dateStyle">28 December 2021</p>
+                <p class="dateStyle">18 October 2023</p>
             </section>
         </summary>
         <img class="puzzleIcon blackright" src="/assets/img/puzzle/blackright.png">        
@@ -60,5 +60,27 @@ title: "Portfolio"
         <img class="puzzleIcon whiteleft" src="/assets/img/puzzle/whiteleft.png"> 
         <img class="puzzleIcon whiteright" src="/assets/img/puzzle/whiteright.png"> 
     </div>
+    <div class="puzzleGrid">
+        <summary class="article">
+            <section class="article-summary-header">
+                 <a href="/2021-12-28-product-owner-case-study">
+                    <img src="/assets/img/icons/puzzle.svg" class="svgStyle" alt="Wireframing">
+                </a>
+                <h4>
+                    <a href="/2021-12-28-product-owner-case-study">Boost Test Planner</a>
+                </h4>
+                <p class="dateStyle">28 December 2021</p>
+            </section>
+        </summary>
+
+
+            
+            <img class="puzzleIcon blackright" src="../assets/img/puzzle/blackright.png">        
+            <img class="puzzleIcon blackdown" src="../assets/img/puzzle/blackdown.png">        
+            <img class="puzzleIcon whitedown" src="../assets/img/puzzle/whitedown.png"> 
+            <img class="puzzleIcon whiteup" src="../assets/img/puzzle/whiteup.png">        
+            <img class="puzzleIcon whiteleft" src="../assets/img/puzzle/whiteleft.png"> 
+            <img class="puzzleIcon whiteright" src="../assets/img/puzzle/whiteright.png"> 
+        </div>
 </section>
 <div style="clear:both; margin-bottom:40px;"></div>

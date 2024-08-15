@@ -1,5 +1,5 @@
 ---
-title: "Case Study #2 (Problem Solving)"
+title: "Case Study #3 (Problem Solving)"
 date: 2023-10-18 14:52:00:00 +00:00
 author: Scott
 layout: post
@@ -10,13 +10,9 @@ tags: casestudy, testing, design
 
 <h2>Summary</h2>
 
-Giki Zero is an employee engagement platform that allows staff to calculate their individual carbon footprint and take sustainable steps to lower it. Often, challenges are run where users can compete to see who can take the most steps. Below is an example of one of the many design solutions I was responsible for implementing on this product.
+Giki Zero is an employee engagement platform that uses steps for lowering your carbon footprint to encourage engagement within organizations. A step's status can be categorised as either Trying, Already do this, or Not Applicable. These allow users to accurately track their progress on the platform.
 
-<img src="/assets/img/jointeams.png"/>
-
-Previously, the only way to join a team was through the Join Teams page which users would often ignore. To try and resolve this, Giki introduced a ‘compulsory teams’ setting that would force a user onto the Join Teams page where a user would then need to select their team before they could access any other Pro functionality on the platform. The problem here was that users would often join the wrong team or none at all and then stop engaging with the platform altogether. They had also tested various ideas such as introducing this during the onboarding process or as a pop up which all failed to solve the problem. This was identified through the complaints of admin users and backed up by data. 
-
-I was tasked to resolve this issue and to find a way that would get users into the correct team without interfering with the users engagement.
+While competitions are a common feature on the Giki Zero platform, there has long been a problem with cheating. This occurs in a number of ways but most commonly when users take on more steps than are realistically achieveable. This is most frequently reported by organizations themselves, particuarly when a prize is offered outside of the product for the user that commits to the most steps.
 
 <div class="imgblock">
     <img src="/assets/img/finisheddesigns.png"/>
@@ -25,45 +21,38 @@ I was tasked to resolve this issue and to find a way that would get users into t
 
 <h2>Problem Statement</h2> 
 
-As an organisation, I want users sorted into their correct teams because they currently aren’t joining when prompted.
+As an organisation, I want measures to be taken that will make it harder for users to cheat during a competition.
 
 <h2>Approach</h2>
 
-My first task was to break down the problem statement into the different issues that would need to be solved as part of this project. This required defining the type of users that were likely to be impacted by this problem, developing user personas with the needs and requirements of each.
+My first task was to meet with the engineering team in order to brainstorm the different solutions that were technically possible on the platform. From this session we idenfied 5 possible solutions of different levels of difficulty: 
 
-* How can we ensure new users join the correct team when signing up?
-* How can we ensure existing users are sorted into the correct team after already signing up?
-* How can we ensure the engagement of all users isn’t impacted by the changes made?
-* How can we ensure all types of users join the correct teams?
+• Create a hard time limit custom to each step that will prevent the user completing a step currently in progress until the set time has passed
+• Create a soft time limit custom to each step that will alert the user they are completing the step too quickly and recommend assiging a step status of 'Already do this'
+• Implement a step count that would prevent users from completing more than a certain amount of steps per day
+• Implement a rule that would prevent users from having too many steps in progress at the one time
+• Implement a feature that would allow admin users to flag suspicious activity that would remove the account from the competition leaderboards until further notice
 
-My next task was to carry out market research on platforms that have similar functionality. This led me to discover that, in the vast majority of cases, the assignment of teams is the responsibility of an admin user and not the user themselves which played a large role in changing the spec. 
-
-By updating the problem statement, I was able to establish control over the team assignment, as well as keeping with the original requirements by not interfering with user engagement and simplifying the problem breakdown: 
-
-* How can we give an admin user the ability to assign a new user to a team?
-* How can we give an admin user the ability to assign existing users to a team?
+My next task was to identify all the different areas likely to be affected by each solution and how these would impact the different types of users. From here, I was able to create wireframes for the different ideas that were initially presented to the Product Owner and Head of Product explaining the user flow and level of difficulty for each of the solutions. After providing feedback, we then identified the best solutions to take forward to the organizations by performing a risk and reward assessment to measure the impact and effort required.
 
 <div class="imgblock">
-    <img src="/assets/img/userflowall.png"/>
-    The Giki Zero user flow diagram for the product
-</div>
-
-In order to assign new users to a team, I reviewed the user flow to establish the best place for these updates to feature and referred to the engineering team to find out any limitations before testing wireframe concepts with existing admin users where users would be assigned a team at the invitation stage. I also tested ways for admin users to edit and assign teams to existing users before settling on the agreed solution below:
-
-<div class="imgblock">
-    <img src="/assets/img/wireframecasestudy.png"/>
+    <img src="/assets/img/wireframecheating.png"/>
     A visual representation of the high-fidelity wireframe concepts we used for testing 
 </div>
 
-Some of the feedback we recieved from test users proved very useful leading me to implement search functionality within the teams dropdown menus. It also pointed out that pagination limited the ability to filter only 10 unassigned users at a time which led to me implementing a filter to increase or decrease the pagination limit.
+After organizations provided feedback on the presented solutions, this was implemented and tested before UI designs were created.
+
+<h2>Timescale</h2>
+
+Brainstorming solutions: 1 day
+Research and initial wireframing: 2 weeks 
+Gathering and implementing feedback: 2 weeks
+Risk and reward assessment: 1 day
+UI designs: 1 week
 
 <h2>Results</h2>
 
-After implementing the signed off designs there was a significant decrease in the number of users not assigned to a team and team related complaints dropped from several times per month to zero. Client satisfaction also improved and a new potential sales opportunity was identified in which team specific challenges could now be integrated. This would allow Giki to sell challenges to individual teams within an organisation. For me the most interesting part of this experience was the research phase and learning to think outside the box and see the problem from a new perspective. 
-
-<div class="gifblock">
-    <img src="/assets/img/casestudy.gif" class="gif"/>
-</div>
+[...]
 
 <style>
 .lb-album{

@@ -1,5 +1,5 @@
 ---
-title: "Case Study #3 (New Product)"
+title: "Case Study #4 (New Product)"
 date: 2024-03-15 14:52:00:00 +00:00
 author: Scott
 layout: post
@@ -40,6 +40,15 @@ The next step was to review existing admin tools and survey best practices such 
 </div>
 
 After determining the high and low priority areas of functionality for the MVP, we were able to test various wireframe solutions and mock up a UI prototype in order to test the different use cases.
+
+<h2>Timescale</h2>
+
+Research: 1 month
+User personas: 1 day
+User flow: 1 week
+Wireframes: 2 weeks
+Gathering and implementing feedback: 2 weeks
+UI Designs: 1 week 
 
 <h2>Results</h2>
 
