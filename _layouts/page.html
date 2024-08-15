@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /about
+---
+<main class="mainStyle about">
+<article>
+  {% if page.title.size > 0 %}
+  <section class="page-header">
+    <h1 class="subHeader">
+      {{ page.title }}
+    </h1>
+  </section>
+  {% endif %}
+  
+  {{ content }}
+</article>
+</main>

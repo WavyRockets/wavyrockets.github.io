@@ -1,0 +1,50 @@
+deep-fried:
+  src: /assets/img/icons/deep-fried.png
+  
+puzzle:
+  src: /assets/img/icons/puzzle.svg
+  
+monitor:
+  src: /assets/img/icons/monitor.svg
+  
+library:
+  src: /assets/img/icons/library.svg
+  
+search:
+  src: /assets/img/icons/search.svg
+  
+gears:
+  src: /assets/img/icons/gears.svg
+  
+bone:
+  src: /assets/img/icons/bone.svg
+  
+pencil:
+  src: /assets/img/icons/pencil.svg
+  
+graduation:
+  src: /assets/img/icons/graduation.svg
+  
+thumb:
+  src: /assets/img/icons/thumb.svg
+  
+userflow:
+  src: /assets/img/icons/userflow.svg
+  
+system:
+  src: /assets/img/icons/system.svg
+  
+designer:
+  src: /assets/img/icons/designer.svg
+   
+form:
+  src: /assets/img/icons/form.svg
+  
+persona:
+  src: /assets/img/icons/persona.svg
+    
+accessibility:
+  src: /assets/img/icons/accessibility.svg
+    
+
+  

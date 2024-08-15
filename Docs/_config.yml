@@ -1,0 +1,106 @@
+# Site settings
+baseurl: ''
+url: 'www.ScottMcLintock.com'
+title: 'ScottMcLintock.com'
+description: 'Product design blog and portfolio'
+author: 'Scott McLintock'
+
+# Build settings
+permalink: /:year/:month/:day/:title/
+plugins: [ jekyll-sitemap, jekyll-feed, jekyll-seo-tag ]
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  style: compressed
+
+# Stylesheets
+stylesheets:
+  - '/css/stylesheet.css'
+  - '/css/syntax.css'
+
+# Google Analytics
+google-analytics:
+  enabled: false
+  id: ''
+
+# The primary language used by the website
+language: 'en'
+
+# Favicon and icons for iOS, Android
+# These should ideally be located in the root directory
+apple-touch-icon: '/apple-touch-icon.png'
+favicon-32: '/favicon-32x32.png'
+favicon-16: '/favicon-16x16.png'
+site-manifest: '/site.webmanifest'
+
+# The logo motif
+logo-motif:
+  enabled: true
+  src: ''
+  width: '135'
+  height: '90'
+
+# The logo title
+logo-title:
+  enabled: true
+
+# Header menu
+header-menu:
+- { name: 'Home', url: '/' }
+- { name: 'About', url: '/about' }
+- { name: 'Articles', url: '/articles' }
+- { name: 'Portfolio', url: '/portfolio' }
+
+# Footer menu
+footer-menu:
+- { name: 'Home', url: '/' }
+- { name: 'About', url: '/about' }
+- { name: 'Articles', url: '/articles' }
+- { name: 'Portfolio', url: '/portfolio' }
+
+# Homepage
+homepage:
+  intro-text: '<span>Scott McLintock</span> is a <span>Product Designer</span> based in Glasgow, Scotland with over ten years experience conceptualising, designing and testing digital products.'
+  intro-image: 'face_icon.png'
+  latest-articles-enabled: true
+  latest-articles-title-text: 'Latest Articles'
+  latest-articles-link-enabled: true
+  latest-articles-link-url: '/articles'
+  latest-articles-link-text: 'View all articles'
+
+# Articles
+articles:
+  header-text: 'All Articles'
+  excerpt-enabled: true
+  read-more-enabled: true
+  read-more-text: 'Read more'
+ 
+# Navigaition
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Articles
+    url: /articles/
+  - title: Portfolio
+    url: /portfolio/
+
+# Post Icons
+icons:
+  enabled: true
+
+# Related posts (only works if you use tags)
+related-posts:
+  enabled: true
+  header-text: 'More articles like this...'
+  limit: 3
+  no-related-articles-text: 'We couldn''t find any similar articles!'
+
+# Written on (post info displayed underneath the H1)
+written-on:
+  enabled: true
+  by-text: 'By'
+  on-text: 'on'
