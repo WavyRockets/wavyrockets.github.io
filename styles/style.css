@@ -22,7 +22,6 @@
     width: 33%;
 }
 
-
 .casestudyimage {
     width: 100% !important;
     margin-top: 30px;
@@ -879,6 +878,10 @@ li a:hover {
         width: 335px;
         margin-left: -30px;
         transition: 1s;
+    }
+    
+    .userfeedback.second {
+        display: none;
     }
     
     .fade {
