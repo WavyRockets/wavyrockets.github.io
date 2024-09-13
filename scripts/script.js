@@ -13,6 +13,9 @@ $(document).ready(function () {
         $('.one').fadeIn(1000).removeClass('hidden');
     }, 900)
     setTimeout(function () {
+        $('.two').fadeIn(1000).removeClass('hidden');
+    }, 900)
+    setTimeout(function () {
         $('.containerContent').fadeIn(1000).removeClass('hidden');
     }, 900)
     setTimeout(function () {
