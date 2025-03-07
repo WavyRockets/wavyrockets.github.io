@@ -1,0 +1,18 @@
+<footer>
+    <main>
+        <div class="clearfix"></div>
+        <div class="halfDiv">
+              <small><em>© ScottMcLintock {{ 'now' | date: "%Y" }} </em></small>
+        </div>
+        <div class="halfDiv">
+              <nav>
+                <ul>
+                    {% for item in site.footer-menu %}
+                    <li><small><a href="{{ item.url }}">{{ item.name }}</a></small></li>
+                    {% endfor %}
+                </ul>
+              </nav>
+        </div>
+        <div class="clearfix"></div>
+    </main>
+</footer>        

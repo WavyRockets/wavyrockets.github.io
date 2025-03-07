@@ -1,0 +1,55 @@
+---
+layout: default
+permalink: /
+---
+<main class="mainStyle">
+<article>
+    {% if site.homepage.intro-image.size > 0 %}
+    {% endif %}
+    <section class="page-header">
+    
+    </section>
+    {% if site.homepage.intro-text.size > 0 or site.homepage.intro-image.size > 0 %}
+    <section class="text-center introText">
+        {% if site.homepage.intro-text.size > 0 %}
+        <p>{{ site.homepage.intro-text }}</p>
+        {% endif %}
+    </section>
+    {% endif %}
+    {% if site.homepage.latest-articles-enabled %}
+    {% if site.homepage.latest-articles-title-text.size > 0 %}
+    <section class="text-center top-bumper bottom-bumper">
+        <h4>{{ site.homepage.latest-articles-title-text }}</h4>
+    </section>
+    {% endif %}
+    <section class="puzzleContainer home">
+    {% for post in site.posts limit:6 %}
+        <div class="puzzleGrid">
+        {%
+            include article-summary.html
+            url=post.url
+            title=post.title
+            date=post.date
+            icon=post.icon
+            author=post.author
+            excerpt=post.excerpt
+        %}
+            
+            <img class="puzzleIcon blackright" src="../assets/img/puzzle/blackright.png" />        
+            <img class="puzzleIcon blackdown" src="../assets/img/puzzle/blackdown.png" />        
+            <img class="puzzleIcon whitedown" src="../assets/img/puzzle/whitedown.png" /> 
+            <img class="puzzleIcon whiteup" src="../assets/img/puzzle/whiteup.png" />        
+            <img class="puzzleIcon whiteleft" src="../assets/img/puzzle/whiteleft.png" /> 
+            <img class="puzzleIcon whiteright" src="../assets/img/puzzle/whiteright.png" /> 
+        </div>
+    {% endfor %}
+    </section>
+    <div class="clearfix"></div>
+    {% if site.homepage.latest-articles-link-enabled and site.homepage.latest-articles-link-url.size > 0 and site.homepage.latest-articles-link-text.size > 0 %}
+    <section class="text-center top-bumper moreArticlesContainer">
+        <a class="moreArticles" href="{{ site.baseurl }}{{ site.homepage.latest-articles-link-url }}">{{ site.homepage.latest-articles-link-text }}</a>
+    </section>
+    {% endif %}
+    {% endif %}
+</article>
+</main>
